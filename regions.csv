@@ -2830,4 +2830,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 2829,2020-08-20,Peloponnese,GR-J,270,0,0,0,0
 2830,2020-08-20,"Central Greece",GR-H,153,0,0,0,0
 2831,2020-08-20,"Under Investigation",GR-U,464,29,0,0,0
-2832,2020-08-20,"Without permanent residency in Greece",GR-W,626,0,0,0,0
+2832,2020-08-20,"Without permanent residency in Greece",GR-W,626,1,0,0,0
