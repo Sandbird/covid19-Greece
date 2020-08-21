@@ -2831,19 +2831,3 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 2830,2020-08-20,"Central Greece",GR-H,153,0,0,0,0
 2831,2020-08-20,"Under Investigation",GR-U,464,29,0,0,0
 2832,2020-08-20,"Without permanent residency in Greece",GR-W,626,1,0,0,0
-2833,2020-08-21,"Mount Athos",GR-69,0,0,0,0,0
-2834,2020-08-21,"Eastern Macedonia and Thrace",GR-A,0,28,0,0,0
-2835,2020-08-21,Attica,GR-I,0,93,0,0,0
-2836,2020-08-21,"North Aegean",GR-K,0,2,0,0,0
-2837,2020-08-21,"Western Greece",GR-G,0,8,0,0,0
-2838,2020-08-21,"Western Macedonia",GR-C,0,31,0,0,0
-2839,2020-08-21,Epirus,GR-D,0,1,0,0,0
-2840,2020-08-21,Thessaly,GR-E,0,4,0,0,0
-2841,2020-08-21,"Ionian Islands",GR-F,0,2,0,0,0
-2842,2020-08-21,"Central Macedonia",GR-B,0,38,0,0,0
-2843,2020-08-21,Crete,GR-M,0,1,0,0,0
-2844,2020-08-21,"South Aegean",GR-L,0,0,0,0,0
-2845,2020-08-21,Peloponnese,GR-J,0,0,0,0,0
-2846,2020-08-21,"Central Greece",GR-H,0,0,0,0,0
-2847,2020-08-21,"Under Investigation",GR-U,0,29,0,0,0
-2848,2020-08-21,"Without permanent residency in Greece",GR-W,0,1,0,0,0
