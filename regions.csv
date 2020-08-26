@@ -2909,5 +2909,5 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 2908,2020-08-25,"South Aegean",GR-L,286,0,0,0,0
 2909,2020-08-25,Peloponnese,GR-J,282,0,0,0,0
 2910,2020-08-25,"Central Greece",GR-H,172,0,0,0,0
-2911,2020-08-25,"Under Investigation",GR-U,172,29,0,0,0
+2911,2020-08-25,"Under Investigation",GR-U,172,30,0,0,0
 2912,2020-08-25,"Without permanent residency in Greece",GR-W,707,1,0,0,0
