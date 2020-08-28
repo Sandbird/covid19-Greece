@@ -2945,17 +2945,17 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 2944,2020-08-27,"Without permanent residency in Greece",GR-W,722,1,0,0,0
 2945,2020-08-28,"Mount Athos",GR-69,4,0,0,0,0
 2946,2020-08-28,"Eastern Macedonia and Thrace",GR-A,760,29,0,0,0
-2947,2020-08-28,Attica,GR-I,3643,99,0,0,0
+2947,2020-08-28,Attica,GR-I,3643,97,0,0,0
 2948,2020-08-28,"North Aegean",GR-K,154,3,0,0,0
 2949,2020-08-28,"Western Greece",GR-G,155,8,0,0,0
 2950,2020-08-28,"Western Macedonia",GR-C,321,32,0,0,0
 2951,2020-08-28,Epirus,GR-D,82,1,0,0,0
 2952,2020-08-28,Thessaly,GR-E,482,4,0,0,0
 2953,2020-08-28,"Ionian Islands",GR-F,199,2,0,0,0
-2954,2020-08-28,"Central Macedonia",GR-B,1922,50,0,0,0
+2954,2020-08-28,"Central Macedonia",GR-B,1922,49,0,0,0
 2955,2020-08-28,Crete,GR-M,242,1,0,0,0
 2956,2020-08-28,"South Aegean",GR-L,326,0,0,0,0
 2957,2020-08-28,Peloponnese,GR-J,293,0,0,0,0
 2958,2020-08-28,"Central Greece",GR-H,179,0,0,0,0
-2959,2020-08-28,"Under Investigation",GR-U,273,29,0,0,0
+2959,2020-08-28,"Under Investigation",GR-U,273,32,0,0,0
 2960,2020-08-28,"Without permanent residency in Greece",GR-W,765,1,0,0,0
