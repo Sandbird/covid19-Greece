@@ -3001,7 +3001,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3000,2020-08-31,Thessaly,GR-E,499,5,0,0,0
 3001,2020-08-31,"Ionian Islands",GR-F,209,2,0,0,0
 3002,2020-08-31,"Central Macedonia",GR-B,2028,54,0,0,0
-3003,2020-08-31,Crete,GR-M,279,1,0,0,0
+3003,2020-08-31,Crete,GR-M,279,2,0,0,0
 3004,2020-08-31,"South Aegean",GR-L,357,0,0,0,0
 3005,2020-08-31,Peloponnese,GR-J,293,0,0,0,0
 3006,2020-08-31,"Central Greece",GR-H,183,0,0,0,0
