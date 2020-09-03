@@ -3039,3 +3039,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3038,2020-09-02,"Central Greece",GR-H,187,0,0,0,0
 3039,2020-09-02,"Under Investigation",GR-U,443,29,0,0,0
 3040,2020-09-02,"Without permanent residency in Greece",GR-W,848,1,0,0,0
+3041,2020-09-03,"Mount Athos",GR-69,0,0,0,0,0
+3042,2020-09-03,"Eastern Macedonia and Thrace",GR-A,0,30,0,0,0
+3043,2020-09-03,Attica,GR-I,0,103,0,0,0
+3044,2020-09-03,"North Aegean",GR-K,0,7,0,0,0
+3045,2020-09-03,"Western Greece",GR-G,0,8,0,0,0
+3046,2020-09-03,"Western Macedonia",GR-C,0,32,0,0,0
+3047,2020-09-03,Epirus,GR-D,0,1,0,0,0
+3048,2020-09-03,Thessaly,GR-E,0,5,0,0,0
+3049,2020-09-03,"Ionian Islands",GR-F,0,2,0,0,0
+3050,2020-09-03,"Central Macedonia",GR-B,0,58,0,0,0
+3051,2020-09-03,Crete,GR-M,0,2,0,0,0
+3052,2020-09-03,"South Aegean",GR-L,0,0,0,0,0
+3053,2020-09-03,Peloponnese,GR-J,0,0,0,0,0
+3054,2020-09-03,"Central Greece",GR-H,0,0,0,0,0
+3055,2020-09-03,"Under Investigation",GR-U,0,29,0,0,0
+3056,2020-09-03,"Without permanent residency in Greece",GR-W,0,1,0,0,0
