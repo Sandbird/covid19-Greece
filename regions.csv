@@ -3085,5 +3085,5 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3084,2020-09-05,"South Aegean",GR-L,383,0,0,0,0
 3085,2020-09-05,Peloponnese,GR-J,317,0,0,0,0
 3086,2020-09-05,"Central Greece",GR-H,203,0,0,0,0
-3087,2020-09-05,"Under Investigation",GR-U,206,29,0,0,0
+3087,2020-09-05,"Under Investigation",GR-U,392,29,0,0,0
 3088,2020-09-05,"Without permanent residency in Greece",GR-W,917,1,0,0,0
