@@ -3103,3 +3103,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3102,2020-09-06,"Central Greece",GR-H,214,0,0,0,0
 3103,2020-09-06,"Under Investigation",GR-U,142,30,0,0,0
 3104,2020-09-06,"Without permanent residency in Greece",GR-W,949,1,0,0,0
+3105,2020-09-07,"Mount Athos",GR-69,4,0,0,0,0
+3106,2020-09-07,"Eastern Macedonia and Thrace",GR-A,794,0,0,0,0
+3107,2020-09-07,Attica,GR-I,4565,0,0,0,0
+3108,2020-09-07,"North Aegean",GR-K,207,0,0,0,0
+3109,2020-09-07,"Western Greece",GR-G,179,0,0,0,0
+3110,2020-09-07,"Western Macedonia",GR-C,386,0,0,0,0
+3111,2020-09-07,Epirus,GR-D,119,0,0,0,0
+3112,2020-09-07,Thessaly,GR-E,535,0,0,0,0
+3113,2020-09-07,"Ionian Islands",GR-F,239,0,0,0,0
+3114,2020-09-07,"Central Macedonia",GR-B,2333,0,0,0,0
+3115,2020-09-07,Crete,GR-M,388,0,0,0,0
+3116,2020-09-07,"South Aegean",GR-L,424,0,0,0,0
+3117,2020-09-07,Peloponnese,GR-J,327,0,0,0,0
+3118,2020-09-07,"Central Greece",GR-H,227,0,0,0,0
+3119,2020-09-07,"Under Investigation",GR-U,8,0,0,0,0
+3120,2020-09-07,"Without permanent residency in Greece",GR-W,928,0,0,0,0
