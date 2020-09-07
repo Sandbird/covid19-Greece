@@ -3089,7 +3089,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3088,2020-09-05,"Without permanent residency in Greece",GR-W,949,1,0,0,0
 3089,2020-09-06,"Mount Athos",GR-69,4,0,0,0,0
 3090,2020-09-06,"Eastern Macedonia and Thrace",GR-A,797,29,0,0,0
-3091,2020-09-06,Attica,GR-I,4431,104,0,0,0
+3091,2020-09-06,Attica,GR-I,4431,105,0,0,0
 3092,2020-09-06,"North Aegean",GR-K,201,8,0,0,0
 3093,2020-09-06,"Western Greece",GR-G,173,8,0,0,0
 3094,2020-09-06,"Western Macedonia",GR-C,374,32,0,0,0
