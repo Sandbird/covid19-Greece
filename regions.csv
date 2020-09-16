@@ -3256,7 +3256,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3255,2020-09-16,Epirus,GR-D,142,2,0,0,0
 3256,2020-09-16,Thessaly,GR-E,603,6,0,0,0
 3257,2020-09-16,"Ionian Islands",GR-F,275,3,0,0,0
-3258,2020-09-16,"Central Macedonia",GR-B,2759,71,0,0,0
+3258,2020-09-16,"Central Macedonia",GR-B,2759,72,0,0,0
 3259,2020-09-16,Crete,GR-M,465,2,0,0,0
 3260,2020-09-16,"South Aegean",GR-L,475,0,0,0,0
 3261,2020-09-16,Peloponnese,GR-J,339,0,0,0,0
