@@ -3279,3 +3279,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3278,2020-09-17,"Central Greece",GR-H,285,0,0,0,0
 3279,2020-09-17,"Under Investigation",GR-U,678,34,0,0,0
 3280,2020-09-17,"Without permanent residency in Greece",GR-W,1060,1,0,0,0
+3281,2020-09-18,"Mount Athos",GR-69,4,0,0,0,0
+3282,2020-09-18,"Eastern Macedonia and Thrace",GR-A,812,0,0,0,0
+3283,2020-09-18,Attica,GR-I,5579,0,0,0,0
+3284,2020-09-18,"North Aegean",GR-K,290,0,0,0,0
+3285,2020-09-18,"Western Greece",GR-G,190,0,0,0,0
+3286,2020-09-18,"Western Macedonia",GR-C,444,0,0,0,0
+3287,2020-09-18,Epirus,GR-D,142,0,0,0,0
+3288,2020-09-18,Thessaly,GR-E,603,0,0,0,0
+3289,2020-09-18,"Ionian Islands",GR-F,275,0,0,0,0
+3290,2020-09-18,"Central Macedonia",GR-B,2759,0,0,0,0
+3291,2020-09-18,Crete,GR-M,465,0,0,0,0
+3292,2020-09-18,"South Aegean",GR-L,475,0,0,0,0
+3293,2020-09-18,Peloponnese,GR-J,339,0,0,0,0
+3294,2020-09-18,"Central Greece",GR-H,285,0,0,0,0
+3295,2020-09-18,"Under Investigation",GR-U,1016,0,0,0,0
+3296,2020-09-18,"Without permanent residency in Greece",GR-W,1060,0,0,0,0
