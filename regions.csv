@@ -3341,5 +3341,5 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3340,2020-09-21,"South Aegean",GR-L,475,0,0,0,0
 3341,2020-09-21,Peloponnese,GR-J,339,0,0,0,0
 3342,2020-09-21,"Central Greece",GR-H,285,0,0,0,0
-3343,2020-09-21,"Under Investigation",GR-U,1420,0,0,0,0
+3343,2020-09-21,"Under Investigation",GR-U,1873,0,0,0,0
 3344,2020-09-21,"Without permanent residency in Greece",GR-W,1060,0,0,0,0
