@@ -3334,7 +3334,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3333,2020-09-21,"Western Greece",GR-G,190,8,0,0,0
 3334,2020-09-21,"Western Macedonia",GR-C,444,35,0,0,0
 3335,2020-09-21,Epirus,GR-D,142,2,0,0,0
-3336,2020-09-21,Thessaly,GR-E,603,6,0,0,0
+3336,2020-09-21,Thessaly,GR-E,603,7,0,0,0
 3337,2020-09-21,"Ionian Islands",GR-F,275,3,0,0,0
 3338,2020-09-21,"Central Macedonia",GR-B,2759,76,0,0,0
 3339,2020-09-21,Crete,GR-M,465,3,0,0,0
