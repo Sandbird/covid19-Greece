@@ -3343,3 +3343,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3342,2020-09-21,"Central Greece",GR-H,285,0,0,0,0
 3343,2020-09-21,"Under Investigation",GR-U,1873,36,0,0,0
 3344,2020-09-21,"Without permanent residency in Greece",GR-W,1060,1,0,0,0
+3345,2020-09-22,"Mount Athos",GR-69,4,0,0,0,0
+3346,2020-09-22,"Eastern Macedonia and Thrace",GR-A,812,0,0,0,0
+3347,2020-09-22,Attica,GR-I,5579,0,0,0,0
+3348,2020-09-22,"North Aegean",GR-K,290,0,0,0,0
+3349,2020-09-22,"Western Greece",GR-G,190,0,0,0,0
+3350,2020-09-22,"Western Macedonia",GR-C,444,0,0,0,0
+3351,2020-09-22,Epirus,GR-D,142,0,0,0,0
+3352,2020-09-22,Thessaly,GR-E,603,0,0,0,0
+3353,2020-09-22,"Ionian Islands",GR-F,275,0,0,0,0
+3354,2020-09-22,"Central Macedonia",GR-B,2759,0,0,0,0
+3355,2020-09-22,Crete,GR-M,465,0,0,0,0
+3356,2020-09-22,"South Aegean",GR-L,475,0,0,0,0
+3357,2020-09-22,Peloponnese,GR-J,339,0,0,0,0
+3358,2020-09-22,"Central Greece",GR-H,285,0,0,0,0
+3359,2020-09-22,"Under Investigation",GR-U,2206,0,0,0,0
+3360,2020-09-22,"Without permanent residency in Greece",GR-W,1060,0,0,0,0
