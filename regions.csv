@@ -3375,19 +3375,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3374,2020-09-23,"Central Greece",GR-H,285,0,0,0,0
 3375,2020-09-23,"Under Investigation",GR-U,2564,38,0,0,0
 3376,2020-09-23,"Without permanent residency in Greece",GR-W,1060,1,0,0,0
-3377,2020-09-24,"Mount Athos",GR-69,0,0,0,0,0
-3378,2020-09-24,"Eastern Macedonia and Thrace",GR-A,0,34,0,0,0
-3379,2020-09-24,Attica,GR-I,0,142,0,0,0
-3380,2020-09-24,"North Aegean",GR-K,0,11,0,0,0
-3381,2020-09-24,"Western Greece",GR-G,0,9,0,0,0
-3382,2020-09-24,"Western Macedonia",GR-C,0,35,0,0,0
-3383,2020-09-24,Epirus,GR-D,0,2,0,0,0
-3384,2020-09-24,Thessaly,GR-E,0,9,0,0,0
-3385,2020-09-24,"Ionian Islands",GR-F,0,3,0,0,0
-3386,2020-09-24,"Central Macedonia",GR-B,0,78,0,0,0
-3387,2020-09-24,Crete,GR-M,0,3,0,0,0
-3388,2020-09-24,"South Aegean",GR-L,0,0,0,0,0
-3389,2020-09-24,Peloponnese,GR-J,0,0,0,0,0
-3390,2020-09-24,"Central Greece",GR-H,0,0,0,0,0
-3391,2020-09-24,"Under Investigation",GR-U,0,38,0,0,0
-3392,2020-09-24,"Without permanent residency in Greece",GR-W,0,1,0,0,0
+3377,2020-09-24,"Mount Athos",GR-69,4,0,0,0,0
+3378,2020-09-24,"Eastern Macedonia and Thrace",GR-A,812,34,0,0,0
+3379,2020-09-24,Attica,GR-I,5579,142,0,0,0
+3380,2020-09-24,"North Aegean",GR-K,290,11,0,0,0
+3381,2020-09-24,"Western Greece",GR-G,190,9,0,0,0
+3382,2020-09-24,"Western Macedonia",GR-C,444,35,0,0,0
+3383,2020-09-24,Epirus,GR-D,142,2,0,0,0
+3384,2020-09-24,Thessaly,GR-E,603,9,0,0,0
+3385,2020-09-24,"Ionian Islands",GR-F,275,3,0,0,0
+3386,2020-09-24,"Central Macedonia",GR-B,2759,78,0,0,0
+3387,2020-09-24,Crete,GR-M,465,3,0,0,0
+3388,2020-09-24,"South Aegean",GR-L,475,0,0,0,0
+3389,2020-09-24,Peloponnese,GR-J,339,0,0,0,0
+3390,2020-09-24,"Central Greece",GR-H,285,0,0,0,0
+3391,2020-09-24,"Under Investigation",GR-U,2905,39,0,0,0
+3392,2020-09-24,"Without permanent residency in Greece",GR-W,1060,1,0,0,0
