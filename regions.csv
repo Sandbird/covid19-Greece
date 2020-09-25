@@ -3400,7 +3400,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3399,2020-09-25,Epirus,GR-D,142,2,0,0,0
 3400,2020-09-25,Thessaly,GR-E,603,9,0,0,0
 3401,2020-09-25,"Ionian Islands",GR-F,275,3,0,0,0
-3402,2020-09-25,"Central Macedonia",GR-B,2759,79,0,0,0
+3402,2020-09-25,"Central Macedonia",GR-B,2759,81,0,0,0
 3403,2020-09-25,Crete,GR-M,465,3,0,0,0
 3404,2020-09-25,"South Aegean",GR-L,475,0,0,0,0
 3405,2020-09-25,Peloponnese,GR-J,339,0,0,0,0
