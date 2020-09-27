@@ -3425,7 +3425,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3424,2020-09-26,"Without permanent residency in Greece",GR-W,1060,1,0,0,0
 3425,2020-09-27,"Mount Athos",GR-69,4,0,0,0,0
 3426,2020-09-27,"Eastern Macedonia and Thrace",GR-A,812,35,0,0,0
-3427,2020-09-27,Attica,GR-I,5579,146,0,0,0
+3427,2020-09-27,Attica,GR-I,5579,147,0,0,0
 3428,2020-09-27,"North Aegean",GR-K,290,11,0,0,0
 3429,2020-09-27,"Western Greece",GR-G,190,9,0,0,0
 3430,2020-09-27,"Western Macedonia",GR-C,444,36,0,0,0
