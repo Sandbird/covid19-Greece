@@ -3425,7 +3425,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3424,2020-09-26,"Without permanent residency in Greece",GR-W,1060,1,0,0,0
 3425,2020-09-27,"Mount Athos",GR-69,4,0,0,0,0
 3426,2020-09-27,"Eastern Macedonia and Thrace",GR-A,812,35,0,0,0
-3427,2020-09-27,Attica,GR-I,5579,147,0,0,0
+3427,2020-09-27,Attica,GR-I,5579,148,0,0,0
 3428,2020-09-27,"North Aegean",GR-K,290,11,0,0,0
 3429,2020-09-27,"Western Greece",GR-G,190,9,0,0,0
 3430,2020-09-27,"Western Macedonia",GR-C,444,36,0,0,0
@@ -3439,3 +3439,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3438,2020-09-27,"Central Greece",GR-H,285,0,0,0,0
 3439,2020-09-27,"Under Investigation",GR-U,3722,43,0,0,0
 3440,2020-09-27,"Without permanent residency in Greece",GR-W,1060,1,0,0,0
+3441,2020-09-28,"Mount Athos",GR-69,4,0,0,0,0
+3442,2020-09-28,"Eastern Macedonia and Thrace",GR-A,812,35,0,0,0
+3443,2020-09-28,Attica,GR-I,5579,148,0,0,0
+3444,2020-09-28,"North Aegean",GR-K,290,11,0,0,0
+3445,2020-09-28,"Western Greece",GR-G,190,9,0,0,0
+3446,2020-09-28,"Western Macedonia",GR-C,444,36,0,0,0
+3447,2020-09-28,Epirus,GR-D,142,2,0,0,0
+3448,2020-09-28,Thessaly,GR-E,603,9,0,0,0
+3449,2020-09-28,"Ionian Islands",GR-F,275,3,0,0,0
+3450,2020-09-28,"Central Macedonia",GR-B,2759,81,0,0,0
+3451,2020-09-28,Crete,GR-M,465,3,0,0,0
+3452,2020-09-28,"South Aegean",GR-L,475,0,0,0,0
+3453,2020-09-28,Peloponnese,GR-J,339,0,0,0,0
+3454,2020-09-28,"Central Greece",GR-H,285,0,0,0,0
+3455,2020-09-28,"Under Investigation",GR-U,3985,45,0,0,0
+3456,2020-09-28,"Without permanent residency in Greece",GR-W,1060,1,0,0,0
