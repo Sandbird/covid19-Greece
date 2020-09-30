@@ -3464,10 +3464,10 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3463,2020-09-29,Epirus,GR-D,142,2,0,0,0
 3464,2020-09-29,Thessaly,GR-E,603,9,0,0,0
 3465,2020-09-29,"Ionian Islands",GR-F,275,3,0,0,0
-3466,2020-09-29,"Central Macedonia",GR-B,2759,84,0,0,0
+3466,2020-09-29,"Central Macedonia",GR-B,2759,86,0,0,0
 3467,2020-09-29,Crete,GR-M,465,3,0,0,0
 3468,2020-09-29,"South Aegean",GR-L,475,0,0,0,0
 3469,2020-09-29,Peloponnese,GR-J,339,0,0,0,0
 3470,2020-09-29,"Central Greece",GR-H,285,0,0,0,0
-3471,2020-09-29,"Under Investigation",GR-U,4401,47,0,0,0
+3471,2020-09-29,"Under Investigation",GR-U,4401,46,0,0,0
 3472,2020-09-29,"Without permanent residency in Greece",GR-W,1060,1,0,0,0
