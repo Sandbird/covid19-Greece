@@ -3501,5 +3501,5 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3500,2020-10-01,"South Aegean",GR-L,562,0,0,0,0
 3501,2020-10-01,Peloponnese,GR-J,407,0,0,0,0
 3502,2020-10-01,"Central Greece",GR-H,347,0,0,0,0
-3503,2020-10-01,"Under Investigation",GR-U,797,47,0,0,0
+3503,2020-10-01,"Under Investigation",GR-U,797,48,0,0,0
 3504,2020-10-01,"Without permanent residency in Greece",GR-W,1603,2,0,0,0
