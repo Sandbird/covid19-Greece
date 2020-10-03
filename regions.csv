@@ -3520,18 +3520,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3519,2020-10-02,"Under Investigation",GR-U,797,50,0,0,0
 3520,2020-10-02,"Without permanent residency in Greece",GR-W,1603,2,0,0,0
 3521,2020-10-03,"Mount Athos",GR-69,14,0,0,0,0
-3522,2020-10-03,"Eastern Macedonia and Thrace",GR-A,803,0,0,0,0
-3523,2020-10-03,Attica,GR-I,8043,0,0,0,0
-3524,2020-10-03,"North Aegean",GR-K,630,0,0,0,0
-3525,2020-10-03,"Western Greece",GR-G,224,0,0,0,0
-3526,2020-10-03,"Western Macedonia",GR-C,552,0,0,0,0
-3527,2020-10-03,Epirus,GR-D,225,0,0,0,0
-3528,2020-10-03,Thessaly,GR-E,806,0,0,0,0
-3529,2020-10-03,"Ionian Islands",GR-F,328,0,0,0,0
-3530,2020-10-03,"Central Macedonia",GR-B,2981,0,0,0,0
-3531,2020-10-03,Crete,GR-M,564,0,0,0,0
+3522,2020-10-03,"Eastern Macedonia and Thrace",GR-A,803,35,0,0,0
+3523,2020-10-03,Attica,GR-I,8043,153,0,0,0
+3524,2020-10-03,"North Aegean",GR-K,630,11,0,0,0
+3525,2020-10-03,"Western Greece",GR-G,224,9,0,0,0
+3526,2020-10-03,"Western Macedonia",GR-C,552,36,0,0,0
+3527,2020-10-03,Epirus,GR-D,225,2,0,0,0
+3528,2020-10-03,Thessaly,GR-E,806,9,0,0,0
+3529,2020-10-03,"Ionian Islands",GR-F,328,3,0,0,0
+3530,2020-10-03,"Central Macedonia",GR-B,2981,87,0,0,0
+3531,2020-10-03,Crete,GR-M,564,3,0,0,0
 3532,2020-10-03,"South Aegean",GR-L,562,0,0,0,0
 3533,2020-10-03,Peloponnese,GR-J,407,0,0,0,0
 3534,2020-10-03,"Central Greece",GR-H,347,0,0,0,0
-3535,2020-10-03,"Under Investigation",GR-U,1524,0,0,0,0
-3536,2020-10-03,"Without permanent residency in Greece",GR-W,1603,0,0,0,0
+3535,2020-10-03,"Under Investigation",GR-U,1524,55,0,0,0
+3536,2020-10-03,"Without permanent residency in Greece",GR-W,1603,2,0,0,0
