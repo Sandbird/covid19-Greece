@@ -3565,5 +3565,5 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3564,2020-10-05,"South Aegean",GR-L,665,0,0,0,0
 3565,2020-10-05,Peloponnese,GR-J,431,0,0,0,0
 3566,2020-10-05,"Central Greece",GR-H,384,0,0,0,0
-3567,2020-10-05,"Under Investigation",GR-U,309,54,0,0,0
+3567,2020-10-05,"Under Investigation",GR-U,309,60,0,0,0
 3568,2020-10-05,"Without permanent residency in Greece",GR-W,1733,2,0,0,0
