@@ -3569,7 +3569,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3568,2020-10-05,"Without permanent residency in Greece",GR-W,1733,2,0,0,0
 3569,2020-10-06,"Mount Athos",GR-69,14,0,0,0,0
 3570,2020-10-06,"Eastern Macedonia and Thrace",GR-A,803,35,0,0,0
-3571,2020-10-06,Attica,GR-I,8043,167,0,0,0
+3571,2020-10-06,Attica,GR-I,8043,168,0,0,0
 3572,2020-10-06,"North Aegean",GR-K,630,13,0,0,0
 3573,2020-10-06,"Western Greece",GR-G,224,10,0,0,0
 3574,2020-10-06,"Western Macedonia",GR-C,552,36,0,0,0
@@ -3584,18 +3584,34 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3583,2020-10-06,"Under Investigation",GR-U,2452,55,0,0,0
 3584,2020-10-06,"Without permanent residency in Greece",GR-W,1603,2,0,0,0
 3585,2020-10-07,"Mount Athos",GR-69,14,0,0,0,0
-3586,2020-10-07,"Eastern Macedonia and Thrace",GR-A,825,35,0,0,0
-3587,2020-10-07,Attica,GR-I,8917,168,0,0,0
-3588,2020-10-07,"North Aegean",GR-K,656,13,0,0,0
-3589,2020-10-07,"Western Greece",GR-G,265,10,0,0,0
-3590,2020-10-07,"Western Macedonia",GR-C,594,36,0,0,0
-3591,2020-10-07,Epirus,GR-D,263,2,0,0,0
-3592,2020-10-07,Thessaly,GR-E,914,9,0,0,0
-3593,2020-10-07,"Ionian Islands",GR-F,359,3,0,0,0
-3594,2020-10-07,"Central Macedonia",GR-B,3210,89,0,0,0
-3595,2020-10-07,Crete,GR-M,603,3,0,0,0
-3596,2020-10-07,"South Aegean",GR-L,665,0,0,0,0
-3597,2020-10-07,Peloponnese,GR-J,431,0,0,0,0
-3598,2020-10-07,"Central Greece",GR-H,384,0,0,0,0
-3599,2020-10-07,"Under Investigation",GR-U,1114,55,0,0,0
-3600,2020-10-07,"Without permanent residency in Greece",GR-W,1733,2,0,0,0
+3586,2020-10-07,"Eastern Macedonia and Thrace",GR-A,803,35,0,0,0
+3587,2020-10-07,Attica,GR-I,8043,169,0,0,0
+3588,2020-10-07,"North Aegean",GR-K,630,13,0,0,0
+3589,2020-10-07,"Western Greece",GR-G,224,10,0,0,0
+3590,2020-10-07,"Western Macedonia",GR-C,552,36,0,0,0
+3591,2020-10-07,Epirus,GR-D,225,2,0,0,0
+3592,2020-10-07,Thessaly,GR-E,806,9,0,0,0
+3593,2020-10-07,"Ionian Islands",GR-F,328,3,0,0,0
+3594,2020-10-07,"Central Macedonia",GR-B,2981,89,0,0,0
+3595,2020-10-07,Crete,GR-M,564,3,0,0,0
+3596,2020-10-07,"South Aegean",GR-L,562,0,0,0,0
+3597,2020-10-07,Peloponnese,GR-J,407,0,0,0,0
+3598,2020-10-07,"Central Greece",GR-H,347,0,0,0,0
+3599,2020-10-07,"Under Investigation",GR-U,2858,55,0,0,0
+3600,2020-10-07,"Without permanent residency in Greece",GR-W,1603,2,0,0,0
+3601,2020-10-08,"Mount Athos",GR-69,14,0,0,0,0
+3602,2020-10-08,"Eastern Macedonia and Thrace",GR-A,803,35,0,0,0
+3603,2020-10-08,Attica,GR-I,8043,172,0,0,0
+3604,2020-10-08,"North Aegean",GR-K,630,13,0,0,0
+3605,2020-10-08,"Western Greece",GR-G,224,10,0,0,0
+3606,2020-10-08,"Western Macedonia",GR-C,552,36,0,0,0
+3607,2020-10-08,Epirus,GR-D,225,2,0,0,0
+3608,2020-10-08,Thessaly,GR-E,806,9,0,0,0
+3609,2020-10-08,"Ionian Islands",GR-F,328,3,0,0,0
+3610,2020-10-08,"Central Macedonia",GR-B,2981,89,0,0,0
+3611,2020-10-08,Crete,GR-M,564,3,0,0,0
+3612,2020-10-08,"South Aegean",GR-L,562,0,0,0,0
+3613,2020-10-08,Peloponnese,GR-J,407,0,0,0,0
+3614,2020-10-08,"Central Greece",GR-H,347,0,0,0,0
+3615,2020-10-08,"Under Investigation",GR-U,3292,56,0,0,0
+3616,2020-10-08,"Without permanent residency in Greece",GR-W,1603,2,0,0,0
