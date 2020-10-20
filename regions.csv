@@ -3791,3 +3791,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3790,2020-10-19,"Central Greece",GR-H,469,0,0,0,0
 3791,2020-10-19,"Under Investigation",GR-U,4431,88,0,0,0
 3792,2020-10-19,"Without permanent residency in Greece",GR-W,1840,2,0,0,0
+3793,2020-10-20,"Mount Athos",GR-69,0,0,0,0,0
+3794,2020-10-20,"Eastern Macedonia and Thrace",GR-A,0,36,0,0,0
+3795,2020-10-20,Attica,GR-I,0,226,0,0,0
+3796,2020-10-20,"North Aegean",GR-K,0,13,0,0,0
+3797,2020-10-20,"Western Greece",GR-G,0,10,0,0,0
+3798,2020-10-20,"Western Macedonia",GR-C,0,37,0,0,0
+3799,2020-10-20,Epirus,GR-D,0,4,0,0,0
+3800,2020-10-20,Thessaly,GR-E,0,11,0,0,0
+3801,2020-10-20,"Ionian Islands",GR-F,0,3,0,0,0
+3802,2020-10-20,"Central Macedonia",GR-B,0,95,0,0,0
+3803,2020-10-20,Crete,GR-M,0,3,0,0,0
+3804,2020-10-20,"South Aegean",GR-L,0,0,0,0,0
+3805,2020-10-20,Peloponnese,GR-J,0,0,0,0,0
+3806,2020-10-20,"Central Greece",GR-H,0,0,0,0,0
+3807,2020-10-20,"Under Investigation",GR-U,0,88,0,0,0
+3808,2020-10-20,"Without permanent residency in Greece",GR-W,0,2,0,0,0
