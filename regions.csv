@@ -3839,3 +3839,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3838,2020-10-22,"Central Greece",GR-H,469,0,0,0,0
 3839,2020-10-22,"Under Investigation",GR-U,6845,93,0,0,0
 3840,2020-10-22,"Without permanent residency in Greece",GR-W,1840,2,0,0,0
+3841,2020-10-23,"Mount Athos",GR-69,0,0,0,0,0
+3842,2020-10-23,"Eastern Macedonia and Thrace",GR-A,0,37,0,0,0
+3843,2020-10-23,Attica,GR-I,0,237,0,0,0
+3844,2020-10-23,"North Aegean",GR-K,0,13,0,0,0
+3845,2020-10-23,"Western Greece",GR-G,0,12,0,0,0
+3846,2020-10-23,"Western Macedonia",GR-C,0,38,0,0,0
+3847,2020-10-23,Epirus,GR-D,0,4,0,0,0
+3848,2020-10-23,Thessaly,GR-E,0,12,0,0,0
+3849,2020-10-23,"Ionian Islands",GR-F,0,3,0,0,0
+3850,2020-10-23,"Central Macedonia",GR-B,0,99,0,0,0
+3851,2020-10-23,Crete,GR-M,0,3,0,0,0
+3852,2020-10-23,"South Aegean",GR-L,0,0,0,0,0
+3853,2020-10-23,Peloponnese,GR-J,0,0,0,0,0
+3854,2020-10-23,"Central Greece",GR-H,0,0,0,0,0
+3855,2020-10-23,"Under Investigation",GR-U,0,93,0,0,0
+3856,2020-10-23,"Without permanent residency in Greece",GR-W,0,2,0,0,0
