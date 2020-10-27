@@ -3912,7 +3912,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3911,2020-10-27,Epirus,GR-D,329,5,0,0,0
 3912,2020-10-27,Thessaly,GR-E,975,17,0,0,0
 3913,2020-10-27,"Ionian Islands",GR-F,377,3,0,0,0
-3914,2020-10-27,"Central Macedonia",GR-B,3327,107,0,0,0
+3914,2020-10-27,"Central Macedonia",GR-B,3327,108,0,0,0
 3915,2020-10-27,Crete,GR-M,622,3,0,0,0
 3916,2020-10-27,"South Aegean",GR-L,702,0,0,0,0
 3917,2020-10-27,Peloponnese,GR-J,463,0,0,0,0
