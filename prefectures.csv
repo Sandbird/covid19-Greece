@@ -8327,5 +8327,5 @@ id,date,region_gr,region_en,region_id,population,color,cases,deaths,recovered,ac
 8438,2020-10-30,Χαλκιδικής,Chalkidiki,3,104894,orange,24,0,0,0,0
 8439,2020-10-30,Χανίων,Chania,4,150387,green,7,0,0,0,0
 8440,2020-10-30,Χίου,Chios,9,53408,yellow,3,0,0,0,0
-8441,2020-10-30,"Υπό διερεύνηση","Under Investigation",16,0,,36,0,0,0,0
+8441,2020-10-30,"Υπό διερεύνηση","Under Investigation",16,0,,0,0,0,0,0
 8442,2020-10-30,"Άγιο όρος","Mount Athos",8,2262,,0,0,0,0,0
