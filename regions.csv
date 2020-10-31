@@ -3967,3 +3967,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 3966,2020-10-30,"Central Greece",GR-H,469,0,0,0,0
 3967,2020-10-30,"Under Investigation",GR-U,15825,95,0,0,0
 3968,2020-10-30,"Without permanent residency in Greece",GR-W,1840,2,0,0,0
+3969,2020-10-31,"Mount Athos",GR-69,0,0,0,0,0
+3970,2020-10-31,"Eastern Macedonia and Thrace",GR-A,0,37,0,0,0
+3971,2020-10-31,Attica,GR-I,0,273,0,0,0
+3972,2020-10-31,"North Aegean",GR-K,0,13,0,0,0
+3973,2020-10-31,"Western Greece",GR-G,0,12,0,0,0
+3974,2020-10-31,"Western Macedonia",GR-C,0,41,0,0,0
+3975,2020-10-31,Epirus,GR-D,0,5,0,0,0
+3976,2020-10-31,Thessaly,GR-E,0,20,0,0,0
+3977,2020-10-31,"Ionian Islands",GR-F,0,5,0,0,0
+3978,2020-10-31,"Central Macedonia",GR-B,0,117,0,0,0
+3979,2020-10-31,Crete,GR-M,0,3,0,0,0
+3980,2020-10-31,"South Aegean",GR-L,0,0,0,0,0
+3981,2020-10-31,Peloponnese,GR-J,0,0,0,0,0
+3982,2020-10-31,"Central Greece",GR-H,0,0,0,0,0
+3983,2020-10-31,"Under Investigation",GR-U,0,98,0,0,0
+3984,2020-10-31,"Without permanent residency in Greece",GR-W,0,2,0,0,0
