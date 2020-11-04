@@ -4008,7 +4008,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4007,2020-11-02,Epirus,GR-D,329,5,0,0,0
 4008,2020-11-02,Thessaly,GR-E,975,20,0,0,0
 4009,2020-11-02,"Ionian Islands",GR-F,377,5,0,0,0
-4010,2020-11-02,"Central Macedonia",GR-B,3327,120,0,0,0
+4010,2020-11-02,"Central Macedonia",GR-B,3327,121,0,0,0
 4011,2020-11-02,Crete,GR-M,622,3,0,0,0
 4012,2020-11-02,"South Aegean",GR-L,702,0,0,0,0
 4013,2020-11-02,Peloponnese,GR-J,463,0,0,0,0
@@ -4029,21 +4029,21 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4028,2020-11-03,"South Aegean",GR-L,0,0,0,0,0
 4029,2020-11-03,Peloponnese,GR-J,0,0,0,0,0
 4030,2020-11-03,"Central Greece",GR-H,0,0,0,0,0
-4031,2020-11-03,"Under Investigation",GR-U,0,108,0,0,0
+4031,2020-11-03,"Under Investigation",GR-U,0,103,0,0,0
 4032,2020-11-03,"Without permanent residency in Greece",GR-W,0,2,0,0,0
 4033,2020-11-04,"Mount Athos",GR-69,0,0,0,0,0
 4034,2020-11-04,"Eastern Macedonia and Thrace",GR-A,0,40,0,0,0
-4035,2020-11-04,Attica,GR-I,0,287,0,0,0
+4035,2020-11-04,Attica,GR-I,0,289,0,0,0
 4036,2020-11-04,"North Aegean",GR-K,0,13,0,0,0
-4037,2020-11-04,"Western Greece",GR-G,0,13,0,0,0
+4037,2020-11-04,"Western Greece",GR-G,0,14,0,0,0
 4038,2020-11-04,"Western Macedonia",GR-C,0,44,0,0,0
 4039,2020-11-04,Epirus,GR-D,0,6,0,0,0
-4040,2020-11-04,Thessaly,GR-E,0,20,0,0,0
+4040,2020-11-04,Thessaly,GR-E,0,21,0,0,0
 4041,2020-11-04,"Ionian Islands",GR-F,0,5,0,0,0
-4042,2020-11-04,"Central Macedonia",GR-B,0,136,0,0,0
+4042,2020-11-04,"Central Macedonia",GR-B,0,141,0,0,0
 4043,2020-11-04,Crete,GR-M,0,3,0,0,0
 4044,2020-11-04,"South Aegean",GR-L,0,0,0,0,0
 4045,2020-11-04,Peloponnese,GR-J,0,0,0,0,0
 4046,2020-11-04,"Central Greece",GR-H,0,1,0,0,0
-4047,2020-11-04,"Under Investigation",GR-U,0,109,0,0,0
+4047,2020-11-04,"Under Investigation",GR-U,0,103,0,0,0
 4048,2020-11-04,"Without permanent residency in Greece",GR-W,0,2,0,0,0
