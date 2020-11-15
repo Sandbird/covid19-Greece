@@ -4177,7 +4177,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4176,2020-11-12,"Without permanent residency in Greece",GR-W,1840,2,0,0,0
 4177,2020-11-13,"Mount Athos",GR-69,14,0,0,0,0
 4178,2020-11-13,"Eastern Macedonia and Thrace",GR-A,842,57,0,0,0
-4179,2020-11-13,Attica,GR-I,9745,329,0,0,0
+4179,2020-11-13,Attica,GR-I,9745,330,0,0,0
 4180,2020-11-13,"North Aegean",GR-K,683,13,0,0,0
 4181,2020-11-13,"Western Greece",GR-G,307,18,0,0,0
 4182,2020-11-13,"Western Macedonia",GR-C,676,50,0,0,0
@@ -4189,11 +4189,11 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4188,2020-11-13,"South Aegean",GR-L,702,0,0,0,0
 4189,2020-11-13,Peloponnese,GR-J,463,1,0,0,0
 4190,2020-11-13,"Central Greece",GR-H,469,1,0,0,0
-4191,2020-11-13,"Under Investigation",GR-U,48304,234,0,0,0
+4191,2020-11-13,"Under Investigation",GR-U,48304,233,0,0,0
 4192,2020-11-13,"Without permanent residency in Greece",GR-W,1840,2,0,0,0
 4193,2020-11-14,"Mount Athos",GR-69,14,0,0,0,0
 4194,2020-11-14,"Eastern Macedonia and Thrace",GR-A,842,57,0,0,0
-4195,2020-11-14,Attica,GR-I,9745,329,0,0,0
+4195,2020-11-14,Attica,GR-I,9745,330,0,0,0
 4196,2020-11-14,"North Aegean",GR-K,683,13,0,0,0
 4197,2020-11-14,"Western Greece",GR-G,307,18,0,0,0
 4198,2020-11-14,"Western Macedonia",GR-C,676,50,0,0,0
@@ -4205,5 +4205,21 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4204,2020-11-14,"South Aegean",GR-L,702,0,0,0,0
 4205,2020-11-14,Peloponnese,GR-J,463,1,0,0,0
 4206,2020-11-14,"Central Greece",GR-H,469,1,0,0,0
-4207,2020-11-14,"Under Investigation",GR-U,51139,272,0,0,0
+4207,2020-11-14,"Under Investigation",GR-U,51139,271,0,0,0
 4208,2020-11-14,"Without permanent residency in Greece",GR-W,1840,2,0,0,0
+4209,2020-11-15,"Mount Athos",GR-69,0,0,0,0,0
+4210,2020-11-15,"Eastern Macedonia and Thrace",GR-A,0,57,0,0,0
+4211,2020-11-15,Attica,GR-I,0,330,0,0,0
+4212,2020-11-15,"North Aegean",GR-K,0,13,0,0,0
+4213,2020-11-15,"Western Greece",GR-G,0,18,0,0,0
+4214,2020-11-15,"Western Macedonia",GR-C,0,50,0,0,0
+4215,2020-11-15,Epirus,GR-D,0,17,0,0,0
+4216,2020-11-15,Thessaly,GR-E,0,34,0,0,0
+4217,2020-11-15,"Ionian Islands",GR-F,0,6,0,0,0
+4218,2020-11-15,"Central Macedonia",GR-B,0,233,0,0,0
+4219,2020-11-15,Crete,GR-M,0,3,0,0,0
+4220,2020-11-15,"South Aegean",GR-L,0,0,0,0,0
+4221,2020-11-15,Peloponnese,GR-J,0,1,0,0,0
+4222,2020-11-15,"Central Greece",GR-H,0,1,0,0,0
+4223,2020-11-15,"Under Investigation",GR-U,0,341,0,0,0
+4224,2020-11-15,"Without permanent residency in Greece",GR-W,0,2,0,0,0
