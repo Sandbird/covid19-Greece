@@ -4216,10 +4216,26 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4215,2020-11-15,Epirus,GR-D,0,17,0,0,0
 4216,2020-11-15,Thessaly,GR-E,0,34,0,0,0
 4217,2020-11-15,"Ionian Islands",GR-F,0,6,0,0,0
-4218,2020-11-15,"Central Macedonia",GR-B,0,233,0,0,0
+4218,2020-11-15,"Central Macedonia",GR-B,0,234,0,0,0
 4219,2020-11-15,Crete,GR-M,0,3,0,0,0
 4220,2020-11-15,"South Aegean",GR-L,0,0,0,0,0
 4221,2020-11-15,Peloponnese,GR-J,0,1,0,0,0
 4222,2020-11-15,"Central Greece",GR-H,0,1,0,0,0
-4223,2020-11-15,"Under Investigation",GR-U,0,341,0,0,0
+4223,2020-11-15,"Under Investigation",GR-U,0,340,0,0,0
 4224,2020-11-15,"Without permanent residency in Greece",GR-W,0,2,0,0,0
+4225,2020-11-16,"Mount Athos",GR-69,0,0,0,0,0
+4226,2020-11-16,"Eastern Macedonia and Thrace",GR-A,0,57,0,0,0
+4227,2020-11-16,Attica,GR-I,0,330,0,0,0
+4228,2020-11-16,"North Aegean",GR-K,0,13,0,0,0
+4229,2020-11-16,"Western Greece",GR-G,0,18,0,0,0
+4230,2020-11-16,"Western Macedonia",GR-C,0,50,0,0,0
+4231,2020-11-16,Epirus,GR-D,0,17,0,0,0
+4232,2020-11-16,Thessaly,GR-E,0,34,0,0,0
+4233,2020-11-16,"Ionian Islands",GR-F,0,6,0,0,0
+4234,2020-11-16,"Central Macedonia",GR-B,0,233,0,0,0
+4235,2020-11-16,Crete,GR-M,0,3,0,0,0
+4236,2020-11-16,"South Aegean",GR-L,0,0,0,0,0
+4237,2020-11-16,Peloponnese,GR-J,0,1,0,0,0
+4238,2020-11-16,"Central Greece",GR-H,0,1,0,0,0
+4239,2020-11-16,"Under Investigation",GR-U,0,400,0,0,0
+4240,2020-11-16,"Without permanent residency in Greece",GR-W,0,2,0,0,0
