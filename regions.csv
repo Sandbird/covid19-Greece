@@ -4319,3 +4319,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4318,2020-11-21,"Under Investigation",GR-U,0,760,0,0,0
 4319,2020-11-20,"Without permanent residency in Greece",GR-W,0,2,0,0,0
 4320,2020-11-21,"Without permanent residency in Greece",GR-W,0,2,0,0,0
+4321,2020-11-22,"Mount Athos",GR-69,0,0,0,0,0
+4322,2020-11-22,"Eastern Macedonia and Thrace",GR-A,0,57,0,0,0
+4323,2020-11-22,Attica,GR-I,0,330,0,0,0
+4324,2020-11-22,"North Aegean",GR-K,0,13,0,0,0
+4325,2020-11-22,"Western Greece",GR-G,0,18,0,0,0
+4326,2020-11-22,"Western Macedonia",GR-C,0,50,0,0,0
+4327,2020-11-22,Epirus,GR-D,0,17,0,0,0
+4328,2020-11-22,Thessaly,GR-E,0,34,0,0,0
+4329,2020-11-22,"Ionian Islands",GR-F,0,6,0,0,0
+4330,2020-11-22,"Central Macedonia",GR-B,0,235,0,0,0
+4331,2020-11-22,Crete,GR-M,0,3,0,0,0
+4332,2020-11-22,"South Aegean",GR-L,0,0,0,0,0
+4333,2020-11-22,Peloponnese,GR-J,0,1,0,0,0
+4334,2020-11-22,"Central Greece",GR-H,0,1,0,0,0
+4335,2020-11-22,"Under Investigation",GR-U,0,863,0,0,0
+4336,2020-11-22,"Without permanent residency in Greece",GR-W,0,2,0,0,0
