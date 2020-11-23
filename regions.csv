@@ -4335,3 +4335,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4334,2020-11-22,"Central Greece",GR-H,0,1,0,0,0
 4335,2020-11-22,"Under Investigation",GR-U,0,863,0,0,0
 4336,2020-11-22,"Without permanent residency in Greece",GR-W,0,2,0,0,0
+4337,2020-11-23,"Mount Athos",GR-69,0,0,0,0,0
+4338,2020-11-23,"Eastern Macedonia and Thrace",GR-A,0,57,0,0,0
+4339,2020-11-23,Attica,GR-I,0,330,0,0,0
+4340,2020-11-23,"North Aegean",GR-K,0,13,0,0,0
+4341,2020-11-23,"Western Greece",GR-G,0,18,0,0,0
+4342,2020-11-23,"Western Macedonia",GR-C,0,50,0,0,0
+4343,2020-11-23,Epirus,GR-D,0,17,0,0,0
+4344,2020-11-23,Thessaly,GR-E,0,34,0,0,0
+4345,2020-11-23,"Ionian Islands",GR-F,0,6,0,0,0
+4346,2020-11-23,"Central Macedonia",GR-B,0,235,0,0,0
+4347,2020-11-23,Crete,GR-M,0,3,0,0,0
+4348,2020-11-23,"South Aegean",GR-L,0,0,0,0,0
+4349,2020-11-23,Peloponnese,GR-J,0,1,0,0,0
+4350,2020-11-23,"Central Greece",GR-H,0,1,0,0,0
+4351,2020-11-23,"Under Investigation",GR-U,0,947,0,0,0
+4352,2020-11-23,"Without permanent residency in Greece",GR-W,0,2,0,0,0
