@@ -4367,3 +4367,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4366,2020-11-24,"Central Greece",GR-H,0,1,0,0,0
 4367,2020-11-24,"Under Investigation",GR-U,0,1048,0,0,0
 4368,2020-11-24,"Without permanent residency in Greece",GR-W,0,2,0,0,0
+4369,2020-11-25,"Mount Athos",GR-69,0,0,0,0,0
+4370,2020-11-25,"Eastern Macedonia and Thrace",GR-A,0,57,0,0,0
+4371,2020-11-25,Attica,GR-I,0,330,0,0,0
+4372,2020-11-25,"North Aegean",GR-K,0,13,0,0,0
+4373,2020-11-25,"Western Greece",GR-G,0,18,0,0,0
+4374,2020-11-25,"Western Macedonia",GR-C,0,50,0,0,0
+4375,2020-11-25,Epirus,GR-D,0,17,0,0,0
+4376,2020-11-25,Thessaly,GR-E,0,34,0,0,0
+4377,2020-11-25,"Ionian Islands",GR-F,0,6,0,0,0
+4378,2020-11-25,"Central Macedonia",GR-B,0,235,0,0,0
+4379,2020-11-25,Crete,GR-M,0,3,0,0,0
+4380,2020-11-25,"South Aegean",GR-L,0,0,0,0,0
+4381,2020-11-25,Peloponnese,GR-J,0,1,0,0,0
+4382,2020-11-25,"Central Greece",GR-H,0,1,0,0,0
+4383,2020-11-25,"Under Investigation",GR-U,0,1135,0,0,0
+4384,2020-11-25,"Without permanent residency in Greece",GR-W,0,2,0,0,0
