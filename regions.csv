@@ -4399,3 +4399,67 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4398,2020-11-26,"Central Greece",GR-H,0,1,0,0,0
 4399,2020-11-26,"Under Investigation",GR-U,0,1234,0,0,0
 4400,2020-11-26,"Without permanent residency in Greece",GR-W,0,2,0,0,0
+4401,2020-11-27,"Mount Athos",GR-69,0,0,0,0,0
+4402,2020-11-28,"Mount Athos",GR-69,0,0,0,0,0
+4403,2020-11-29,"Mount Athos",GR-69,0,0,0,0,0
+4404,2020-11-30,"Mount Athos",GR-69,0,0,0,0,0
+4405,2020-11-27,"Eastern Macedonia and Thrace",GR-A,0,57,0,0,0
+4406,2020-11-28,"Eastern Macedonia and Thrace",GR-A,0,57,0,0,0
+4407,2020-11-29,"Eastern Macedonia and Thrace",GR-A,0,57,0,0,0
+4408,2020-11-30,"Eastern Macedonia and Thrace",GR-A,0,57,0,0,0
+4409,2020-11-27,Attica,GR-I,0,330,0,0,0
+4410,2020-11-28,Attica,GR-I,0,330,0,0,0
+4411,2020-11-29,Attica,GR-I,0,330,0,0,0
+4412,2020-11-30,Attica,GR-I,0,330,0,0,0
+4413,2020-11-27,"North Aegean",GR-K,0,13,0,0,0
+4414,2020-11-28,"North Aegean",GR-K,0,13,0,0,0
+4415,2020-11-29,"North Aegean",GR-K,0,13,0,0,0
+4416,2020-11-30,"North Aegean",GR-K,0,13,0,0,0
+4417,2020-11-27,"Western Greece",GR-G,0,18,0,0,0
+4418,2020-11-28,"Western Greece",GR-G,0,18,0,0,0
+4419,2020-11-29,"Western Greece",GR-G,0,18,0,0,0
+4420,2020-11-30,"Western Greece",GR-G,0,18,0,0,0
+4421,2020-11-27,"Western Macedonia",GR-C,0,50,0,0,0
+4422,2020-11-28,"Western Macedonia",GR-C,0,50,0,0,0
+4423,2020-11-29,"Western Macedonia",GR-C,0,50,0,0,0
+4424,2020-11-30,"Western Macedonia",GR-C,0,50,0,0,0
+4425,2020-11-27,Epirus,GR-D,0,17,0,0,0
+4426,2020-11-28,Epirus,GR-D,0,17,0,0,0
+4427,2020-11-29,Epirus,GR-D,0,17,0,0,0
+4428,2020-11-30,Epirus,GR-D,0,17,0,0,0
+4429,2020-11-27,Thessaly,GR-E,0,34,0,0,0
+4430,2020-11-28,Thessaly,GR-E,0,34,0,0,0
+4431,2020-11-29,Thessaly,GR-E,0,34,0,0,0
+4432,2020-11-30,Thessaly,GR-E,0,34,0,0,0
+4433,2020-11-27,"Ionian Islands",GR-F,0,6,0,0,0
+4434,2020-11-28,"Ionian Islands",GR-F,0,6,0,0,0
+4435,2020-11-29,"Ionian Islands",GR-F,0,6,0,0,0
+4436,2020-11-30,"Ionian Islands",GR-F,0,6,0,0,0
+4437,2020-11-27,"Central Macedonia",GR-B,0,235,0,0,0
+4438,2020-11-28,"Central Macedonia",GR-B,0,235,0,0,0
+4439,2020-11-29,"Central Macedonia",GR-B,0,235,0,0,0
+4440,2020-11-30,"Central Macedonia",GR-B,0,235,0,0,0
+4441,2020-11-27,Crete,GR-M,0,3,0,0,0
+4442,2020-11-28,Crete,GR-M,0,3,0,0,0
+4443,2020-11-29,Crete,GR-M,0,3,0,0,0
+4444,2020-11-30,Crete,GR-M,0,3,0,0,0
+4445,2020-11-27,"South Aegean",GR-L,0,0,0,0,0
+4446,2020-11-28,"South Aegean",GR-L,0,0,0,0,0
+4447,2020-11-29,"South Aegean",GR-L,0,0,0,0,0
+4448,2020-11-30,"South Aegean",GR-L,0,0,0,0,0
+4449,2020-11-27,Peloponnese,GR-J,0,1,0,0,0
+4450,2020-11-28,Peloponnese,GR-J,0,1,0,0,0
+4451,2020-11-29,Peloponnese,GR-J,0,1,0,0,0
+4452,2020-11-30,Peloponnese,GR-J,0,1,0,0,0
+4453,2020-11-27,"Central Greece",GR-H,0,1,0,0,0
+4454,2020-11-28,"Central Greece",GR-H,0,1,0,0,0
+4455,2020-11-29,"Central Greece",GR-H,0,1,0,0,0
+4456,2020-11-30,"Central Greece",GR-H,0,1,0,0,0
+4457,2020-11-27,"Under Investigation",GR-U,0,1335,0,0,0
+4458,2020-11-28,"Under Investigation",GR-U,0,1456,0,0,0
+4459,2020-11-29,"Under Investigation",GR-U,0,1554,0,0,0
+4460,2020-11-30,"Under Investigation",GR-U,0,1639,0,0,0
+4461,2020-11-27,"Without permanent residency in Greece",GR-W,0,2,0,0,0
+4462,2020-11-28,"Without permanent residency in Greece",GR-W,0,2,0,0,0
+4463,2020-11-29,"Without permanent residency in Greece",GR-W,0,2,0,0,0
+4464,2020-11-30,"Without permanent residency in Greece",GR-W,0,2,0,0,0
