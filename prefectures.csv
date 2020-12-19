@@ -11477,7 +11477,7 @@ id,date,region_gr,region_en,region_id,population,color,cases,deaths,recovered,ac
 11588,2020-12-14,Χαλκιδικής,Chalkidiki,3,104894,grey,0,0,0,0,0
 11589,2020-12-14,Χανίων,Chania,4,150387,grey,3,0,0,0,0
 11590,2020-12-14,Χίου,Chios,9,53408,grey,3,0,0,0,0
-11591,2020-12-14,"Υπό διερεύνηση","Under Investigation",16,0,,10,0,0,0,0
+11591,2020-12-14,"Υπό διερεύνηση","Under Investigation",16,0,,10,62,0,0,0
 11592,2020-12-14,"Άγιο Όρος","Mount Athos",8,2262,,0,0,0,0,0
 11593,2020-12-15,"Πύλες και αυτοβούλως","Without permanent residency in Greece",15,0,,17,0,0,0,0
 11594,2020-12-15,Αττικής,"Athens Prefecture",1,3827000,grey,270,0,0,0,0
@@ -11547,7 +11547,7 @@ id,date,region_gr,region_en,region_id,population,color,cases,deaths,recovered,ac
 11658,2020-12-15,Χαλκιδικής,Chalkidiki,3,104894,grey,11,0,0,0,0
 11659,2020-12-15,Χανίων,Chania,4,150387,grey,6,0,0,0,0
 11660,2020-12-15,Χίου,Chios,9,53408,grey,10,0,0,0,0
-11661,2020-12-15,"Υπό διερεύνηση","Under Investigation",16,0,,10,0,0,0,0
+11661,2020-12-15,"Υπό διερεύνηση","Under Investigation",16,0,,10,98,0,0,0
 11662,2020-12-15,"Άγιο Όρος","Mount Athos",8,2262,,0,0,0,0,0
 11663,2020-12-16,"Πύλες και αυτοβούλως","Without permanent residency in Greece",15,0,,20,0,0,0,0
 11664,2020-12-16,Αττικής,"Athens Prefecture",1,3827000,grey,281,0,0,0,0
@@ -11617,7 +11617,7 @@ id,date,region_gr,region_en,region_id,population,color,cases,deaths,recovered,ac
 11728,2020-12-16,Χαλκιδικής,Chalkidiki,3,104894,grey,6,0,0,0,0
 11729,2020-12-16,Χανίων,Chania,4,150387,grey,4,0,0,0,0
 11730,2020-12-16,Χίου,Chios,9,53408,grey,7,0,0,0,0
-11731,2020-12-16,"Υπό διερεύνηση","Under Investigation",16,0,,6,0,0,0,0
+11731,2020-12-16,"Υπό διερεύνηση","Under Investigation",16,0,,6,85,0,0,0
 11732,2020-12-16,"Άγιο Όρος","Mount Athos",8,2262,,0,0,0,0,0
 11733,2020-12-17,"Πύλες και αυτοβούλως","Without permanent residency in Greece",15,0,,9,0,0,0,0
 11734,2020-12-17,Αττικής,"Athens Prefecture",1,3827000,grey,254,0,0,0,0
@@ -11687,7 +11687,7 @@ id,date,region_gr,region_en,region_id,population,color,cases,deaths,recovered,ac
 11798,2020-12-17,Χαλκιδικής,Chalkidiki,3,104894,grey,7,0,0,0,0
 11799,2020-12-17,Χανίων,Chania,4,150387,grey,3,0,0,0,0
 11800,2020-12-17,Χίου,Chios,9,53408,grey,5,0,0,0,0
-11801,2020-12-17,"Υπό διερεύνηση","Under Investigation",16,0,,13,0,0,0,0
+11801,2020-12-17,"Υπό διερεύνηση","Under Investigation",16,0,,13,78,0,0,0
 11802,2020-12-17,"Άγιο Όρος","Mount Athos",8,2262,,0,0,0,0,0
 11803,2020-12-18,"Πύλες και αυτοβούλως","Without permanent residency in Greece",15,0,,12,0,0,0,0
 11804,2020-12-18,Αττικής,"Athens Prefecture",1,3827000,grey,245,0,0,0,0
@@ -11757,7 +11757,7 @@ id,date,region_gr,region_en,region_id,population,color,cases,deaths,recovered,ac
 11868,2020-12-18,Χαλκιδικής,Chalkidiki,3,104894,grey,5,0,0,0,0
 11869,2020-12-18,Χανίων,Chania,4,150387,grey,2,0,0,0,0
 11870,2020-12-18,Χίου,Chios,9,53408,grey,7,0,0,0,0
-11871,2020-12-18,"Υπό διερεύνηση","Under Investigation",16,0,,6,0,0,0,0
+11871,2020-12-18,"Υπό διερεύνηση","Under Investigation",16,0,,6,96,0,0,0
 11872,2020-12-18,"Άγιο Όρος","Mount Athos",8,2262,,0,0,0,0,0
 11873,2020-12-19,"Πύλες και αυτοβούλως","Without permanent residency in Greece",15,0,,16,0,0,0,0
 11874,2020-12-19,Αττικής,"Athens Prefecture",1,3827000,grey,219,0,0,0,0
@@ -11827,5 +11827,5 @@ id,date,region_gr,region_en,region_id,population,color,cases,deaths,recovered,ac
 11938,2020-12-19,Χαλκιδικής,Chalkidiki,3,104894,grey,6,0,0,0,0
 11939,2020-12-19,Χανίων,Chania,4,150387,grey,5,0,0,0,0
 11940,2020-12-19,Χίου,Chios,9,53408,grey,4,0,0,0,0
-11941,2020-12-19,"Υπό διερεύνηση","Under Investigation",16,0,,1,0,0,0,0
+11941,2020-12-19,"Υπό διερεύνηση","Under Investigation",16,0,,1,58,0,0,0
 11942,2020-12-19,"Άγιο Όρος","Mount Athos",8,2262,,0,0,0,0,0
