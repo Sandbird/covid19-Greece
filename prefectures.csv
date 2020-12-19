@@ -11828,3 +11828,4 @@ id,date,region_gr,region_en,region_id,population,color,cases,deaths,recovered,ac
 11939,2020-12-19,Χανίων,Chania,4,150387,grey,5,0,0,0,0
 11940,2020-12-19,Χίου,Chios,9,53408,grey,4,0,0,0,0
 11941,2020-12-19,"Υπό διερεύνηση","Under Investigation",16,0,,1,0,0,0,0
+11942,2020-12-19,"Άγιο Όρος","Mount Athos",8,2262,,0,0,0,0,0
