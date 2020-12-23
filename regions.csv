@@ -4499,7 +4499,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4498,2020-12-21,Crete,GR-M,2167,3,0,0,0
 4499,2020-12-21,Thessaly,GR-E,11901,34,0,0,0
 4500,2020-12-21,"North Aegean",GR-K,2183,13,0,0,0
-4501,2020-12-22,"Under Investigation",GR-U,7361,3575,0,0,0
+4501,2020-12-22,"Under Investigation",GR-U,7359,3575,0,0,0
 4502,2020-12-22,"Mount Athos",GR-69,5,0,0,0,0
 4503,2020-12-22,"Western Greece",GR-G,2853,18,0,0,0
 4504,2020-12-22,Peloponnese,GR-J,2202,1,0,0,0
@@ -4514,3 +4514,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4513,2020-12-22,Crete,GR-M,2173,3,0,0,0
 4514,2020-12-22,Thessaly,GR-E,11990,34,0,0,0
 4515,2020-12-22,"North Aegean",GR-K,2190,13,0,0,0
+4516,2020-12-23,"Under Investigation",GR-U,7378,3637,0,0,0
+4517,2020-12-23,"Mount Athos",GR-69,5,0,0,0,0
+4518,2020-12-23,"Western Greece",GR-G,2879,18,0,0,0
+4519,2020-12-23,Peloponnese,GR-J,2218,1,0,0,0
+4520,2020-12-23,Epirus,GR-D,2021,17,0,0,0
+4521,2020-12-23,Attica,GR-I,35229,330,0,0,0
+4522,2020-12-23,"Central Greece",GR-H,2345,1,0,0,0
+4523,2020-12-23,"Western Macedonia",GR-C,4926,50,0,0,0
+4524,2020-12-23,"Eastern Macedonia and Thrace",GR-A,11597,57,0,0,0
+4525,2020-12-23,"South Aegean",GR-L,1022,0,0,0,0
+4526,2020-12-23,"Ionian Islands",GR-F,675,6,0,0,0
+4527,2020-12-23,"Central Macedonia",GR-B,46609,235,0,0,0
+4528,2020-12-23,Crete,GR-M,2178,3,0,0,0
+4529,2020-12-23,Thessaly,GR-E,12085,34,0,0,0
+4530,2020-12-23,"North Aegean",GR-K,2198,13,0,0,0
