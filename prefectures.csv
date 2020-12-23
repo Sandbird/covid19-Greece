@@ -12107,5 +12107,5 @@ id,date,region_gr,region_en,region_id,population,color,cases,deaths,recovered,ac
 12218,2020-12-23,Χαλκιδικής,Chalkidiki,3,104894,grey,12,0,0,0,0
 12219,2020-12-23,Χανίων,Chania,4,150387,grey,3,0,0,0,0
 12220,2020-12-23,Χίου,Chios,9,53408,grey,1,0,0,0,0
-12221,2020-12-23,"Υπό διερεύνηση","Under Investigation",16,0,,4,0,0,0,0
+12221,2020-12-23,"Υπό διερεύνηση","Under Investigation",16,0,,4,62,0,0,0
 12222,2020-12-23,"Άγιο Όρος","Mount Athos",8,2262,,0,0,0,0,0
