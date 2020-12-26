@@ -4559,3 +4559,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4558,2020-12-25,Crete,GR-M,2182,3,0,0,0
 4559,2020-12-25,Thessaly,GR-E,12202,34,0,0,0
 4560,2020-12-25,"North Aegean",GR-K,2230,13,0,0,0
+4561,2020-12-26,"Under Investigation",GR-U,7428,3788,0,0,0
+4562,2020-12-26,"Mount Athos",GR-69,11,0,0,0,0
+4563,2020-12-26,"Western Greece",GR-G,2932,18,0,0,0
+4564,2020-12-26,Peloponnese,GR-J,2258,1,0,0,0
+4565,2020-12-26,Epirus,GR-D,2029,17,0,0,0
+4566,2020-12-26,Attica,GR-I,35805,330,0,0,0
+4567,2020-12-26,"Central Greece",GR-H,2389,1,0,0,0
+4568,2020-12-26,"Western Macedonia",GR-C,5002,50,0,0,0
+4569,2020-12-26,"Eastern Macedonia and Thrace",GR-A,11766,57,0,0,0
+4570,2020-12-26,"South Aegean",GR-L,1036,0,0,0,0
+4571,2020-12-26,"Ionian Islands",GR-F,681,6,0,0,0
+4572,2020-12-26,"Central Macedonia",GR-B,47106,235,0,0,0
+4573,2020-12-26,Crete,GR-M,2186,3,0,0,0
+4574,2020-12-26,Thessaly,GR-E,12250,34,0,0,0
+4575,2020-12-26,"North Aegean",GR-K,2235,13,0,0,0
