@@ -12317,5 +12317,5 @@ id,date,region_gr,region_en,region_id,population,color,cases,deaths,recovered,ac
 12428,2020-12-26,Χαλκιδικής,Chalkidiki,3,104894,grey,1,0,0,0,0
 12429,2020-12-26,Χανίων,Chania,4,150387,grey,2,0,0,0,0
 12430,2020-12-26,Χίου,Chios,9,53408,grey,0,0,0,0,0
-12431,2020-12-26,"Υπό διερεύνηση","Under Investigation",16,0,,0,0,0,0,0
+12431,2020-12-26,"Υπό διερεύνηση","Under Investigation",16,0,,0,46,0,0,0
 12432,2020-12-26,"Άγιο Όρος","Mount Athos",8,2262,,1,0,0,0,0
