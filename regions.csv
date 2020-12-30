@@ -4619,3 +4619,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4618,2020-12-29,Crete,GR-M,2194,3,0,0,0
 4619,2020-12-29,Thessaly,GR-E,12396,34,0,0,0
 4620,2020-12-29,"North Aegean",GR-K,2273,13,0,0,0
+4621,2020-12-30,"Under Investigation",GR-U,7525,4023,0,0,0
+4622,2020-12-30,"Mount Athos",GR-69,11,0,0,0,0
+4623,2020-12-30,"Western Greece",GR-G,3004,18,0,0,0
+4624,2020-12-30,Peloponnese,GR-J,2311,1,0,0,0
+4625,2020-12-30,Epirus,GR-D,2043,17,0,0,0
+4626,2020-12-30,Attica,GR-I,36774,330,0,0,0
+4627,2020-12-30,"Central Greece",GR-H,2449,1,0,0,0
+4628,2020-12-30,"Western Macedonia",GR-C,5138,50,0,0,0
+4629,2020-12-30,"Eastern Macedonia and Thrace",GR-A,12061,57,0,0,0
+4630,2020-12-30,"South Aegean",GR-L,1079,0,0,0,0
+4631,2020-12-30,"Ionian Islands",GR-F,690,6,0,0,0
+4632,2020-12-30,"Central Macedonia",GR-B,47884,235,0,0,0
+4633,2020-12-30,Crete,GR-M,2199,3,0,0,0
+4634,2020-12-30,Thessaly,GR-E,12463,34,0,0,0
+4635,2020-12-30,"North Aegean",GR-K,2287,13,0,0,0
