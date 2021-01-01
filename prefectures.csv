@@ -12737,5 +12737,5 @@ id,date,region_gr,region_en,region_id,population,color,cases,deaths,recovered,ac
 12848,2021-01-01,Χαλκιδικής,Chalkidiki,3,104894,grey,3,0,0,0,0
 12849,2021-01-01,Χανίων,Chania,4,150387,grey,3,0,0,0,0
 12850,2021-01-01,Χίου,Chios,9,53408,grey,3,0,0,0,0
-12851,2021-01-01,"Υπό διερεύνηση","Under Investigation",16,0,,1,0,0,0,0
+12851,2021-01-01,"Υπό διερεύνηση","Under Investigation",16,0,,1,43,0,0,0
 12852,2021-01-01,"Άγιο Όρος","Mount Athos",8,2262,,0,0,0,0,0
