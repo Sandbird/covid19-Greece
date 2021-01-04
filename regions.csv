@@ -4694,3 +4694,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4693,2021-01-03,Crete,GR-M,2217,3,0,0,0
 4694,2021-01-03,Thessaly,GR-E,12593,34,0,0,0
 4695,2021-01-03,"North Aegean",GR-K,2319,13,0,0,0
+4696,2021-01-04,"Under Investigation",GR-U,7585,4246,0,0,0
+4697,2021-01-04,"Mount Athos",GR-69,11,0,0,0,0
+4698,2021-01-04,"Western Greece",GR-G,3082,18,0,0,0
+4699,2021-01-04,Peloponnese,GR-J,2411,1,0,0,0
+4700,2021-01-04,Epirus,GR-D,2078,17,0,0,0
+4701,2021-01-04,Attica,GR-I,37785,330,0,0,0
+4702,2021-01-04,"Central Greece",GR-H,2551,1,0,0,0
+4703,2021-01-04,"Western Macedonia",GR-C,5265,50,0,0,0
+4704,2021-01-04,"Eastern Macedonia and Thrace",GR-A,12304,57,0,0,0
+4705,2021-01-04,"South Aegean",GR-L,1105,0,0,0,0
+4706,2021-01-04,"Ionian Islands",GR-F,703,6,0,0,0
+4707,2021-01-04,"Central Macedonia",GR-B,48481,235,0,0,0
+4708,2021-01-04,Crete,GR-M,2219,3,0,0,0
+4709,2021-01-04,Thessaly,GR-E,12627,34,0,0,0
+4710,2021-01-04,"North Aegean",GR-K,2319,13,0,0,0
