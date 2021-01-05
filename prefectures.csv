@@ -13017,5 +13017,5 @@ id,date,region_gr,region_en,region_id,population,color,cases,deaths,recovered,ac
 13128,2021-01-05,Χαλκιδικής,Chalkidiki,3,104894,grey,11,0,0,0,0
 13129,2021-01-05,Χανίων,Chania,4,150387,grey,10,0,0,0,0
 13130,2021-01-05,Χίου,Chios,9,53408,grey,0,0,0,0,0
-13131,2021-01-05,"Υπό διερεύνηση","Under Investigation",16,0,,7,0,0,0,0
+13131,2021-01-05,"Υπό διερεύνηση","Under Investigation",16,0,,7,40,0,0,0
 13132,2021-01-05,"Άγιο Όρος","Mount Athos",8,2262,,0,0,0,0,0
