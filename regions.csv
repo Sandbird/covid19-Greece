@@ -4979,3 +4979,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 4978,2021-01-22,Crete,GR-M,2463,3,0,0,0
 4979,2021-01-22,Thessaly,GR-E,13418,34,0,0,0
 4980,2021-01-22,"North Aegean",GR-K,2483,13,0,0,0
+4981,2021-01-23,"Under Investigation",GR-U,7891,4857,0,0,0
+4982,2021-01-23,"Mount Athos",GR-69,11,0,0,0,0
+4983,2021-01-23,"Western Greece",GR-G,3551,18,0,0,0
+4984,2021-01-23,Peloponnese,GR-J,2814,1,0,0,0
+4985,2021-01-23,Epirus,GR-D,2177,17,0,0,0
+4986,2021-01-23,Attica,GR-I,42308,330,0,0,0
+4987,2021-01-23,"Central Greece",GR-H,3157,1,0,0,0
+4988,2021-01-23,"Western Macedonia",GR-C,5650,50,0,0,0
+4989,2021-01-23,"Eastern Macedonia and Thrace",GR-A,12961,57,0,0,0
+4990,2021-01-23,"South Aegean",GR-L,1194,0,0,0,0
+4991,2021-01-23,"Ionian Islands",GR-F,736,6,0,0,0
+4992,2021-01-23,"Central Macedonia",GR-B,50758,235,0,0,0
+4993,2021-01-23,Crete,GR-M,2472,3,0,0,0
+4994,2021-01-23,Thessaly,GR-E,13482,34,0,0,0
+4995,2021-01-23,"North Aegean",GR-K,2484,13,0,0,0
