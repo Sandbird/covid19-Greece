@@ -5099,3 +5099,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 5098,2021-01-30,Crete,GR-M,2600,3,0,0,0
 5099,2021-01-30,Thessaly,GR-E,13776,34,0,0,0
 5100,2021-01-30,"North Aegean",GR-K,2577,13,0,0,0
+5101,2021-01-31,"Under Investigation",GR-U,8008,5014,0,0,0
+5102,2021-01-31,"Mount Athos",GR-69,11,0,0,0,0
+5103,2021-01-31,"Western Greece",GR-G,3858,18,0,0,0
+5104,2021-01-31,Peloponnese,GR-J,3062,1,0,0,0
+5105,2021-01-31,Epirus,GR-D,2213,17,0,0,0
+5106,2021-01-31,Attica,GR-I,44958,330,0,0,0
+5107,2021-01-31,"Central Greece",GR-H,3482,1,0,0,0
+5108,2021-01-31,"Western Macedonia",GR-C,5746,50,0,0,0
+5109,2021-01-31,"Eastern Macedonia and Thrace",GR-A,13105,57,0,0,0
+5110,2021-01-31,"South Aegean",GR-L,1278,0,0,0,0
+5111,2021-01-31,"Ionian Islands",GR-F,757,6,0,0,0
+5112,2021-01-31,"Central Macedonia",GR-B,51499,235,0,0,0
+5113,2021-01-31,Crete,GR-M,2615,3,0,0,0
+5114,2021-01-31,Thessaly,GR-E,13786,34,0,0,0
+5115,2021-01-31,"North Aegean",GR-K,2579,13,0,0,0
