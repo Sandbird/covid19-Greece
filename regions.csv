@@ -5204,3 +5204,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 5203,2021-02-06,Crete,GR-M,2808,3,0,0,0
 5204,2021-02-06,Thessaly,GR-E,14083,34,0,0,0
 5205,2021-02-06,"North Aegean",GR-K,2620,13,0,0,0
+5206,2021-02-07,"Under Investigation",GR-U,8226,5186,0,0,0
+5207,2021-02-07,"Mount Athos",GR-69,11,0,0,0,0
+5208,2021-02-07,"Western Greece",GR-G,4452,18,0,0,0
+5209,2021-02-07,Peloponnese,GR-J,3251,1,0,0,0
+5210,2021-02-07,Epirus,GR-D,2269,17,0,0,0
+5211,2021-02-07,Attica,GR-I,48503,330,0,0,0
+5212,2021-02-07,"Central Greece",GR-H,3955,1,0,0,0
+5213,2021-02-07,"Western Macedonia",GR-C,5849,50,0,0,0
+5214,2021-02-07,"Eastern Macedonia and Thrace",GR-A,13198,57,0,0,0
+5215,2021-02-07,"South Aegean",GR-L,1372,0,0,0,0
+5216,2021-02-07,"Ionian Islands",GR-F,825,6,0,0,0
+5217,2021-02-07,"Central Macedonia",GR-B,52468,235,0,0,0
+5218,2021-02-07,Crete,GR-M,2842,3,0,0,0
+5219,2021-02-07,Thessaly,GR-E,14103,34,0,0,0
+5220,2021-02-07,"North Aegean",GR-K,2622,13,0,0,0
