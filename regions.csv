@@ -5519,3 +5519,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 5518,2021-02-27,Crete,GR-M,3806,3,0,0,0
 5519,2021-02-27,Thessaly,GR-E,15209,34,0,0,0
 5520,2021-02-27,"North Aegean",GR-K,2801,13,0,0,0
+5521,2021-02-28,"Under Investigation",GR-U,8818,5703,0,0,0
+5522,2021-02-28,"Mount Athos",GR-69,12,0,0,0,0
+5523,2021-02-28,"Western Greece",GR-G,6818,18,0,0,0
+5524,2021-02-28,Peloponnese,GR-J,4322,1,0,0,0
+5525,2021-02-28,Epirus,GR-D,2850,17,0,0,0
+5526,2021-02-28,Attica,GR-I,61752,330,0,0,0
+5527,2021-02-28,"Central Greece",GR-H,5313,1,0,0,0
+5528,2021-02-28,"Western Macedonia",GR-C,6113,50,0,0,0
+5529,2021-02-28,"Eastern Macedonia and Thrace",GR-A,13738,57,0,0,0
+5530,2021-02-28,"South Aegean",GR-L,1860,0,0,0,0
+5531,2021-02-28,"Ionian Islands",GR-F,1134,6,0,0,0
+5532,2021-02-28,"Central Macedonia",GR-B,56409,235,0,0,0
+5533,2021-02-28,Crete,GR-M,3852,3,0,0,0
+5534,2021-02-28,Thessaly,GR-E,15291,34,0,0,0
+5535,2021-02-28,"North Aegean",GR-K,2818,13,0,0,0
