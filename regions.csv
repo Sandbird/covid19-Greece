@@ -5609,3 +5609,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 5608,2021-03-05,Crete,GR-M,4184,3,0,0,0
 5609,2021-03-05,Thessaly,GR-E,15789,34,0,0,0
 5610,2021-03-05,"North Aegean",GR-K,2934,13,0,0,0
+5611,2021-03-06,"Under Investigation",GR-U,9184,5899,0,0,0
+5612,2021-03-06,"Mount Athos",GR-69,12,0,0,0,0
+5613,2021-03-06,"Western Greece",GR-G,7795,18,0,0,0
+5614,2021-03-06,Peloponnese,GR-J,4940,1,0,0,0
+5615,2021-03-06,Epirus,GR-D,3173,17,0,0,0
+5616,2021-03-06,Attica,GR-I,67994,330,0,0,0
+5617,2021-03-06,"Central Greece",GR-H,5921,1,0,0,0
+5618,2021-03-06,"Western Macedonia",GR-C,6322,50,0,0,0
+5619,2021-03-06,"Eastern Macedonia and Thrace",GR-A,13910,57,0,0,0
+5620,2021-03-06,"South Aegean",GR-L,1983,0,0,0,0
+5621,2021-03-06,"Ionian Islands",GR-F,1219,6,0,0,0
+5622,2021-03-06,"Central Macedonia",GR-B,58426,235,0,0,0
+5623,2021-03-06,Crete,GR-M,4254,3,0,0,0
+5624,2021-03-06,Thessaly,GR-E,15887,34,0,0,0
+5625,2021-03-06,"North Aegean",GR-K,2947,13,0,0,0
