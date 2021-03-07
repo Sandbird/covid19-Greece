@@ -5624,3 +5624,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 5623,2021-03-06,Crete,GR-M,4254,3,0,0,0
 5624,2021-03-06,Thessaly,GR-E,15887,34,0,0,0
 5625,2021-03-06,"North Aegean",GR-K,2947,13,0,0,0
+5626,2021-03-07,"Under Investigation",GR-U,9213,5940,0,0,0
+5627,2021-03-07,"Mount Athos",GR-69,12,0,0,0,0
+5628,2021-03-07,"Western Greece",GR-G,7846,18,0,0,0
+5629,2021-03-07,Peloponnese,GR-J,5008,1,0,0,0
+5630,2021-03-07,Epirus,GR-D,3202,17,0,0,0
+5631,2021-03-07,Attica,GR-I,68563,330,0,0,0
+5632,2021-03-07,"Central Greece",GR-H,5963,1,0,0,0
+5633,2021-03-07,"Western Macedonia",GR-C,6344,50,0,0,0
+5634,2021-03-07,"Eastern Macedonia and Thrace",GR-A,13924,57,0,0,0
+5635,2021-03-07,"South Aegean",GR-L,2001,0,0,0,0
+5636,2021-03-07,"Ionian Islands",GR-F,1228,6,0,0,0
+5637,2021-03-07,"Central Macedonia",GR-B,58616,235,0,0,0
+5638,2021-03-07,Crete,GR-M,4304,3,0,0,0
+5639,2021-03-07,Thessaly,GR-E,15924,34,0,0,0
+5640,2021-03-07,"North Aegean",GR-K,2961,13,0,0,0
