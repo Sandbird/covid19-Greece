@@ -5684,3 +5684,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 5683,2021-03-10,Crete,GR-M,4546,3,0,0,0
 5684,2021-03-10,Thessaly,GR-E,16332,34,0,0,0
 5685,2021-03-10,"North Aegean",GR-K,3050,13,0,0,0
+5686,2021-03-11,"Under Investigation",GR-U,9606,6121,0,0,0
+5687,2021-03-11,"Mount Athos",GR-69,12,0,0,0,0
+5688,2021-03-11,"Western Greece",GR-G,8440,18,0,0,0
+5689,2021-03-11,Peloponnese,GR-J,5344,1,0,0,0
+5690,2021-03-11,Epirus,GR-D,3389,17,0,0,0
+5691,2021-03-11,Attica,GR-I,73295,330,0,0,0
+5692,2021-03-11,"Central Greece",GR-H,6352,1,0,0,0
+5693,2021-03-11,"Western Macedonia",GR-C,6524,50,0,0,0
+5694,2021-03-11,"Eastern Macedonia and Thrace",GR-A,14074,57,0,0,0
+5695,2021-03-11,"South Aegean",GR-L,2071,0,0,0,0
+5696,2021-03-11,"Ionian Islands",GR-F,1292,6,0,0,0
+5697,2021-03-11,"Central Macedonia",GR-B,60091,235,0,0,0
+5698,2021-03-11,Crete,GR-M,4628,3,0,0,0
+5699,2021-03-11,Thessaly,GR-E,16456,34,0,0,0
+5700,2021-03-11,"North Aegean",GR-K,3087,13,0,0,0
