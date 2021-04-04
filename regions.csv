@@ -6044,3 +6044,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 6043,2021-04-03,Crete,GR-M,6485,3,0,0,0
 6044,2021-04-03,Thessaly,GR-E,19846,34,0,0,0
 6045,2021-04-03,"North Aegean",GR-K,3582,13,0,0,0
+6046,2021-04-04,"Under Investigation",GR-U,11393,7537,0,0,0
+6047,2021-04-04,"Mount Athos",GR-69,38,0,0,0,0
+6048,2021-04-04,"Western Greece",GR-G,11986,18,0,0,0
+6049,2021-04-04,Peloponnese,GR-J,7236,1,0,0,0
+6050,2021-04-04,Epirus,GR-D,4443,17,0,0,0
+6051,2021-04-04,Attica,GR-I,102277,330,0,0,0
+6052,2021-04-04,"Central Greece",GR-H,8824,1,0,0,0
+6053,2021-04-04,"Western Macedonia",GR-C,8594,50,0,0,0
+6054,2021-04-04,"Eastern Macedonia and Thrace",GR-A,15295,57,0,0,0
+6055,2021-04-04,"South Aegean",GR-L,2952,0,0,0,0
+6056,2021-04-04,"Ionian Islands",GR-F,1787,6,0,0,0
+6057,2021-04-04,"Central Macedonia",GR-B,70486,235,0,0,0
+6058,2021-04-04,Crete,GR-M,6558,3,0,0,0
+6059,2021-04-04,Thessaly,GR-E,19947,34,0,0,0
+6060,2021-04-04,"North Aegean",GR-K,3598,13,0,0,0
