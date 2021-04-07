@@ -6089,3 +6089,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 6088,2021-04-06,Crete,GR-M,6781,3,0,0,0
 6089,2021-04-06,Thessaly,GR-E,20264,34,0,0,0
 6090,2021-04-06,"North Aegean",GR-K,3647,13,0,0,0
+6091,2021-04-07,"Under Investigation",GR-U,11748,7767,0,0,0
+6092,2021-04-07,"Mount Athos",GR-69,39,0,0,0,0
+6093,2021-04-07,"Western Greece",GR-G,12526,18,0,0,0
+6094,2021-04-07,Peloponnese,GR-J,7489,1,0,0,0
+6095,2021-04-07,Epirus,GR-D,4583,17,0,0,0
+6096,2021-04-07,Attica,GR-I,106613,330,0,0,0
+6097,2021-04-07,"Central Greece",GR-H,9164,1,0,0,0
+6098,2021-04-07,"Western Macedonia",GR-C,8882,50,0,0,0
+6099,2021-04-07,"Eastern Macedonia and Thrace",GR-A,15640,57,0,0,0
+6100,2021-04-07,"South Aegean",GR-L,3135,0,0,0,0
+6101,2021-04-07,"Ionian Islands",GR-F,1854,6,0,0,0
+6102,2021-04-07,"Central Macedonia",GR-B,72365,235,0,0,0
+6103,2021-04-07,Crete,GR-M,6881,3,0,0,0
+6104,2021-04-07,Thessaly,GR-E,20431,34,0,0,0
+6105,2021-04-07,"North Aegean",GR-K,3665,13,0,0,0
