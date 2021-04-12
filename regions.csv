@@ -6164,3 +6164,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 6163,2021-04-11,Crete,GR-M,7239,3,0,0,0
 6164,2021-04-11,Thessaly,GR-E,20974,34,0,0,0
 6165,2021-04-11,"North Aegean",GR-K,3728,13,0,0,0
+6166,2021-04-12,"Under Investigation",GR-U,12088,8120,0,0,0
+6167,2021-04-12,"Mount Athos",GR-69,40,0,0,0,0
+6168,2021-04-12,"Western Greece",GR-G,13141,18,0,0,0
+6169,2021-04-12,Peloponnese,GR-J,7823,1,0,0,0
+6170,2021-04-12,Epirus,GR-D,4712,17,0,0,0
+6171,2021-04-12,Attica,GR-I,112344,330,0,0,0
+6172,2021-04-12,"Central Greece",GR-H,9568,1,0,0,0
+6173,2021-04-12,"Western Macedonia",GR-C,9243,50,0,0,0
+6174,2021-04-12,"Eastern Macedonia and Thrace",GR-A,16012,57,0,0,0
+6175,2021-04-12,"South Aegean",GR-L,3332,0,0,0,0
+6176,2021-04-12,"Ionian Islands",GR-F,1911,6,0,0,0
+6177,2021-04-12,"Central Macedonia",GR-B,74797,235,0,0,0
+6178,2021-04-12,Crete,GR-M,7284,3,0,0,0
+6179,2021-04-12,Thessaly,GR-E,21056,34,0,0,0
+6180,2021-04-12,"North Aegean",GR-K,3735,13,0,0,0
