@@ -6254,3 +6254,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 6253,2021-04-17,Crete,GR-M,7890,3,0,0,0
 6254,2021-04-17,Thessaly,GR-E,21953,34,0,0,0
 6255,2021-04-17,"North Aegean",GR-K,3820,13,0,0,0
+6256,2021-04-18,"Under Investigation",GR-U,12694,8632,0,0,0
+6257,2021-04-18,"Mount Athos",GR-69,42,0,0,0,0
+6258,2021-04-18,"Western Greece",GR-G,13796,18,0,0,0
+6259,2021-04-18,Peloponnese,GR-J,8353,1,0,0,0
+6260,2021-04-18,Epirus,GR-D,4895,17,0,0,0
+6261,2021-04-18,Attica,GR-I,120884,330,0,0,0
+6262,2021-04-18,"Central Greece",GR-H,10184,1,0,0,0
+6263,2021-04-18,"Western Macedonia",GR-C,9762,50,0,0,0
+6264,2021-04-18,"Eastern Macedonia and Thrace",GR-A,16825,57,0,0,0
+6265,2021-04-18,"South Aegean",GR-L,3574,0,0,0,0
+6266,2021-04-18,"Ionian Islands",GR-F,2022,6,0,0,0
+6267,2021-04-18,"Central Macedonia",GR-B,78408,235,0,0,0
+6268,2021-04-18,Crete,GR-M,7952,3,0,0,0
+6269,2021-04-18,Thessaly,GR-E,22048,34,0,0,0
+6270,2021-04-18,"North Aegean",GR-K,3834,13,0,0,0
