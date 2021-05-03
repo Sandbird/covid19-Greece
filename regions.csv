@@ -6479,3 +6479,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 6478,2021-05-02,Crete,GR-M,9087,3,0,0,0
 6479,2021-05-02,Thessaly,GR-E,23823,34,0,0,0
 6480,2021-05-02,"North Aegean",GR-K,3957,13,0,0,0
+6481,2021-05-03,"Under Investigation",GR-U,13787,5064,0,0,0
+6482,2021-05-03,"Mount Athos",GR-69,43,0,0,0,0
+6483,2021-05-03,"Western Greece",GR-G,15059,18,0,0,0
+6484,2021-05-03,Peloponnese,GR-J,9229,1,0,0,0
+6485,2021-05-03,Epirus,GR-D,5477,17,0,0,0
+6486,2021-05-03,Attica,GR-I,136592,330,0,0,0
+6487,2021-05-03,"Central Greece",GR-H,11499,1,0,0,0
+6488,2021-05-03,"Western Macedonia",GR-C,10617,50,0,0,0
+6489,2021-05-03,"Eastern Macedonia and Thrace",GR-A,18174,57,0,0,0
+6490,2021-05-03,"South Aegean",GR-L,4035,0,0,0,0
+6491,2021-05-03,"Ionian Islands",GR-F,2201,6,0,0,0
+6492,2021-05-03,"Central Macedonia",GR-B,84790,235,0,0,0
+6493,2021-05-03,Crete,GR-M,9153,3,0,0,0
+6494,2021-05-03,Thessaly,GR-E,23948,34,0,0,0
+6495,2021-05-03,"North Aegean",GR-K,3964,13,0,0,0
