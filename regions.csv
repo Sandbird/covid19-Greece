@@ -6599,7 +6599,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 6598,2021-05-10,Crete,GR-M,9720,3,0,0,0
 6599,2021-05-10,Thessaly,GR-E,24858,34,0,0,0
 6600,2021-05-10,"North Aegean",GR-K,4066,13,0,0,0
-6601,2021-05-11,"Under Investigation",GR-U,14424,5252,0,0,0
+6601,2021-05-11,"Under Investigation",GR-U,14413,5252,0,0,0
 6602,2021-05-11,"Mount Athos",GR-69,43,0,0,0,0
 6603,2021-05-11,"Western Greece",GR-G,16461,18,0,0,0
 6604,2021-05-11,Peloponnese,GR-J,9753,1,0,0,0
@@ -6614,3 +6614,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 6613,2021-05-11,Crete,GR-M,9845,3,0,0,0
 6614,2021-05-11,Thessaly,GR-E,25056,34,0,0,0
 6615,2021-05-11,"North Aegean",GR-K,4090,13,0,0,0
+6616,2021-05-12,"Under Investigation",GR-U,14514,5269,0,0,0
+6617,2021-05-12,"Mount Athos",GR-69,43,0,0,0,0
+6618,2021-05-12,"Western Greece",GR-G,16680,18,0,0,0
+6619,2021-05-12,Peloponnese,GR-J,9829,1,0,0,0
+6620,2021-05-12,Epirus,GR-D,5919,17,0,0,0
+6621,2021-05-12,Attica,GR-I,145976,330,0,0,0
+6622,2021-05-12,"Central Greece",GR-H,12375,1,0,0,0
+6623,2021-05-12,"Western Macedonia",GR-C,11119,50,0,0,0
+6624,2021-05-12,"Eastern Macedonia and Thrace",GR-A,18962,57,0,0,0
+6625,2021-05-12,"South Aegean",GR-L,4590,0,0,0,0
+6626,2021-05-12,"Ionian Islands",GR-F,2436,6,0,0,0
+6627,2021-05-12,"Central Macedonia",GR-B,87827,235,0,0,0
+6628,2021-05-12,Crete,GR-M,9946,3,0,0,0
+6629,2021-05-12,Thessaly,GR-E,25212,34,0,0,0
+6630,2021-05-12,"North Aegean",GR-K,4126,13,0,0,0
