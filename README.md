@@ -9,6 +9,12 @@ This repository will be updated daily on an irregular basis according to the ann
 
 All notable changes to the files will be documented here.
 
+## 17-05-2021
+
+### Changed
+
+- prefectures.csv. Population values for various prefectures have been updated, based on the 'POPULATION CENSUS of 2011' provided by https://www.statistics.gr/2011-census-pop-hous
+
 ## 14-05-2021
 
 ### Added
