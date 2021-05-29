@@ -6854,7 +6854,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 6853,2021-05-27,Crete,GR-M,11192,3,0,0,0
 6854,2021-05-27,Thessaly,GR-E,26972,34,0,0,0
 6855,2021-05-27,"North Aegean",GR-K,4437,13,0,0,0
-6856,2021-05-28,"Under Investigation",GR-U,15812,5674,0,0,0
+6856,2021-05-28,"Under Investigation",GR-U,15469,5674,0,0,0
 6857,2021-05-28,"Mount Athos",GR-69,43,0,0,0,0
 6858,2021-05-28,"Western Greece",GR-G,18688,18,0,0,0
 6859,2021-05-28,Peloponnese,GR-J,10504,1,0,0,0
