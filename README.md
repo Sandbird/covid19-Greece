@@ -9,6 +9,13 @@ This repository will be updated daily on an irregular basis according to the ann
 
 All notable changes to the files will be documented here.
 
+## 04-06-2021
+
+### Changed
+
+- prefectures.csv. Population values for various prefectures were reverted back to their previous (prior to the 17/5 change) value. There is a discrepancy between the Census values of 2011 and what EODY is using for some prefectures. For the time being i will be using the same values EODY is using. Hopefully with the 2021 census this problem will disappear.
+
+
 ## 22-05-2021
 
 ### Changed
