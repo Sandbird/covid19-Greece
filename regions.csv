@@ -7019,3 +7019,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 7018,2021-06-07,Crete,GR-M,11788,3,0,0,0
 7019,2021-06-07,Thessaly,GR-E,27770,34,0,0,0
 7020,2021-06-07,"North Aegean",GR-K,4534,13,0,0,0
+7021,2021-06-08,"Under Investigation",GR-U,16388,6078,0,0,0
+7022,2021-06-08,"Mount Athos",GR-69,43,0,0,0,0
+7023,2021-06-08,"Western Greece",GR-G,19282,18,0,0,0
+7024,2021-06-08,Peloponnese,GR-J,10811,1,0,0,0
+7025,2021-06-08,Epirus,GR-D,6835,17,0,0,0
+7026,2021-06-08,Attica,GR-I,166440,330,0,0,0
+7027,2021-06-08,"Central Greece",GR-H,13910,1,0,0,0
+7028,2021-06-08,"Western Macedonia",GR-C,11993,50,0,0,0
+7029,2021-06-08,"Eastern Macedonia and Thrace",GR-A,20067,57,0,0,0
+7030,2021-06-08,"South Aegean",GR-L,5374,0,0,0,0
+7031,2021-06-08,"Ionian Islands",GR-F,3012,6,0,0,0
+7032,2021-06-08,"Central Macedonia",GR-B,93093,235,0,0,0
+7033,2021-06-08,Crete,GR-M,11843,3,0,0,0
+7034,2021-06-08,Thessaly,GR-E,27866,34,0,0,0
+7035,2021-06-08,"North Aegean",GR-K,4548,13,0,0,0
