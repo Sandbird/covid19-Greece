@@ -7064,3 +7064,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 7063,2021-06-10,Crete,GR-M,11917,3,0,0,0
 7064,2021-06-10,Thessaly,GR-E,27972,34,0,0,0
 7065,2021-06-10,"North Aegean",GR-K,4568,13,0,0,0
+7066,2021-06-11,"Under Investigation",GR-U,16480,6221,0,0,0
+7067,2021-06-11,"Mount Athos",GR-69,43,0,0,0,0
+7068,2021-06-11,"Western Greece",GR-G,19388,18,0,0,0
+7069,2021-06-11,Peloponnese,GR-J,10862,1,0,0,0
+7070,2021-06-11,Epirus,GR-D,6859,17,0,0,0
+7071,2021-06-11,Attica,GR-I,167653,330,0,0,0
+7072,2021-06-11,"Central Greece",GR-H,14033,1,0,0,0
+7073,2021-06-11,"Western Macedonia",GR-C,12055,50,0,0,0
+7074,2021-06-11,"Eastern Macedonia and Thrace",GR-A,20105,57,0,0,0
+7075,2021-06-11,"South Aegean",GR-L,5418,0,0,0,0
+7076,2021-06-11,"Ionian Islands",GR-F,3046,6,0,0,0
+7077,2021-06-11,"Central Macedonia",GR-B,93446,235,0,0,0
+7078,2021-06-11,Crete,GR-M,11956,3,0,0,0
+7079,2021-06-11,Thessaly,GR-E,28012,34,0,0,0
+7080,2021-06-11,"North Aegean",GR-K,4571,13,0,0,0
