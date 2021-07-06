@@ -7379,7 +7379,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 7378,2021-07-01,Crete,GR-M,12528,3,0,0,0
 7379,2021-07-01,Thessaly,GR-E,28547,34,0,0,0
 7380,2021-07-01,"North Aegean",GR-K,4647,13,0,0,0
-7381,2021-07-02,"Under Investigation",GR-U,17804,7467,0,0,0
+7381,2021-07-02,"Under Investigation",GR-U,17623,7467,0,0,0
 7382,2021-07-02,"Mount Athos",GR-69,43,0,0,0,0
 7383,2021-07-02,"Western Greece",GR-G,19670,18,0,0,0
 7384,2021-07-02,Peloponnese,GR-J,11108,1,0,0,0
@@ -7394,7 +7394,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 7393,2021-07-02,Crete,GR-M,12589,3,0,0,0
 7394,2021-07-02,Thessaly,GR-E,28586,34,0,0,0
 7395,2021-07-02,"North Aegean",GR-K,4653,13,0,0,0
-7396,2021-07-03,"Under Investigation",GR-U,17854,7537,0,0,0
+7396,2021-07-03,"Under Investigation",GR-U,17856,7537,0,0,0
 7397,2021-07-03,"Mount Athos",GR-69,43,0,0,0,0
 7398,2021-07-03,"Western Greece",GR-G,19704,18,0,0,0
 7399,2021-07-03,Peloponnese,GR-J,11122,1,0,0,0
@@ -7409,7 +7409,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 7408,2021-07-03,Crete,GR-M,12670,3,0,0,0
 7409,2021-07-03,Thessaly,GR-E,28649,34,0,0,0
 7410,2021-07-03,"North Aegean",GR-K,4658,13,0,0,0
-7411,2021-07-04,"Under Investigation",GR-U,18111,7615,0,0,0
+7411,2021-07-04,"Under Investigation",GR-U,17913,7615,0,0,0
 7412,2021-07-04,"Mount Athos",GR-69,43,0,0,0,0
 7413,2021-07-04,"Western Greece",GR-G,19720,18,0,0,0
 7414,2021-07-04,Peloponnese,GR-J,11136,1,0,0,0
@@ -7424,7 +7424,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 7423,2021-07-04,Crete,GR-M,12741,3,0,0,0
 7424,2021-07-04,Thessaly,GR-E,28684,34,0,0,0
 7425,2021-07-04,"North Aegean",GR-K,4662,13,0,0,0
-7426,2021-07-05,"Under Investigation",GR-U,18203,7688,0,0,0
+7426,2021-07-05,"Under Investigation",GR-U,18587,7688,0,0,0
 7427,2021-07-05,"Mount Athos",GR-69,43,0,0,0,0
 7428,2021-07-05,"Western Greece",GR-G,19748,18,0,0,0
 7429,2021-07-05,Peloponnese,GR-J,11156,1,0,0,0
@@ -7439,3 +7439,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 7438,2021-07-05,Crete,GR-M,12815,3,0,0,0
 7439,2021-07-05,Thessaly,GR-E,28735,34,0,0,0
 7440,2021-07-05,"North Aegean",GR-K,4665,13,0,0,0
+7441,2021-07-06,"Under Investigation",GR-U,18733,7767,0,0,0
+7442,2021-07-06,"Mount Athos",GR-69,43,0,0,0,0
+7443,2021-07-06,"Western Greece",GR-G,19796,18,0,0,0
+7444,2021-07-06,Peloponnese,GR-J,11187,1,0,0,0
+7445,2021-07-06,Epirus,GR-D,7149,17,0,0,0
+7446,2021-07-06,Attica,GR-I,175005,330,0,0,0
+7447,2021-07-06,"Central Greece",GR-H,14442,1,0,0,0
+7448,2021-07-06,"Western Macedonia",GR-C,12319,50,0,0,0
+7449,2021-07-06,"Eastern Macedonia and Thrace",GR-A,20255,57,0,0,0
+7450,2021-07-06,"South Aegean",GR-L,5913,0,0,0,0
+7451,2021-07-06,"Ionian Islands",GR-F,3162,6,0,0,0
+7452,2021-07-06,"Central Macedonia",GR-B,94622,235,0,0,0
+7453,2021-07-06,Crete,GR-M,13013,3,0,0,0
+7454,2021-07-06,Thessaly,GR-E,28834,34,0,0,0
+7455,2021-07-06,"North Aegean",GR-K,4671,13,0,0,0
