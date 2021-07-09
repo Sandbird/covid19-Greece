@@ -7484,3 +7484,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 7483,2021-07-08,Crete,GR-M,13426,3,0,0,0
 7484,2021-07-08,Thessaly,GR-E,29031,34,0,0,0
 7485,2021-07-08,"North Aegean",GR-K,4694,13,0,0,0
+7486,2021-07-09,"Under Investigation",GR-U,19098,7993,0,0,0
+7487,2021-07-09,"Mount Athos",GR-69,43,0,0,0,0
+7488,2021-07-09,"Western Greece",GR-G,20014,18,0,0,0
+7489,2021-07-09,Peloponnese,GR-J,11326,1,0,0,0
+7490,2021-07-09,Epirus,GR-D,7346,17,0,0,0
+7491,2021-07-09,Attica,GR-I,178203,330,0,0,0
+7492,2021-07-09,"Central Greece",GR-H,14555,1,0,0,0
+7493,2021-07-09,"Western Macedonia",GR-C,12412,50,0,0,0
+7494,2021-07-09,"Eastern Macedonia and Thrace",GR-A,20282,57,0,0,0
+7495,2021-07-09,"South Aegean",GR-L,6074,0,0,0,0
+7496,2021-07-09,"Ionian Islands",GR-F,3213,6,0,0,0
+7497,2021-07-09,"Central Macedonia",GR-B,94925,235,0,0,0
+7498,2021-07-09,Crete,GR-M,13652,3,0,0,0
+7499,2021-07-09,Thessaly,GR-E,29167,34,0,0,0
+7500,2021-07-09,"North Aegean",GR-K,4708,13,0,0,0
