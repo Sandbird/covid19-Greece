@@ -7574,3 +7574,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 7573,2021-07-14,Crete,GR-M,14978,3,0,0,0
 7574,2021-07-14,Thessaly,GR-E,29900,34,0,0,0
 7575,2021-07-14,"North Aegean",GR-K,4783,13,0,0,0
+7576,2021-07-15,"Under Investigation",GR-U,20786,8474,0,0,0
+7577,2021-07-15,"Mount Athos",GR-69,43,0,0,0,0
+7578,2021-07-15,"Western Greece",GR-G,20609,18,0,0,0
+7579,2021-07-15,Peloponnese,GR-J,11835,1,0,0,0
+7580,2021-07-15,Epirus,GR-D,7731,17,0,0,0
+7581,2021-07-15,Attica,GR-I,185157,330,0,0,0
+7582,2021-07-15,"Central Greece",GR-H,14847,1,0,0,0
+7583,2021-07-15,"Western Macedonia",GR-C,12613,50,0,0,0
+7584,2021-07-15,"Eastern Macedonia and Thrace",GR-A,20401,57,0,0,0
+7585,2021-07-15,"South Aegean",GR-L,6816,0,0,0,0
+7586,2021-07-15,"Ionian Islands",GR-F,3399,6,0,0,0
+7587,2021-07-15,"Central Macedonia",GR-B,96098,235,0,0,0
+7588,2021-07-15,Crete,GR-M,15288,3,0,0,0
+7589,2021-07-15,Thessaly,GR-E,30089,34,0,0,0
+7590,2021-07-15,"North Aegean",GR-K,4800,13,0,0,0
