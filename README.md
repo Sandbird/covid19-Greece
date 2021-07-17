@@ -19,8 +19,6 @@ All notable changes to the files will be documented here.
 - newvacc1rate: 1st dose, coverage as it results from the available information of residents within the Regional Unit
 - newvacc2rate: Fully Vaccinated, coverage as it results from the available information of residents within the Regional Unit
 - posrate: The positivity index (%) of the week
-
-- The daily updates are based on the formula: [totaldose1 * 100) / population]  (or totaldose2 for calculating the Fully Vaccinated value)
 - The weekly updates are drawn from the Ministry of Civil Protection page: https://covid19.gov.gr/covid-map-en
 
 
