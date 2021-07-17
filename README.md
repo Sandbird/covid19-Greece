@@ -13,11 +13,11 @@ All notable changes to the files will be documented here.
 
 ### Changed
 
-- prefectures.csv. Added columns: vaccrate, vaccrate2, newvacc1rate, newvacc2rate, posrate
-- vaccrate: 1st dose, coverage as it results from the location of each vaccination center that may include employees, non-permanent residents of the Regional Unit, etc. (updated daily)
-- vaccrate2: Fully Vaccinated, coverage as it results from the location of each vaccination center that may include employees, non-permanent residents of the Regional Unit, etc. (updated daily)
-- newvacc1rate: 1st dose, coverage as it results from the available information of residents within the Regional Unit (updated once weekly)
-- newvacc2rate: Fully Vaccinated, coverage as it results from the available information of residents within the Regional Unit (updated once weekly)
+- prefectures.csv. Added columns: vaccrate, vaccrate2, newvacc1rate, newvacc2rate, posrate (All values are updated once, weekly)
+- vaccrate: 1st dose, coverage as it results from the location of each vaccination center that may include employees, non-permanent residents of the Regional Unit, etc.
+- vaccrate2: Fully Vaccinated, coverage as it results from the location of each vaccination center that may include employees, non-permanent residents of the Regional Unit, etc.
+- newvacc1rate: 1st dose, coverage as it results from the available information of residents within the Regional Unit
+- newvacc2rate: Fully Vaccinated, coverage as it results from the available information of residents within the Regional Unit
 - posrate: The positivity index (%) of the week
 
 - The daily updates are based on the formula: [totaldose1 * 100) / population]  (or totaldose2 for calculating the Fully Vaccinated value)
