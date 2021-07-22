@@ -7634,7 +7634,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 7633,2021-07-18,Crete,GR-M,16027,3,0,0,0
 7634,2021-07-18,Thessaly,GR-E,30496,34,0,0,0
 7635,2021-07-18,"North Aegean",GR-K,4856,13,0,0,0
-7636,2021-07-19,"Under Investigation",GR-U,22118,8775,0,0,0
+7636,2021-07-19,"Under Investigation",GR-U,21356,8775,0,0,0
 7637,2021-07-19,"Mount Athos",GR-69,43,0,0,0,0
 7638,2021-07-19,"Western Greece",GR-G,20936,18,0,0,0
 7639,2021-07-19,Peloponnese,GR-J,12229,1,0,0,0
@@ -7649,8 +7649,8 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 7648,2021-07-19,Crete,GR-M,16248,3,0,0,0
 7649,2021-07-19,Thessaly,GR-E,30591,34,0,0,0
 7650,2021-07-19,"North Aegean",GR-K,4876,13,0,0,0
-7651,2021-07-20,"Under Investigation",GR-U,25319,8862,0,0,0
-7652,2021-07-21,"Under Investigation",GR-U,25559,8948,0,0,0
+7651,2021-07-20,"Under Investigation",GR-U,22354,8862,0,0,0
+7652,2021-07-21,"Under Investigation",GR-U,22587,8948,0,0,0
 7653,2021-07-20,"Mount Athos",GR-69,43,0,0,0,0
 7654,2021-07-21,"Mount Athos",GR-69,43,0,0,0,0
 7655,2021-07-20,"Western Greece",GR-G,21035,18,0,0,0
@@ -7679,3 +7679,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 7678,2021-07-21,Thessaly,GR-E,30893,34,0,0,0
 7679,2021-07-20,"North Aegean",GR-K,4909,13,0,0,0
 7680,2021-07-21,"North Aegean",GR-K,4937,13,0,0,0
+7681,2021-07-22,"Under Investigation",GR-U,22727,9023,0,0,0
+7682,2021-07-22,"Mount Athos",GR-69,43,0,0,0,0
+7683,2021-07-22,"Western Greece",GR-G,21233,18,0,0,0
+7684,2021-07-22,Peloponnese,GR-J,12641,1,0,0,0
+7685,2021-07-22,Epirus,GR-D,8099,17,0,0,0
+7686,2021-07-22,Attica,GR-I,192807,330,0,0,0
+7687,2021-07-22,"Central Greece",GR-H,15347,1,0,0,0
+7688,2021-07-22,"Western Macedonia",GR-C,12881,50,0,0,0
+7689,2021-07-22,"Eastern Macedonia and Thrace",GR-A,20713,57,0,0,0
+7690,2021-07-22,"South Aegean",GR-L,7934,0,0,0,0
+7691,2021-07-22,"Ionian Islands",GR-F,3704,6,0,0,0
+7692,2021-07-22,"Central Macedonia",GR-B,97824,235,0,0,0
+7693,2021-07-22,Crete,GR-M,17123,3,0,0,0
+7694,2021-07-22,Thessaly,GR-E,31000,34,0,0,0
+7695,2021-07-22,"North Aegean",GR-K,4966,13,0,0,0
