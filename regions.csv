@@ -7709,3 +7709,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 7708,2021-07-23,Crete,GR-M,17404,3,0,0,0
 7709,2021-07-23,Thessaly,GR-E,31128,34,0,0,0
 7710,2021-07-23,"North Aegean",GR-K,5010,13,0,0,0
+7711,2021-07-24,"Under Investigation",GR-U,23044,9185,0,0,0
+7712,2021-07-24,"Mount Athos",GR-69,43,0,0,0,0
+7713,2021-07-24,"Western Greece",GR-G,21407,18,0,0,0
+7714,2021-07-24,Peloponnese,GR-J,12931,1,0,0,0
+7715,2021-07-24,Epirus,GR-D,8185,17,0,0,0
+7716,2021-07-24,Attica,GR-I,194894,330,0,0,0
+7717,2021-07-24,"Central Greece",GR-H,15518,1,0,0,0
+7718,2021-07-24,"Western Macedonia",GR-C,13000,50,0,0,0
+7719,2021-07-24,"Eastern Macedonia and Thrace",GR-A,20821,57,0,0,0
+7720,2021-07-24,"South Aegean",GR-L,8262,0,0,0,0
+7721,2021-07-24,"Ionian Islands",GR-F,3828,6,0,0,0
+7722,2021-07-24,"Central Macedonia",GR-B,98515,235,0,0,0
+7723,2021-07-24,Crete,GR-M,17663,3,0,0,0
+7724,2021-07-24,Thessaly,GR-E,31216,34,0,0,0
+7725,2021-07-24,"North Aegean",GR-K,5039,13,0,0,0
