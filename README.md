@@ -9,6 +9,14 @@ This repository will be updated daily on an irregular basis according to the ann
 
 All notable changes to the files will be documented here.
 
+## 27-07-2021
+
+### Changed
+
+- cases.csv. Added columns: new_selftest, total_selftest (values are updated daily)
+(Self-diagnostic results that have been recorded on the Self Testing platform (https://self-testing.gov.gr/))
+
+
 ## 16-07-2021
 
 ### Changed
