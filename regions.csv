@@ -8009,3 +8009,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 8008,2021-08-12,Crete,GR-M,24197,3,0,0,0
 8009,2021-08-12,Thessaly,GR-E,33068,34,0,0,0
 8010,2021-08-12,"North Aegean",GR-K,6080,13,0,0,0
+8011,2021-08-13,"Under Investigation",GR-U,28075,10557,0,0,0
+8012,2021-08-13,"Mount Athos",GR-69,43,0,0,0,0
+8013,2021-08-13,"Western Greece",GR-G,24080,18,0,0,0
+8014,2021-08-13,Peloponnese,GR-J,15787,1,0,0,0
+8015,2021-08-13,Epirus,GR-D,9387,17,0,0,0
+8016,2021-08-13,Attica,GR-I,212090,330,0,0,0
+8017,2021-08-13,"Central Greece",GR-H,17768,1,0,0,0
+8018,2021-08-13,"Western Macedonia",GR-C,14246,50,0,0,0
+8019,2021-08-13,"Eastern Macedonia and Thrace",GR-A,22566,57,0,0,0
+8020,2021-08-13,"South Aegean",GR-L,12321,0,0,0,0
+8021,2021-08-13,"Ionian Islands",GR-F,5304,6,0,0,0
+8022,2021-08-13,"Central Macedonia",GR-B,106308,235,0,0,0
+8023,2021-08-13,Crete,GR-M,24638,3,0,0,0
+8024,2021-08-13,Thessaly,GR-E,33215,34,0,0,0
+8025,2021-08-13,"North Aegean",GR-K,6139,13,0,0,0
