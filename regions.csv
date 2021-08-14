@@ -8024,3 +8024,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 8023,2021-08-13,Crete,GR-M,24638,3,0,0,0
 8024,2021-08-13,Thessaly,GR-E,33215,34,0,0,0
 8025,2021-08-13,"North Aegean",GR-K,6139,13,0,0,0
+8026,2021-08-14,"Under Investigation",GR-U,28300,10600,0,0,0
+8027,2021-08-14,"Mount Athos",GR-69,43,0,0,0,0
+8028,2021-08-14,"Western Greece",GR-G,24284,18,0,0,0
+8029,2021-08-14,Peloponnese,GR-J,15988,1,0,0,0
+8030,2021-08-14,Epirus,GR-D,9472,17,0,0,0
+8031,2021-08-14,Attica,GR-I,212999,330,0,0,0
+8032,2021-08-14,"Central Greece",GR-H,17900,1,0,0,0
+8033,2021-08-14,"Western Macedonia",GR-C,14295,50,0,0,0
+8034,2021-08-14,"Eastern Macedonia and Thrace",GR-A,22735,57,0,0,0
+8035,2021-08-14,"South Aegean",GR-L,12567,0,0,0,0
+8036,2021-08-14,"Ionian Islands",GR-F,5381,6,0,0,0
+8037,2021-08-14,"Central Macedonia",GR-B,106713,235,0,0,0
+8038,2021-08-14,Crete,GR-M,25030,3,0,0,0
+8039,2021-08-14,Thessaly,GR-E,33343,34,0,0,0
+8040,2021-08-14,"North Aegean",GR-K,6187,13,0,0,0
