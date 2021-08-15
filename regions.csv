@@ -8039,3 +8039,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 8038,2021-08-14,Crete,GR-M,25030,3,0,0,0
 8039,2021-08-14,Thessaly,GR-E,33343,34,0,0,0
 8040,2021-08-14,"North Aegean",GR-K,6187,13,0,0,0
+8041,2021-08-15,"Under Investigation",GR-U,28434,10650,0,0,0
+8042,2021-08-15,"Mount Athos",GR-69,43,0,0,0,0
+8043,2021-08-15,"Western Greece",GR-G,24392,18,0,0,0
+8044,2021-08-15,Peloponnese,GR-J,16121,1,0,0,0
+8045,2021-08-15,Epirus,GR-D,9538,17,0,0,0
+8046,2021-08-15,Attica,GR-I,213389,330,0,0,0
+8047,2021-08-15,"Central Greece",GR-H,17951,1,0,0,0
+8048,2021-08-15,"Western Macedonia",GR-C,14336,50,0,0,0
+8049,2021-08-15,"Eastern Macedonia and Thrace",GR-A,22839,57,0,0,0
+8050,2021-08-15,"South Aegean",GR-L,12750,0,0,0,0
+8051,2021-08-15,"Ionian Islands",GR-F,5450,6,0,0,0
+8052,2021-08-15,"Central Macedonia",GR-B,106970,235,0,0,0
+8053,2021-08-15,Crete,GR-M,25286,3,0,0,0
+8054,2021-08-15,Thessaly,GR-E,33421,34,0,0,0
+8055,2021-08-15,"North Aegean",GR-K,6205,13,0,0,0
