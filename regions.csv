@@ -8099,3 +8099,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 8098,2021-08-18,Crete,GR-M,26430,3,0,0,0
 8099,2021-08-18,Thessaly,GR-E,33801,34,0,0,0
 8100,2021-08-18,"North Aegean",GR-K,6434,13,0,0,0
+8101,2021-08-19,"Under Investigation",GR-U,29398,10876,0,0,0
+8102,2021-08-19,"Mount Athos",GR-69,43,0,0,0,0
+8103,2021-08-19,"Western Greece",GR-G,25289,18,0,0,0
+8104,2021-08-19,Peloponnese,GR-J,16954,1,0,0,0
+8105,2021-08-19,Epirus,GR-D,9918,17,0,0,0
+8106,2021-08-19,Attica,GR-I,216395,330,0,0,0
+8107,2021-08-19,"Central Greece",GR-H,18530,1,0,0,0
+8108,2021-08-19,"Western Macedonia",GR-C,14732,50,0,0,0
+8109,2021-08-19,"Eastern Macedonia and Thrace",GR-A,23577,57,0,0,0
+8110,2021-08-19,"South Aegean",GR-L,13684,0,0,0,0
+8111,2021-08-19,"Ionian Islands",GR-F,5847,6,0,0,0
+8112,2021-08-19,"Central Macedonia",GR-B,108887,235,0,0,0
+8113,2021-08-19,Crete,GR-M,26766,3,0,0,0
+8114,2021-08-19,Thessaly,GR-E,33950,34,0,0,0
+8115,2021-08-19,"North Aegean",GR-K,6489,13,0,0,0
