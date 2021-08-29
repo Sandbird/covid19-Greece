@@ -9,6 +9,14 @@ This repository will be updated daily on an irregular basis according to the ann
 
 All notable changes to the files will be documented here.
 
+## 29-08-2021
+
+### Added
+
+- vaccinations_ecdc.csv. Added all the data collected (for Greece) by the ECDC through The European Surveillance System (TESSy). (https://opendata.ecdc.europa.eu/covid19/vaccine_tracker/)
+Weekly updated...time unknown...so there will be a check for new updates every 6 hours.
+
+
 ## 27-07-2021
 
 ### Changed
