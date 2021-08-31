@@ -6,8 +6,16 @@ This repository will be updated daily on an irregular basis according to the ann
 
 
 # Changelog
-
 All notable changes to the files will be documented here.
+
+## 30-08-2021
+
+### Changed
+
+- cases.csv. Added columns: total_vaccinated_crit, total_unvaccinated_crit (values are updated daily)
+The ICU patients will now be divided into 2 categories. Fully vaccinated, and partially or not vaccinated. (total_unvaccinated_crit + total_vaccinated_crit = total_critical)
+- greece.json. Added transition.serious.details array.
+
 
 ## 29-08-2021
 
@@ -15,6 +23,7 @@ All notable changes to the files will be documented here.
 
 - vaccinations_ecdc.csv. Added all the data collected (for Greece) by the ECDC through The European Surveillance System (TESSy). (https://opendata.ecdc.europa.eu/covid19/vaccine_tracker/)
 Weekly updated...time unknown...so there will be a check for new updates every 6 hours.
+- greece.json. Added vaccinations_byage, vaccinations_bycompany, vaccinations_percent arrays
 
 
 ## 27-07-2021
@@ -23,7 +32,7 @@ Weekly updated...time unknown...so there will be a check for new updates every 6
 
 - cases.csv. Added columns: new_selftest, total_selftest (values are updated daily)
 (Self-diagnostic results that have been recorded on the Self Testing platform (https://self-testing.gov.gr/))
-
+- greece.json Added transition.selftest array
 
 ## 16-07-2021
 
