@@ -8369,7 +8369,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 8368,2021-09-05,Crete,GR-M,30179,3,0,0,0
 8369,2021-09-05,Thessaly,GR-E,36413,34,0,0,0
 8370,2021-09-05,"North Aegean",GR-K,7531,13,0,0,0
-8371,2021-09-06,"Under Investigation",GR-U,33776,11536,0,0,0
+8371,2021-09-06,"Under Investigation",GR-U,33141,11536,0,0,0
 8372,2021-09-06,"Mount Athos",GR-69,45,0,0,0,0
 8373,2021-09-06,"Western Greece",GR-G,29734,18,0,0,0
 8374,2021-09-06,Peloponnese,GR-J,20247,1,0,0,0
