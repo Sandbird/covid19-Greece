@@ -8459,3 +8459,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 8458,2021-09-11,Crete,GR-M,30884,3,0,0,0
 8459,2021-09-11,Thessaly,GR-E,37203,34,0,0,0
 8460,2021-09-11,"North Aegean",GR-K,7742,13,0,0,0
+8461,2021-09-12,"Under Investigation",GR-U,34436,11657,0,0,0
+8462,2021-09-12,"Mount Athos",GR-69,45,0,0,0,0
+8463,2021-09-12,"Western Greece",GR-G,30556,18,0,0,0
+8464,2021-09-12,Peloponnese,GR-J,21073,1,0,0,0
+8465,2021-09-12,Epirus,GR-D,11546,17,0,0,0
+8466,2021-09-12,Attica,GR-I,230905,330,0,0,0
+8467,2021-09-12,"Central Greece",GR-H,21122,1,0,0,0
+8468,2021-09-12,"Western Macedonia",GR-C,16568,50,0,0,0
+8469,2021-09-12,"Eastern Macedonia and Thrace",GR-A,27656,57,0,0,0
+8470,2021-09-12,"South Aegean",GR-L,17317,0,0,0,0
+8471,2021-09-12,"Ionian Islands",GR-F,7761,6,0,0,0
+8472,2021-09-12,"Central Macedonia",GR-B,120149,235,0,0,0
+8473,2021-09-12,Crete,GR-M,30969,3,0,0,0
+8474,2021-09-12,Thessaly,GR-E,37302,34,0,0,0
+8475,2021-09-12,"North Aegean",GR-K,7752,13,0,0,0
