@@ -8474,3 +8474,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 8473,2021-09-12,Crete,GR-M,30969,3,0,0,0
 8474,2021-09-12,Thessaly,GR-E,37302,34,0,0,0
 8475,2021-09-12,"North Aegean",GR-K,7752,13,0,0,0
+8476,2021-09-13,"Under Investigation",GR-U,34521,11678,0,0,0
+8477,2021-09-13,"Mount Athos",GR-69,45,0,0,0,0
+8478,2021-09-13,"Western Greece",GR-G,30663,18,0,0,0
+8479,2021-09-13,Peloponnese,GR-J,21187,1,0,0,0
+8480,2021-09-13,Epirus,GR-D,11591,17,0,0,0
+8481,2021-09-13,Attica,GR-I,231213,330,0,0,0
+8482,2021-09-13,"Central Greece",GR-H,21161,1,0,0,0
+8483,2021-09-13,"Western Macedonia",GR-C,16624,50,0,0,0
+8484,2021-09-13,"Eastern Macedonia and Thrace",GR-A,27758,57,0,0,0
+8485,2021-09-13,"South Aegean",GR-L,17409,0,0,0,0
+8486,2021-09-13,"Ionian Islands",GR-F,7820,6,0,0,0
+8487,2021-09-13,"Central Macedonia",GR-B,120560,235,0,0,0
+8488,2021-09-13,Crete,GR-M,31052,3,0,0,0
+8489,2021-09-13,Thessaly,GR-E,37403,34,0,0,0
+8490,2021-09-13,"North Aegean",GR-K,7758,13,0,0,0
