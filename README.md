@@ -8,6 +8,16 @@ This repository will be updated daily on an irregular basis according to the ann
 # Changelog
 All notable changes to the files will be documented here.
 
+## 16-09-2021
+
+### Changed
+
+- prefectures.csv. Added column: totaldose3 (value is updated daily)
+Booster shot (3rd dose) total values provided by (https://emvolio.gov.gr/vaccinationtracker) for each prefecture.
+- vaccinations.csv. Added column: total_booster (value is updated daily). The sum of all 3rd dose booster shots given.
+- greece.json. Added an extra value at the end of transition.vaccinations array to hold the daily booster shots given.
+
+
 ## 30-08-2021
 
 ### Changed
