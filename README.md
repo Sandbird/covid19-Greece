@@ -4,6 +4,8 @@ Daily regional statistics for Covid19 cases in Greece (used by https://github.co
 ### Updates
 This repository will be updated daily on an irregular basis according to the announcement by the Ministry of Health.
 
+### Notes
+The new daily cases reported in greece.json (transition.carriers) derive from the daily difference of 'confirmed' cases (cases.csv) and they include any subsequent corrections made by EODY on previous reports. If you want to use the daily reported cases then use the 'transition.new_reported_cases' array.
 
 # Changelog
 All notable changes to the files will be documented here.
