@@ -8669,3 +8669,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 8668,2021-09-25,Crete,GR-M,32179,3,0,0,0
 8669,2021-09-25,Thessaly,GR-E,39589,34,0,0,0
 8670,2021-09-25,"North Aegean",GR-K,7970,13,0,0,0
+8671,2021-09-26,"Under Investigation",GR-U,36723,11899,0,0,0
+8672,2021-09-26,"Mount Athos",GR-69,45,0,0,0,0
+8673,2021-09-26,"Western Greece",GR-G,32119,18,0,0,0
+8674,2021-09-26,Peloponnese,GR-J,22686,1,0,0,0
+8675,2021-09-26,Epirus,GR-D,12239,17,0,0,0
+8676,2021-09-26,Attica,GR-I,236814,330,0,0,0
+8677,2021-09-26,"Central Greece",GR-H,22076,1,0,0,0
+8678,2021-09-26,"Western Macedonia",GR-C,17651,50,0,0,0
+8679,2021-09-26,"Eastern Macedonia and Thrace",GR-A,30428,57,0,0,0
+8680,2021-09-26,"South Aegean",GR-L,18495,0,0,0,0
+8681,2021-09-26,"Ionian Islands",GR-F,8466,6,0,0,0
+8682,2021-09-26,"Central Macedonia",GR-B,128289,235,0,0,0
+8683,2021-09-26,Crete,GR-M,32238,3,0,0,0
+8684,2021-09-26,Thessaly,GR-E,39722,34,0,0,0
+8685,2021-09-26,"North Aegean",GR-K,7978,13,0,0,0
