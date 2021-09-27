@@ -10,6 +10,15 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog
 All notable changes to the files will be documented here.
 
+## 27-09-2021
+
+### Added
+
+- prefectures.csv. Added column: rj_value (value is updated daily)
+- predictions.csv. Added column: rj_value (value is updated daily).
+Instead of calculating the value 'on the fly', it will now be stored in the above column.
+
+
 ## 16-09-2021
 
 ### Changed
