@@ -15,8 +15,11 @@ All notable changes to the files will be documented here.
 ### Added
 
 - prefectures.csv. Added column: rj_value (value is updated daily)
-- predictions.csv. Added column: rj_value (value is updated daily).
-Instead of calculating the value 'on the fly', it will now be stored in the above column.
+- predictions.csv. Added column: rj_value (value is updated daily)
+
+Instead of calculating the value 'on the fly', it will now be stored in the above columns.
+
+(Details on what that value represents: https://covid19-greece.tk/index_en.html#rj-notes)
 
 
 ## 16-09-2021
