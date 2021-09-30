@@ -8729,3 +8729,18 @@ id,date,region,region_id,cases,deaths,recovered,active,tests
 8728,2021-09-29,Crete,GR-M,32513,3,0,0,0
 8729,2021-09-29,Thessaly,GR-E,40421,34,0,0,0
 8730,2021-09-29,"North Aegean",GR-K,7998,13,0,0,0
+8731,2021-09-30,"Under Investigation",GR-U,37399,11945,0,0,0
+8732,2021-09-30,"Mount Athos",GR-69,45,0,0,0,0
+8733,2021-09-30,"Western Greece",GR-G,32580,18,0,0,0
+8734,2021-09-30,Peloponnese,GR-J,23054,1,0,0,0
+8735,2021-09-30,Epirus,GR-D,12430,17,0,0,0
+8736,2021-09-30,Attica,GR-I,238890,330,0,0,0
+8737,2021-09-30,"Central Greece",GR-H,22380,1,0,0,0
+8738,2021-09-30,"Western Macedonia",GR-C,17949,50,0,0,0
+8739,2021-09-30,"Eastern Macedonia and Thrace",GR-A,31395,57,0,0,0
+8740,2021-09-30,"South Aegean",GR-L,18722,0,0,0,0
+8741,2021-09-30,"Ionian Islands",GR-F,8636,6,0,0,0
+8742,2021-09-30,"Central Macedonia",GR-B,131020,235,0,0,0
+8743,2021-09-30,Crete,GR-M,32588,3,0,0,0
+8744,2021-09-30,Thessaly,GR-E,40673,34,0,0,0
+8745,2021-09-30,"North Aegean",GR-K,8006,13,0,0,0
