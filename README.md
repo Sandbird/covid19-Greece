@@ -14,7 +14,7 @@ All notable changes to the files will be documented here.
 
 ### Added
 
-- greece.json. Added active_cases_estimate in prefectures-details array, to hold the estimated active cases for the region. It is based on the last 14 days of confirmed cases. It is calculated from the beginning of the pandemic untill today, so it is not exactly the data from the last 14 days (ex. the 15th day before today had a value as well, so it takes that into account as well)
+- greece.json. Added active_cases_estimate in prefectures-details array, to hold the estimated active cases for the region. It is based on the last 14 days of confirmed cases. It is calculated from the beginning of the pandemic untill today, so it is not exactly the data from the last 14 days (ex. the 15th day before today had a value as well, so it takes that into account as well). The estimated value is shown when you mouse-over the Region's name at the 'Per Prefecture' section.
 
 
 ## 27-09-2021
