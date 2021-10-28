@@ -10,6 +10,13 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog
 All notable changes to the files will be documented here.
 
+## 28-10-2021
+
+### Added
+
+- greece.json. Added active_cases_estimate in prefectures-details array, to hold the estimated active cases for the region. It is based on the last 14 days of confirmed cases. It is calculated from the beginning of the pandemic untill today, so it is not exactly the data from the last 14 days (ex. the 15th day before today had a value as well, so it takes that into account as well)
+
+
 ## 27-09-2021
 
 ### Added
@@ -30,12 +37,6 @@ Instead of calculating the value 'on the fly', it will now be stored in the abov
 Booster shot (3rd dose) total values provided by (https://emvolio.gov.gr/vaccinationtracker) for each prefecture.
 - vaccinations.csv. Added column: total_booster (value is updated daily). The sum of all 3rd dose booster shots given.
 - greece.json. Added an extra value at the end of transition.vaccinations array to hold the daily booster shots given.
-
-## 28-10-2021
-
-### Added
-
-- greece.json. Added active_cases_estimate in prefectures-details array, to hold the estimated active cases for the region. It is based on the last 14 days of confirmed cases. It is calculated from the beginning of the pandemic untill today, so it is not exactly the data from the last 14 days (ex. the 15th day before today had a value as well, so it takes that into account as well)
 
 
 ## 30-08-2021
