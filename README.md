@@ -10,6 +10,13 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog
 All notable changes to the files will be documented here.
 
+## 01-11-2021
+
+### Added
+
+- workbench.csv - A new table (checked every hour for new updates) from a new source of data extracted from a gov.gr page, that holds Prefecture details including hospitalizations, deaths and cases per Prefecture. The 'date' record is just for reference. In the official records there is no date...only raw data.
+
+
 ## 28-10-2021
 
 ### Added
