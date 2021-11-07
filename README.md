@@ -10,6 +10,17 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog
 All notable changes to the files will be documented here.
 
+
+## 07-11-2021
+
+### Changed
+
+- prefectures.csv - Daily/Hourly updates for columns: deaths(PASSED_AWAY), recovered(RECOVERED), active(TREATED_AT_HOME) with their corresponding values from workbench.csv
+- regions.csv - Added column: region_to_prefid that corresponds to the region_id value in prefectures.csv.
+- greece.json - Added newcritical, totalcritical, totaldeaths, newdeaths, totalhospitalized, newhospitalized, totalactive, totalrecovered values in 'prefectures-details' array, for every Prefecture. The 'active_cases_estimate' value will remain in the array for now for areas where the value of 'totalactive'(TREATED_AT_HOME in the table workbench.csv) isn't known.
+- greece.json - The 'deaths' array in prefectures-data for each individual Prefecture is now updated daily/hourly.
+
+
 ## 01-11-2021
 
 ### Added
@@ -21,7 +32,7 @@ All notable changes to the files will be documented here.
 
 ### Added
 
-- greece.json. Added active_cases_estimate in prefectures-details array, to hold the estimated active cases for the region. It is based on the last 14 days of confirmed cases. It is calculated from the beginning of the pandemic untill today, so it is not exactly the data from the last 14 days (ex. the 15th day before today had a value as well, so it takes that into account as well). The estimated value is shown when you mouse-over the Region's name at the 'Per Prefecture' section.
+- greece.json. Added active_cases_estimate in 'prefectures-details' array, to hold the estimated active cases for the region. It is based on the last 14 days of confirmed cases.
 
 
 ## 27-09-2021
