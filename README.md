@@ -15,10 +15,10 @@ All notable changes to the files will be documented here.
 
 ### Changed
 
-- prefectures.csv - Daily/Hourly updates for columns: deaths(PASSED_AWAY), recovered(RECOVERED), active(TREATED_AT_HOME) with their corresponding values from workbench.csv
+- prefectures.csv - Daily updates for columns: deaths(PASSED_AWAY), recovered(RECOVERED), active(TREATED_AT_HOME) with their corresponding values from workbench.csv
 - regions.csv - Added column: region_to_prefid that corresponds to the region_id value in prefectures.csv.
 - greece.json - Added newcritical, totalcritical, totaldeaths, newdeaths, totalhospitalized, newhospitalized, totalactive, totalrecovered values in 'prefectures-details' array, for every Prefecture. The 'active_cases_estimate' value will remain in the array for now for areas where the value of 'totalactive'(TREATED_AT_HOME in the table workbench.csv) isn't known.
-- greece.json - The 'deaths' array in prefectures-data for each individual Prefecture is now updated daily/hourly.
+- greece.json - The 'deaths' array in 'prefectures-data' for each individual Prefecture is now updated daily.
 
 
 ## 01-11-2021
