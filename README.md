@@ -10,6 +10,13 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog
 All notable changes to the files will be documented here.
 
+## 08-11-2021
+
+### Changed
+
+- demography_total_details.csv - Added 4 more columns (DISCHARGED, HOSPITALIZED, HOSPITALIZED_IN_ICU, PASSED_AWAY, RECOVERED, TREATED_AT_HOME). 
+The table now holds 2 sets of data. The first (cases, deaths, intensive) are updated daily using the values given by EODY's PDF. The rest are updated hourly (first when the daily PDF report comes out, and then every XX:20 up untill 23:20).
+
 
 ## 07-11-2021
 
