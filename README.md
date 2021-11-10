@@ -14,7 +14,7 @@ All notable changes to the files will be documented here.
 
 ### Changed
 - vaccinations_ecdc.csv - ECDC has changed the format of the data to include the booster shots (DoseAdditional1). The whole table was recreated to reflect the changes.
-- greece.json - 'DoseAdditional1' array was added in the 'vaccinations_byage' array
+- greece.json - 'DoseAdditional1' array was added to the 'vaccinations_byage' array
 
 
 ## 08-11-2021
