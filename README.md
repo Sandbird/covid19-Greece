@@ -10,6 +10,7 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog
 All notable changes to the files will be documented here.
 
+
 ## 11-11-2021
 
 ### Changed
@@ -28,24 +29,25 @@ All notable changes to the files will be documented here.
 ### Changed
 
 - demography_total_details.csv - Added 4 more columns (DISCHARGED, HOSPITALIZED, HOSPITALIZED_IN_ICU, PASSED_AWAY, RECOVERED, TREATED_AT_HOME). 
-The table now holds 2 sets of data. The first (cases, deaths, intensive) are updated daily using the values given by EODY's PDF. The second is updated hourly (first when the daily PDF report comes out, and then every XX:20 up untill 23:20), and the source is a gov.gr page.
+The table now holds 2 sets of data. The first (cases, deaths, intensive) are updated daily using the values given by EODY's PDF. The second is updated hourly (first when the daily PDF report comes out, and then every XX:20 up untill 23:20), and the source is a .gov.gr page (see details bellow 01-11-2021).
 
 
-## 07-11-2021
+## 07-11-2021 / 11-11-2021
 
 ### Changed
 
 - prefectures.csv - Daily updates for columns: deaths(PASSED_AWAY), recovered(RECOVERED), active(TREATED_AT_HOME) with their corresponding values from workbench.csv
 - regions.csv - Added column: region_to_prefid that corresponds to the region_id value in prefectures.csv.
-- greece.json - Added newcritical, totalcritical, totaldeaths, newdeaths, totalhospitalized, newhospitalized, totalactive, totalrecovered values in 'prefectures-details' array, for every Prefecture. The 'active_cases_estimate' value will remain in the array for now for areas where the value of 'totalactive'(TREATED_AT_HOME in the table workbench.csv) isn't known.
-- greece.json - The 'deaths' array in 'prefectures-data' for each individual Prefecture is now updated daily.
+- greece.json - Added totalactive, totalrecovered values in 'prefectures-details' array, for every Prefecture. The 'active_cases_estimate' value will remain in the array for now for areas where the value of 'totalactive'(TREATED_AT_HOME from the table workbench.csv) isn't known.
+- ~~greece.json - The 'deaths' array in 'prefectures-data' for each individual Prefecture is now updated daily.~~
 
 
-## 01-11-2021
+## 01-11-2021 / 11-11-2021
 
 ### Added
 
-- workbench.csv - A new table (checked every hour for new updates) from a new source of data extracted from a gov.gr page, that holds Prefecture details including hospitalizations, deaths and cases per Prefecture. The 'date' record is just for reference. In the official records there is no date...only raw data.
+**Please note, that the source of this data (url) hasn't been officially released to the public. Until it is, I have my reservations about the disclosure of the domain name. Nonetheless, I can only say that this was taken by a .gov.gr page, open to the public, it has been posted online on a social media platform and I have no reason to assume the data are not valid since the daily reported changes match up exactly to the official daily reports made by EODY. If you don't wish to use the following data then please ignore any addtions into the columns 'deaths, recovered, active' after 30/10/2021 in the tables prefectures.csv and regions.csv**
+- workbench.csv - A new table (checked every hour for new updates) from a new source of data extracted from a .gov.gr page, that holds Prefecture details including hospitalizations, deaths and cases per Prefecture. The 'date' record is just for reference. In the official records there is no date...only raw data.
 
 
 ## 28-10-2021
