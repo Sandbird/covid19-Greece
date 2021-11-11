@@ -10,6 +10,12 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog
 All notable changes to the files will be documented here.
 
+## 11-11-2021
+
+### Changed
+- prefectures.csv - Added columns 'casesweek100k', 'casesfortnight100k' at the end of the table. They represent the Cases per 100K people with a 7day/14day mov.avg.
+
+
 ## 10-11-2021
 
 ### Changed
