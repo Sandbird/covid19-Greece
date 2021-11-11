@@ -9370,7 +9370,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 9369,2021-11-10,"Western Macedonia",GR-C,22347,501,17820,2200,0,14
 9370,2021-11-10,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 9371,2021-11-10,"Under Investigation",GR-U,29979,37,0,0,0,16
-9372,2021-11-11,Attica,GR-I,270315,5485,249316,13495,0,1
+9372,2021-11-11,Attica,GR-I,270315,5485,249316,13496,0,1
 9373,2021-11-11,"Central Greece",GR-H,27747,567,23465,2116,0,2
 9374,2021-11-11,"Central Macedonia",GR-B,176664,5215,141933,16792,0,3
 9375,2021-11-11,Crete,GR-M,37055,387,31423,1822,0,4
