@@ -9642,7 +9642,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 9641,2021-11-27,"Western Macedonia",GR-C,26759,535,21877,2356,0,14
 9642,2021-11-27,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 9643,2021-11-27,"Under Investigation",GR-U,32454,43,0,0,0,16
-9644,2021-11-28,Attica,GR-I,297631,5746,274631,14634,0,1
+9644,2021-11-28,Attica,GR-I,297631,5746,274631,14635,0,1
 9645,2021-11-28,"Central Greece",GR-H,32287,616,27446,2481,0,2
 9646,2021-11-28,"Central Macedonia",GR-B,206067,5710,171214,15066,0,3
 9647,2021-11-28,Crete,GR-M,41633,405,35033,2603,0,4
