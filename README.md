@@ -11,6 +11,13 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 All notable changes to the files will be documented here.
 
 
+## 03-12-2021
+
+### Added
+
+- workbench_totals.csv - A new table (checked every hour for new updates) using the same source as workbench.csv (01-11-2021). Holds the latest cumulative totals of recoveries, hosp. discharges, active cases, deaths, hospitalizations and cases. The 'date' record is just for reference. In the official records there is no date...only raw data.
+
+
 ## 11-11-2021
 
 ### Changed
@@ -47,7 +54,7 @@ The table now holds 2 sets of data. The first (cases, deaths, intensive) are upd
 ### Added
 
 **Please note, that the source of this data (url) hasn't been officially released to the public. Until it is, I have my reservations about the disclosure of the domain name. Nonetheless, I can only say that this was taken by a .gov.gr page, open to the public, it has been posted online on a social media platform and I have no reason to assume the data are not valid since the daily reported changes match up exactly to the official daily reports made by EODY. If you don't wish to use the following data then please ignore any addtions into the columns 'deaths, recovered, active' after 30/10/2021 in the tables prefectures.csv and regions.csv**
-- workbench.csv - A new table (checked every hour for new updates) from a new source of data extracted from a .gov.gr page, that holds Prefecture details including hospitalizations, deaths and cases per Prefecture. The 'date' record is just for reference. In the official records there is no date...only raw data.
+- workbench.csv - A new table (checked every hour for new updates) from a new source of data extracted from a gov.gr page, that holds Prefecture details including hospitalizations, deaths and cases per Prefecture. The 'date' record is just for reference. In the official records there is no date...only raw data.
 
 
 ## 28-10-2021
