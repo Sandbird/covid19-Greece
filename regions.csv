@@ -10058,7 +10058,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 10057,2021-12-23,"Western Macedonia",GR-C,31990,601,27561,1676,0,14
 10058,2021-12-23,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 10059,2021-12-23,"Under Investigation",GR-U,36340,54,0,0,0,16
-10060,2021-12-24,Attica,GR-I,341796,6238,315129,17193,0,1
+10060,2021-12-24,Attica,GR-I,341796,6238,315129,17192,0,1
 10061,2021-12-24,"Central Greece",GR-H,38567,718,33882,2006,0,2
 10062,2021-12-24,"Central Macedonia",GR-B,238514,6551,206571,9811,0,3
 10063,2021-12-24,Crete,GR-M,49111,437,42154,2620,0,4
@@ -10067,9 +10067,9 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 10066,2021-12-24,"Ionian Islands",GR-F,15967,159,14467,861,0,7
 10067,2021-12-24,"Mount Athos",GR-69,114,7,134,1,0,8
 10068,2021-12-24,"North Aegean",GR-K,12793,162,11037,717,0,9
-10069,2021-12-24,Peloponnese,GR-J,41085,608,35637,1887,0,10
+10069,2021-12-24,Peloponnese,GR-J,41085,608,35637,1886,0,10
 10070,2021-12-24,"South Aegean",GR-L,24283,176,23680,572,0,11
-10071,2021-12-24,Thessaly,GR-E,80700,1840,70641,2269,0,12
+10071,2021-12-24,Thessaly,GR-E,80700,1840,70641,2270,0,12
 10072,2021-12-24,"Western Greece",GR-G,54541,975,48573,2067,0,13
 10073,2021-12-24,"Western Macedonia",GR-C,32266,605,27747,1759,0,14
 10074,2021-12-24,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
