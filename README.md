@@ -10,6 +10,12 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog
 All notable changes to the files will be documented here.
 
+## 05-01-2022
+
+### Added
+
+- mobility.csv - A new table (checked every day at 23:30 for new updates). Holds the latest Google Mobility Reports for Greece.
+
 
 ## 03-12-2021
 
