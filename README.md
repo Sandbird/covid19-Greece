@@ -15,6 +15,7 @@ All notable changes to the files will be documented here.
 ### Added
 
 - mobility.csv - A new table (checked every day at 23:30 for new updates). Holds the latest Google Mobility Reports for Greece.
+- greece.json - Added 'google_mobility' array to hold the data for the Google Mobility chart. First array element holds the caterories (dates), and the rest are the 'splines' for the various mobility indexes as well as a 'column' for the New Cases. I used the weekly average data (7-day mov.avg) with the aim of reduction of fluctuation.
 
 
 ## 03-12-2021
