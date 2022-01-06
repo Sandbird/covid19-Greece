@@ -12,7 +12,7 @@ All notable changes to the files will be documented here.
 
 ## 06-01-2022
 
-### Added
+### Changed
 
 - greece.json - Added 'transition.infected_distribution_total_percent', 'transition.infected_distribution_death_percent', 'infected_distribution_icu_percent' arrays to hold the daily percentage values of Cases distribution (total), Deaths by age (total) and Critically Ill by age (total) charts respectively. They appear when the PERCENT button is pressed.
 
