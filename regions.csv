@@ -10730,3 +10730,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 10729,2022-02-03,"Western Macedonia",GR-C,55857,613,41484,2000,0,14
 10730,2022-02-03,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 10731,2022-02-03,"Under Investigation",GR-U,63180,9704,0,0,0,16
+10732,2022-02-04,Attica,GR-I,689732,7320,627381,47574,0,1
+10733,2022-02-04,"Central Greece",GR-H,74912,28,2201,121,0,2
+10734,2022-02-04,"Central Macedonia",GR-B,388340,561,22138,1707,0,3
+10735,2022-02-04,Crete,GR-M,115884,0,0,0,0,4
+10736,2022-02-04,"Eastern Macedonia and Thrace",GR-A,102582,0,0,0,0,5
+10737,2022-02-04,Epirus,GR-D,51702,0,0,0,0,6
+10738,2022-02-04,"Ionian Islands",GR-F,32242,0,0,0,0,7
+10739,2022-02-04,"Mount Athos",GR-69,123,0,0,0,0,8
+10740,2022-02-04,"North Aegean",GR-K,28594,0,0,0,0,9
+10741,2022-02-04,Peloponnese,GR-J,84060,0,0,0,0,10
+10742,2022-02-04,"South Aegean",GR-L,52400,0,0,0,0,11
+10743,2022-02-04,Thessaly,GR-E,136814,0,0,0,0,12
+10744,2022-02-04,"Western Greece",GR-G,108270,0,0,0,0,13
+10745,2022-02-04,"Western Macedonia",GR-C,55857,0,0,0,0,14
+10746,2022-02-04,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+10747,2022-02-04,"Under Investigation",GR-U,63180,15924,0,0,0,16
