@@ -10746,7 +10746,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 10745,2022-02-04,"Western Macedonia",GR-C,56232,0,0,0,0,14
 10746,2022-02-04,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 10747,2022-02-04,"Under Investigation",GR-U,63566,16018,0,0,0,16
-10748,2022-02-05,Attica,GR-I,694455,0,0,0,0,1
+10748,2022-02-05,Attica,GR-I,694455,7357,634356,47318,0,1
 10749,2022-02-05,"Central Greece",GR-H,75442,0,0,0,0,2
 10750,2022-02-05,"Central Macedonia",GR-B,392043,0,0,0,0,3
 10751,2022-02-05,Crete,GR-M,117300,0,0,0,0,4
@@ -10761,4 +10761,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 10760,2022-02-05,"Western Greece",GR-G,109558,0,0,0,0,13
 10761,2022-02-05,"Western Macedonia",GR-C,56232,0,0,0,0,14
 10762,2022-02-05,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-10763,2022-02-05,"Under Investigation",GR-U,63566,23927,0,0,0,16
+10763,2022-02-05,"Under Investigation",GR-U,63566,16570,0,0,0,16
