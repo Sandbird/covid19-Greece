@@ -10,6 +10,14 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog
 All notable changes to the files will be documented here.
 
+
+## 05-02-2022
+
+### Changed
+
+- workbench.json - Unfortunately there was no data for date: 2022-02-03.
+
+
 ## 06-01-2022
 
 ### Changed
