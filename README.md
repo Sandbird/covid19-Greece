@@ -11,6 +11,12 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 All notable changes to the files will be documented here.
 
 
+## 30-03-2022
+
+### Changed
+Updated the way 'Active Cases (estimate)', 'Effective Reproduction Number Rj (estimate)' are calculated. Based on the new CDC guidelines for the Omicron variant, incubation period has been changed to 3 days (from 5 based on Delta) and instead of using the last 17 days (Delta), the new median duration of active cases has been changed to 11 days; 
+
+
 ## 05-02-2022
 
 ### Changed
