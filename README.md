@@ -7,6 +7,9 @@ This repository will be updated daily on an irregular basis according to the ann
 ### Notes
 The new daily cases reported in greece.json (transition.carriers) derive from the daily difference of 'confirmed' cases (cases.csv) and they include any subsequent corrections made by EODY on previous reports. If you want to use the daily reported cases then use the 'transition.new_reported_cases' array.
 
+- positive_rate_7day_ma - Positivity rate taking into account only PCR tests and cases.
+- positive_rate_combined_7day_ma - Positivity rate taking into account PCR+Rapid tests and cases.
+
 # Changelog
 All notable changes to the files will be documented here.
 
