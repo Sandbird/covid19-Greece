@@ -11674,8 +11674,8 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 11673,2022-04-03,"Western Macedonia",GR-C,81125,820,73266,4115,0,14
 11674,2022-04-03,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 11675,2022-04-03,"Under Investigation",GR-U,88894,123,0,0,0,16
-11676,2022-04-04,Attica,GR-I,1054049,8619,967514,64177,0,1
-11677,2022-04-04,"Central Greece",GR-H,125109,1045,111086,8913,0,2
+11676,2022-04-04,Attica,GR-I,1054049,8619,967506,64140,0,1
+11677,2022-04-04,"Central Greece",GR-H,125109,1045,111084,8913,0,2
 11678,2022-04-04,"Central Macedonia",GR-B,561463,8279,505879,25146,0,3
 11679,2022-04-04,Crete,GR-M,206445,770,186652,11996,0,4
 11680,2022-04-04,"Eastern Macedonia and Thrace",GR-A,150328,1830,138799,5996,0,5
@@ -11686,7 +11686,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 11685,2022-04-04,Peloponnese,GR-J,142858,1009,125970,10521,0,10
 11686,2022-04-04,"South Aegean",GR-L,91061,265,84461,5509,0,11
 11687,2022-04-04,Thessaly,GR-E,204850,2359,182700,10851,0,12
-11688,2022-04-04,"Western Greece",GR-G,176223,1550,160525,8424,0,13
+11688,2022-04-04,"Western Greece",GR-G,176223,1550,160521,8406,0,13
 11689,2022-04-04,"Western Macedonia",GR-C,81527,820,73459,3902,0,14
 11690,2022-04-04,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 11691,2022-04-04,"Under Investigation",GR-U,89336,185,0,0,0,16
