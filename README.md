@@ -10,8 +10,12 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 - positive_rate_7day_ma - Positivity rate taking into account only PCR tests and cases.
 - positive_rate_combined_7day_ma - Positivity rate taking into account PCR+Rapid tests and cases.
 
-# Changelog
+# Changelog 
 All notable changes to the files will be documented here.
+
+## 06-04-2022
+### Changed
+EODY changed their daily report today, and from now on reinfections will be added into the demographic totals. This affects all demographic tables (cases). Overall 130,334 new cases were added to the totals today.
 
 
 ## 30-03-2022
