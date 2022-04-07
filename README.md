@@ -14,6 +14,8 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 All notable changes to the files will be documented here.
 
 ## 07-04-2022
+
+### Added
 - cases.csv. Added column: reinfections at the end of the table (values are updated daily). The number of possible new re-infections recorded daily by EODY.
 
 
