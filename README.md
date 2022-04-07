@@ -13,7 +13,15 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog 
 All notable changes to the files will be documented here.
 
+## 07-04-2022
+- cases.csv. Added column: reinfections at the end of the table (values are updated daily). The number of possible new re-infections recorded daily by EODY.
+
+### Added
+Updated the way 'Active Cases (estimate)', 'Effective Reproduction Number Rj (estimate)' are calculated. Based on the new CDC guidelines for the Omicron variant, incubation period has been changed to 3 days (from 5 based on Delta) and instead of using the last 17 days (Delta), the new median duration of active cases has been changed to 11 days; 
+
+
 ## 06-04-2022
+
 ### Changed
 EODY changed their daily report today, and from now on reinfections will be added into the demographic totals. This affects all demographic tables (cases). Overall 130,334 new cases were added to the totals today.
 
