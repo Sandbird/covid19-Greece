@@ -13,6 +13,16 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog 
 All notable changes to the files will be documented here.
 
+
+## 11-04-2022
+
+### Changed
+- greece.json - Added 'transition.new_reinfections' array to hold the new daily reinfection values.
+- greece.json - Added 'transition.carriers_plus_reinf' arrays to hold the daily confirmed cases, plus the new reinfections. 
+
+The main 'transition.carriers' array will stay as it is for dependency reasons. If anyone wants to combine the cases and reinfections together they can do so using the carriers + new_reinfections arrays, or simple parse the 'carriers_plus_reinf' array.
+
+
 ## 07-04-2022
 
 ### Added
