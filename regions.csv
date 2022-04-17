@@ -11882,7 +11882,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 11881,2022-04-16,"Western Macedonia",GR-C,89736,848,82444,1916,0,14
 11882,2022-04-16,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 11883,2022-04-16,"Under Investigation",GR-U,92427,145,0,0,0,16
-11884,2022-04-17,Attica,GR-I,1182567,8888,1104212,32273,0,1
+11884,2022-04-17,Attica,GR-I,1182567,8888,1104212,33193,0,1
 11885,2022-04-17,"Central Greece",GR-H,140252,1082,128065,4039,0,2
 11886,2022-04-17,"Central Macedonia",GR-B,619986,8468,566745,13995,0,3
 11887,2022-04-17,Crete,GR-M,226919,822,210157,5201,0,4
