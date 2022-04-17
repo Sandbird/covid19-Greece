@@ -14,6 +14,14 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 All notable changes to the files will be documented here.
 
 
+## 17-04-2022
+
+### Changed
+- greece.json - Added 'transition.bed_percentages_all' array. Holds all ICU bed coverage percentage values since 18/1/21.
+- greece.json - Added 'transition.icu_percentages_all' arrays. Holds all Non-icu bed coverage percentage values since 18/1/21.
+The main 'transition.icu_percentages' array will remain for dependency reasons.
+
+
 ## 11-04-2022
 
 ### Changed
