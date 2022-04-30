@@ -12090,7 +12090,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 12089,2022-04-29,"Western Macedonia",GR-C,91423,862,84897,1113,0,14
 12090,2022-04-29,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 12091,2022-04-29,"Under Investigation",GR-U,94112,162,0,0,0,16
-12092,2022-04-30,Attica,GR-I,1215224,9075,1149622,19091,0,1
+12092,2022-04-30,Attica,GR-I,1215224,9075,1149620,19091,0,1
 12093,2022-04-30,"Central Greece",GR-H,144745,1103,133404,2694,0,2
 12094,2022-04-30,"Central Macedonia",GR-B,634814,8582,585513,8779,0,3
 12095,2022-04-30,Crete,GR-M,231521,842,216972,2517,0,4
