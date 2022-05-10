@@ -12251,8 +12251,8 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 12250,2022-05-09,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 12251,2022-05-09,"Under Investigation",GR-U,95136,167,0,0,0,16
 12252,2022-05-10,Attica,GR-I,1234361,9163,1173017,14350,0,1
-12253,2022-05-10,"Central Greece",GR-H,147183,1113,136721,1804,0,2
-12254,2022-05-10,"Central Macedonia",GR-B,642881,8631,596244,6018,0,3
+12253,2022-05-10,"Central Greece",GR-H,147183,1113,136721,1802,0,2
+12254,2022-05-10,"Central Macedonia",GR-B,642881,8631,596244,6019,0,3
 12255,2022-05-10,Crete,GR-M,234162,851,220126,2004,0,4
 12256,2022-05-10,"Eastern Macedonia and Thrace",GR-A,168325,1910,159383,1181,0,5
 12257,2022-05-10,Epirus,GR-D,97586,522,90361,1466,0,6
