@@ -12282,7 +12282,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 12281,2022-05-11,"Western Macedonia",GR-C,92455,872,86290,729,0,14
 12282,2022-05-11,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 12283,2022-05-11,"Under Investigation",GR-U,95431,168,0,0,0,16
-12284,2022-05-12,Attica,GR-I,1238838,9190,1175286,19428,0,1
+12284,2022-05-12,Attica,GR-I,1238838,9190,1175286,19429,0,1
 12285,2022-05-12,"Central Greece",GR-H,147610,1118,137032,2268,0,2
 12286,2022-05-12,"Central Macedonia",GR-B,644310,8650,597388,7274,0,3
 12287,2022-05-12,Crete,GR-M,234711,855,220539,2431,0,4
