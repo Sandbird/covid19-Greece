@@ -12330,7 +12330,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 12329,2022-05-14,"Western Macedonia",GR-C,92644,872,86575,622,0,14
 12330,2022-05-14,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 12331,2022-05-14,"Under Investigation",GR-U,95740,170,0,0,0,16
-12332,2022-05-15,Attica,GR-I,1244686,9215,1182976,17543,0,1
+12332,2022-05-15,Attica,GR-I,1244686,9215,1182976,17544,0,1
 12333,2022-05-15,"Central Greece",GR-H,148186,1120,137982,1886,0,2
 12334,2022-05-15,"Central Macedonia",GR-B,646061,8658,600506,5890,0,3
 12335,2022-05-15,Crete,GR-M,235330,856,221504,2070,0,4
