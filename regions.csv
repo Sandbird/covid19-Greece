@@ -12538,7 +12538,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 12537,2022-05-27,"Western Macedonia",GR-C,93098,875,87365,273,0,14
 12538,2022-05-27,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 12539,2022-05-27,"Under Investigation",GR-U,97308,173,0,0,0,16
-12540,2022-05-28,Attica,GR-I,1273691,9322,1210293,19478,0,1
+12540,2022-05-28,Attica,GR-I,1273691,9322,1210293,19479,0,1
 12541,2022-05-28,"Central Greece",GR-H,150367,1128,140742,1249,0,2
 12542,2022-05-28,"Central Macedonia",GR-B,651728,8696,608471,3461,0,3
 12543,2022-05-28,Crete,GR-M,237972,868,224457,1684,0,4
