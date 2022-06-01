@@ -13,6 +13,12 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog 
 All notable changes to the files will be documented here.
 
+## 01-06-2022
+
+### Changed
+- greece.json - Changed name 'transition.new_reinfections' to 'transition.new_reported_reinfections'
+- cases.csv. Added column: total_reinfections at the end of the table (values are updated daily). The number of total possible re-infections noted on EODY’s pdf report. Any corrections or delayed additions to the total amount of re-infections will be included in this value.
+
 
 ## 17-04-2022
 
