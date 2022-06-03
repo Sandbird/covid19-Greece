@@ -13,6 +13,12 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog 
 All notable changes to the files will be documented here.
 
+## 03-06-2022
+
+### Changed
+- vaccinations_ecdc.csv. Added column: DoseAdditional2. Number of second additional vaccine doses administered after a complete standard primary course to individuals during the reporting week.
+- greece.json - Added name 'vaccinations_byage.DoseAdditional2'
+
 ## 01-06-2022
 
 ### Changed
