@@ -12715,7 +12715,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 12714,2022-06-07,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 12715,2022-06-07,"Under Investigation",GR-U,98713,174,0,0,0,16
 12716,2022-06-08,Attica,GR-I,1299568,9413,1232863,23211,0,1
-12717,2022-06-08,"Central Greece",GR-H,151702,1136,142143,1132,0,2
+12717,2022-06-08,"Central Greece",GR-H,151702,1136,142143,1133,0,2
 12718,2022-06-08,"Central Macedonia",GR-B,654965,8719,612534,2742,0,3
 12719,2022-06-08,Crete,GR-M,240329,873,226412,2075,0,4
 12720,2022-06-08,"Eastern Macedonia and Thrace",GR-A,171425,1934,163108,754,0,5
@@ -12724,7 +12724,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 12723,2022-06-08,"Mount Athos",GR-69,259,8,298,2,0,8
 12724,2022-06-08,"North Aegean",GR-K,61621,301,58244,498,0,9
 12725,2022-06-08,Peloponnese,GR-J,173078,1145,161569,1388,0,10
-12726,2022-06-08,"South Aegean",GR-L,111727,301,106913,2133,0,11
+12726,2022-06-08,"South Aegean",GR-L,111727,301,106913,2132,0,11
 12727,2022-06-08,Thessaly,GR-E,243497,2507,226456,1163,0,12
 12728,2022-06-08,"Western Greece",GR-G,206441,1745,194539,1460,0,13
 12729,2022-06-08,"Western Macedonia",GR-C,93327,879,87691,192,0,14
