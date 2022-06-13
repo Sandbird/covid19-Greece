@@ -13,6 +13,10 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog 
 All notable changes to the files will be documented here.
 
+## 13-06-2022
+- No report today due to public holiday. EODY will not be publishing a pdf report.
+
+
 ## 03-06-2022
 
 ### Changed
