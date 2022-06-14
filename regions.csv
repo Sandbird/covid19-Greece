@@ -12810,7 +12810,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 12809,2022-06-13,"Western Macedonia",GR-C,93436,880,87786,201,0,14
 12810,2022-06-13,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 12811,2022-06-13,"Under Investigation",GR-U,99550,177,0,0,0,16
-12812,2022-06-14,Attica,GR-I,1316215,9442,1247927,24289,0,1
+12812,2022-06-14,Attica,GR-I,1316215,9442,1247927,25029,0,1
 12813,2022-06-14,"Central Greece",GR-H,152456,1138,142890,1130,0,2
 12814,2022-06-14,"Central Macedonia",GR-B,656673,8728,614362,2638,0,3
 12815,2022-06-14,Crete,GR-M,242515,874,227694,2953,0,4
