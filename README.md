@@ -16,11 +16,7 @@ All notable changes to the files will be documented here.
 ## 20-06-2022
 
 ### Changed
-- prefectures.csv - color column. New ranges based on the ECDC map (14-day notification rate per 100.000 population). I will not be renaming the text values, just what they represent:
-  0-40: less25
-  40-100: less150
-  100-300: less500
-  >300   : over500
+- prefectures.csv - color column. New ranges based on the ECDC map (14-day notification rate per 100.000 population). I will not be renaming the text values, just what they represent (0-40: less25, 40-100: less150, 100-300: less500, >300: over500)
 
 
 ## 13-06-2022
