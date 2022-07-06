@@ -13,6 +13,16 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog 
 All notable changes to the files will be documented here.
 
+## 06-07-2022
+
+### Changed
+- Recalculated all of the '«True» number of infections (estimate)' values, based on the updated https://covid19-projections.com/estimating-true-infections-revisited/#prevalence-ratio website. The FAQ section of the website was also changed accordingly. The new formula: 'dailyCases(day_i) * (4.5 * (positivity_rate(day_i))^(0.5) + 2)' replaced the previous one 'dailyCases(n+14) * (16 * \sqrt[2]{posRate(n+14)} + 2.5)' and all values were recalculated. Instead of a two weeks lag in infections, a 10-day one was used in order to approach a more realistic scenario for Greece. 
+Affected tables:
+- predictions.csv - columns (prevalence_ratio_7day_ma, true_inf_est_7day_ma, implied_ifr_7day_ma)
+- greece.json - (predicted_true_inf, infection_fatality_rate)
+
+
+
 ## 20-06-2022
 
 ### Changed
@@ -28,6 +38,7 @@ All notable changes to the files will be documented here.
 ### Changed
 - vaccinations_ecdc.csv. Added column: DoseAdditional2. Number of second additional vaccine doses administered after a complete standard primary course to individuals during the reporting week.
 - greece.json - Added name 'vaccinations_byage.DoseAdditional2'
+
 
 ## 01-06-2022
 
