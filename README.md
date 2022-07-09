@@ -14,6 +14,10 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 All notable changes to the files will be documented here.
 
 ## 06-07-2022
+### EODY, the organization that has the primary responsibility for informing the public on the pandemic, decided in the midst of a new outbreak, that the epidemiological report will from now on be published on a weekly basis. In particular, until Sunday 10/07, when ISO week 27 of the year ends, the daily report will be published as usual. On Tuesday (12/7) the first weekly report will be published. It is noted that, on Monday there will be no daily report due to the start of the following week (ISO 28).
+I'll do my best to maintain this repository, but expect the unexpected for the following 1-2 weeks. It all depends on the quality/availability of the new information.
+
+## 06-07-2022
 
 ### Changed
 - Recalculated all of the '«True» number of infections (estimate)' values, based on the updated https://covid19-projections.com/estimating-true-infections-revisited/#prevalence-ratio website. The FAQ section of the website was also changed accordingly. The new formula: 'dailyCases(day_i) * (4.5 * (positivity_rate(day_i))^(0.5) + 2)' replaced the previous one 'dailyCases(n+14) * (16 * \sqrt[2]{posRate(n+14)} + 2.5)' and all values were recalculated. Instead of a two weeks lag in infections, a 10-day one was used in order to approach a more realistic scenario for Greece. 
