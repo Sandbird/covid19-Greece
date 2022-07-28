@@ -13,6 +13,12 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog 
 All notable changes to the files will be documented here.
 
+## 28-07-2022
+### Changed
+- prefectures.csv - Changed population values based on the Greek 2021 Census (https://pastebin.com/raw/AUx4yaag). (From 2022-07-26 and onwards the new values will apply.)
+
+
+
 ## 09-07-2022
 ### EODY, the organization that has the primary responsibility for informing the public on the pandemic, decided in the midst of a new outbreak, that the epidemiological report will from now on be published on a weekly basis. In particular, until Sunday 10/07, when ISO week 27 of the year ends, the daily report will be published as usual. On Tuesday (12/7) the first weekly report will be published. It is noted that, on Monday there will be no daily report due to the start of the following week (ISO 28).
 I'll do my best to maintain this repository, but expect the unexpected for the following 1-2 weeks. It all depends on the quality/availability of the new information.
