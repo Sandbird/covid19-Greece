@@ -13,6 +13,12 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog 
 All notable changes to the files will be documented here.
 
+## 05-08-2022
+### Changed
+- predictions.csv - Due to the w27, w28 weekly reports there was problem calculating prevalence_ratio_7day_ma, implied_ifr_7day_ma values. I had to compensate for the negative values that were being created (for 2 consecutive days) by just ignoring them and copying the previous positive value.
+
+
+
 ## 28-07-2022
 ### Changed
 - prefectures.csv - Changed population values based on the Greek 2021 Census (https://pastebin.com/raw/AUx4yaag). (From 2022-07-26 and onwards the new values will apply.)
