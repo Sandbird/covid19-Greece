@@ -13770,7 +13770,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 13769,2022-08-12,"Western Macedonia",GR-C,108571,909,100069,2754,0,14
 13770,2022-08-12,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 13771,2022-08-12,"Under Investigation",GR-U,111680,83,0,0,0,16
-13772,2022-08-13,Attica,GR-I,1745875,10295,1628638,21423,0,1
+13772,2022-08-13,Attica,GR-I,1745875,10295,1628640,21421,0,1
 13773,2022-08-13,"Central Greece",GR-H,192711,1216,176563,5006,0,2
 13774,2022-08-13,"Central Macedonia",GR-B,805165,9009,741565,19428,0,3
 13775,2022-08-13,Crete,GR-M,317423,957,293013,6405,0,4
