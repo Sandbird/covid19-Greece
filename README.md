@@ -14,11 +14,6 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 All notable changes to the files will be documented here.
 
 
-## 24-08-2022
-### Changed
-- cases.csv - Moved all weekly report entries to the last day of their corresponding ISO week. From now one all weekly reports are going to be registered as such.
-
-
 ## 05-08-2022
 ### Changed
 - predictions.csv - Due to the w27, w28 weekly reports there was problem calculating prevalence_ratio_7day_ma, implied_ifr_7day_ma values. I had to compensate for the negative values that were being created (for 2 consecutive days) by just ignoring them and copying the previous positive value.
