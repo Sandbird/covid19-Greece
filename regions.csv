@@ -14602,19 +14602,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 14601,2022-10-03,"Western Macedonia",GR-C,118993,0,0,0,0,14
 14602,2022-10-03,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 14603,2022-10-03,"Under Investigation",GR-U,111680,33111,0,0,0,16
-14604,2022-10-04,Attica,GR-I,1824418,0,0,0,0,1
-14605,2022-10-04,"Central Greece",GR-H,209373,0,0,0,0,2
-14606,2022-10-04,"Central Macedonia",GR-B,875847,0,0,0,0,3
-14607,2022-10-04,Crete,GR-M,339978,0,0,0,0,4
-14608,2022-10-04,"Eastern Macedonia and Thrace",GR-A,237888,0,0,0,0,5
-14609,2022-10-04,Epirus,GR-D,142687,0,0,0,0,6
-14610,2022-10-04,"Ionian Islands",GR-F,102651,0,0,0,0,7
-14611,2022-10-04,"Mount Athos",GR-69,286,0,0,0,0,8
-14612,2022-10-04,"North Aegean",GR-K,86713,0,0,0,0,9
-14613,2022-10-04,Peloponnese,GR-J,247524,0,0,0,0,10
-14614,2022-10-04,"South Aegean",GR-L,163810,0,0,0,0,11
-14615,2022-10-04,Thessaly,GR-E,327263,0,0,0,0,12
-14616,2022-10-04,"Western Greece",GR-G,284491,0,0,0,0,13
-14617,2022-10-04,"Western Macedonia",GR-C,118993,0,0,0,0,14
+14604,2022-10-04,Attica,GR-I,1839410,0,0,0,0,1
+14605,2022-10-04,"Central Greece",GR-H,211873,0,0,0,0,2
+14606,2022-10-04,"Central Macedonia",GR-B,888459,0,0,0,0,3
+14607,2022-10-04,Crete,GR-M,343627,0,0,0,0,4
+14608,2022-10-04,"Eastern Macedonia and Thrace",GR-A,240572,0,0,0,0,5
+14609,2022-10-04,Epirus,GR-D,144551,0,0,0,0,6
+14610,2022-10-04,"Ionian Islands",GR-F,103560,0,0,0,0,7
+14611,2022-10-04,"Mount Athos",GR-69,287,0,0,0,0,8
+14612,2022-10-04,"North Aegean",GR-K,87740,0,0,0,0,9
+14613,2022-10-04,Peloponnese,GR-J,250049,0,0,0,0,10
+14614,2022-10-04,"South Aegean",GR-L,165431,0,0,0,0,11
+14615,2022-10-04,Thessaly,GR-E,332270,0,0,0,0,12
+14616,2022-10-04,"Western Greece",GR-G,287244,0,0,0,0,13
+14617,2022-10-04,"Western Macedonia",GR-C,120842,0,0,0,0,14
 14618,2022-10-04,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-14619,2022-10-04,"Under Investigation",GR-U,111680,33111,0,0,0,16
+14619,2022-10-04,"Under Investigation",GR-U,111680,33200,0,0,0,16
