@@ -14729,4 +14729,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 14728,2022-10-11,"Western Greece",GR-G,287244,0,0,0,0,13
 14729,2022-10-11,"Western Macedonia",GR-C,120842,0,0,0,0,14
 14730,2022-10-11,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-14731,2022-10-11,"Under Investigation",GR-U,111680,33200,0,0,0,16
+14731,2022-10-11,"Under Investigation",GR-U,111680,33313,0,0,0,16
