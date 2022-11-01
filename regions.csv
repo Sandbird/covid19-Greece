@@ -15065,4 +15065,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 15064,2022-11-01,"Western Greece",GR-G,295570,0,0,0,0,13
 15065,2022-11-01,"Western Macedonia",GR-C,126771,0,0,0,0,14
 15066,2022-11-01,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-15067,2022-11-01,"Under Investigation",GR-U,111680,33574,0,0,0,16
+15067,2022-11-01,"Under Investigation",GR-U,111680,33750,0,0,0,16
