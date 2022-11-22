@@ -15386,19 +15386,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 15385,2022-11-21,"Western Macedonia",GR-C,131373,0,0,0,0,14
 15386,2022-11-21,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 15387,2022-11-21,"Under Investigation",GR-U,111680,34024,0,0,0,16
-15388,2022-11-22,Attica,GR-I,1963137,0,0,0,0,1
-15389,2022-11-22,"Central Greece",GR-H,227931,0,0,0,0,2
-15390,2022-11-22,"Central Macedonia",GR-B,949245,0,0,0,0,3
-15391,2022-11-22,Crete,GR-M,360751,0,0,0,0,4
-15392,2022-11-22,"Eastern Macedonia and Thrace",GR-A,254136,0,0,0,0,5
-15393,2022-11-22,Epirus,GR-D,155598,0,0,0,0,6
-15394,2022-11-22,"Ionian Islands",GR-F,108344,0,0,0,0,7
+15388,2022-11-22,Attica,GR-I,1986199,0,0,0,0,1
+15389,2022-11-22,"Central Greece",GR-H,230474,0,0,0,0,2
+15390,2022-11-22,"Central Macedonia",GR-B,956688,0,0,0,0,3
+15391,2022-11-22,Crete,GR-M,363717,0,0,0,0,4
+15392,2022-11-22,"Eastern Macedonia and Thrace",GR-A,256847,0,0,0,0,5
+15393,2022-11-22,Epirus,GR-D,157402,0,0,0,0,6
+15394,2022-11-22,"Ionian Islands",GR-F,109064,0,0,0,0,7
 15395,2022-11-22,"Mount Athos",GR-69,300,0,0,0,0,8
-15396,2022-11-22,"North Aegean",GR-K,93485,0,0,0,0,9
-15397,2022-11-22,Peloponnese,GR-J,264462,0,0,0,0,10
-15398,2022-11-22,"South Aegean",GR-L,174130,0,0,0,0,11
-15399,2022-11-22,Thessaly,GR-E,355367,0,0,0,0,12
-15400,2022-11-22,"Western Greece",GR-G,307357,0,0,0,0,13
-15401,2022-11-22,"Western Macedonia",GR-C,131373,0,0,0,0,14
+15396,2022-11-22,"North Aegean",GR-K,94576,0,0,0,0,9
+15397,2022-11-22,Peloponnese,GR-J,266983,0,0,0,0,10
+15398,2022-11-22,"South Aegean",GR-L,175251,0,0,0,0,11
+15399,2022-11-22,Thessaly,GR-E,357987,0,0,0,0,12
+15400,2022-11-22,"Western Greece",GR-G,311478,0,0,0,0,13
+15401,2022-11-22,"Western Macedonia",GR-C,132425,0,0,0,0,14
 15402,2022-11-22,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-15403,2022-11-22,"Under Investigation",GR-U,111680,34024,0,0,0,16
+15403,2022-11-22,"Under Investigation",GR-U,111680,34178,0,0,0,16
