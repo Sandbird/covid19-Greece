@@ -15402,3 +15402,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 15401,2022-11-22,"Western Macedonia",GR-C,132425,0,0,0,0,14
 15402,2022-11-22,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 15403,2022-11-22,"Under Investigation",GR-U,111680,34178,0,0,0,16
+15404,2022-11-23,Attica,GR-I,1986199,0,0,0,0,1
+15405,2022-11-23,"Central Greece",GR-H,230474,0,0,0,0,2
+15406,2022-11-23,"Central Macedonia",GR-B,956688,0,0,0,0,3
+15407,2022-11-23,Crete,GR-M,363717,0,0,0,0,4
+15408,2022-11-23,"Eastern Macedonia and Thrace",GR-A,256847,0,0,0,0,5
+15409,2022-11-23,Epirus,GR-D,157402,0,0,0,0,6
+15410,2022-11-23,"Ionian Islands",GR-F,109064,0,0,0,0,7
+15411,2022-11-23,"Mount Athos",GR-69,300,0,0,0,0,8
+15412,2022-11-23,"North Aegean",GR-K,94576,0,0,0,0,9
+15413,2022-11-23,Peloponnese,GR-J,266983,0,0,0,0,10
+15414,2022-11-23,"South Aegean",GR-L,175251,0,0,0,0,11
+15415,2022-11-23,Thessaly,GR-E,357987,0,0,0,0,12
+15416,2022-11-23,"Western Greece",GR-G,311478,0,0,0,0,13
+15417,2022-11-23,"Western Macedonia",GR-C,132425,0,0,0,0,14
+15418,2022-11-23,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+15419,2022-11-23,"Under Investigation",GR-U,111680,34178,0,0,0,16
