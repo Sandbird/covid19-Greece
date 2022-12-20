@@ -1,5 +1,5 @@
 # covid19-Greece
-Daily regional statistics for Covid19 cases in Greece (used by https://github.com/Sandbird/covid19-gr)
+Daily regional statistics for Covid19 cases in Greece (used by https://github.com/Sandbird/covid19-gr, https://covid19-greece.tk/)
 
 ### Updates
 This repository will be updated daily on an irregular basis according to the announcement by the Ministry of Health.
