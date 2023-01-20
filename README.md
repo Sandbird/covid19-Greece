@@ -14,6 +14,10 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 All notable changes to the files will be documented here.
 
 
+## 20-01-2023
+### Changed
+- predictions.csv - The following values cannot be updated anymore due to lack of data: daily_tests_7day_ma, daily_rapid_tests_7day_ma, positive_rate_7day_ma, positive_rate_combined_7day_ma, daily_prevalence_ratio_7day_ma, true_inf_est_7day_ma, implied_ifr_7day_ma.
+
 
 ## 20-12-2022
 ### EODY, the organization that has the primary responsibility for informing the public on the pandemic, decided (yet again) in the midst of the winter wave, to no longer issue the weekly epidemiological report. From now on a less detailed report will be issued every Thursday, which will include all respiratory infections. An example of new format can be seen here: https://eody.gov.gr/wp-content/uploads/2022/12/anapneustikon-ion-report-2022-50.pdf. It is unknown, at this moment, of whether I can continue to update this repo or not. The only available data that we have now are Vaccinations. (cases.csv, prefectures.csv, vaccinations/vaccinations_ecdc.csv). At this moment, I am waiting to see what will EODY report to TESSy and subsequently to ECDC.
