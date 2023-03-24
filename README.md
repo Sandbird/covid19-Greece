@@ -14,6 +14,12 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 All notable changes to the files will be documented here.
 
 
+## 24-03-2022
+### Added
+- cases_weekly_ecdc.csv - Weekly dataset provided by ECDC. Added a few additions (total_vaccinations, new_critical, total_critical) using EODY data. In addition, using the positivity rate from the EODY reports + PCR/Rapid tests, we can calculate the reinfections (EODY Cases - ECDC Cases), since EODY does not send the reinfections to TESSy. The sum of new_cases + new_reinfections gives us the (proper) weekly sum.
+
+
+
 ## 20-01-2023
 ### Changed
 - predictions.csv - The following values cannot be updated anymore due to lack of data: daily_tests_7day_ma, daily_rapid_tests_7day_ma, positive_rate_7day_ma, positive_rate_combined_7day_ma, daily_prevalence_ratio_7day_ma, true_inf_est_7day_ma, implied_ifr_7day_ma.
