@@ -16,7 +16,7 @@ All notable changes to the files will be documented here.
 
 ## 25-04-2023
 ### Changed
-vaccinations_ecdc.csv. Added column: DoseAdditional4, DoseAdditional5. Number of third,forth additional vaccine doses administered after a complete standard primary course to individuals during the reporting week.
+vaccinations_ecdc.csv. Added columns: DoseAdditional4, DoseAdditional5. Number of third,forth additional vaccine doses administered after a complete standard primary course to individuals during the reporting week.
 greece.json - Added names 'vaccinations_byage.DoseAdditional4', 'vaccinations_byage.DoseAdditional5'
 
 
