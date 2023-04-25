@@ -14,7 +14,14 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 All notable changes to the files will be documented here.
 
 
-## 24-03-2022
+## 25-04-2023
+### Changed
+vaccinations_ecdc.csv. Added column: DoseAdditional4, DoseAdditional5. Number of third,forth additional vaccine doses administered after a complete standard primary course to individuals during the reporting week.
+greece.json - Added names 'vaccinations_byage.DoseAdditional4', 'vaccinations_byage.DoseAdditional5'
+
+
+
+## 24-03-2023
 ### Added
 - cases_weekly_ecdc.csv - Weekly dataset provided by ECDC. Added a few additions (total_vaccinations, new_critical, total_critical) using EODY data. In addition, using the positivity rate from the EODY reports + PCR/Rapid tests, we can calculate the reinfections (EODY Cases - ECDC Cases), since EODY does not send the reinfections to TESSy. The sum of new_cases + new_reinfections gives us the (proper) weekly sum.
 
