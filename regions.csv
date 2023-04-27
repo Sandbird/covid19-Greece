@@ -17897,4 +17897,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 17896,2023-04-27,"Western Greece",GR-G,324286,0,0,0,0,13
 17897,2023-04-27,"Western Macedonia",GR-C,135840,0,0,0,0,14
 17898,2023-04-27,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-17899,2023-04-27,"Under Investigation",GR-U,111680,36738,0,0,0,16
+17899,2023-04-27,"Under Investigation",GR-U,111680,36789,0,0,0,16
