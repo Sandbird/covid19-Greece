@@ -17962,3 +17962,51 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 17961,2023-05-01,"Western Macedonia",GR-C,135840,0,0,0,0,14
 17962,2023-05-01,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 17963,2023-05-01,"Under Investigation",GR-U,111680,36789,0,0,0,16
+17964,2023-05-02,Attica,GR-I,2064812,0,0,0,0,1
+17965,2023-05-02,"Central Greece",GR-H,239274,0,0,0,0,2
+17966,2023-05-02,"Central Macedonia",GR-B,984783,0,0,0,0,3
+17967,2023-05-02,Crete,GR-M,372987,0,0,0,0,4
+17968,2023-05-02,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+17969,2023-05-02,Epirus,GR-D,163396,0,0,0,0,6
+17970,2023-05-02,"Ionian Islands",GR-F,111415,0,0,0,0,7
+17971,2023-05-02,"Mount Athos",GR-69,318,0,0,0,0,8
+17972,2023-05-02,"North Aegean",GR-K,97758,0,0,0,0,9
+17973,2023-05-02,Peloponnese,GR-J,276036,0,0,0,0,10
+17974,2023-05-02,"South Aegean",GR-L,179624,0,0,0,0,11
+17975,2023-05-02,Thessaly,GR-E,367522,0,0,0,0,12
+17976,2023-05-02,"Western Greece",GR-G,324286,0,0,0,0,13
+17977,2023-05-02,"Western Macedonia",GR-C,135840,0,0,0,0,14
+17978,2023-05-02,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+17979,2023-05-02,"Under Investigation",GR-U,111680,36789,0,0,0,16
+17980,2023-05-03,Attica,GR-I,2064812,0,0,0,0,1
+17981,2023-05-03,"Central Greece",GR-H,239274,0,0,0,0,2
+17982,2023-05-03,"Central Macedonia",GR-B,984783,0,0,0,0,3
+17983,2023-05-03,Crete,GR-M,372987,0,0,0,0,4
+17984,2023-05-03,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+17985,2023-05-03,Epirus,GR-D,163396,0,0,0,0,6
+17986,2023-05-03,"Ionian Islands",GR-F,111415,0,0,0,0,7
+17987,2023-05-03,"Mount Athos",GR-69,318,0,0,0,0,8
+17988,2023-05-03,"North Aegean",GR-K,97758,0,0,0,0,9
+17989,2023-05-03,Peloponnese,GR-J,276036,0,0,0,0,10
+17990,2023-05-03,"South Aegean",GR-L,179624,0,0,0,0,11
+17991,2023-05-03,Thessaly,GR-E,367522,0,0,0,0,12
+17992,2023-05-03,"Western Greece",GR-G,324286,0,0,0,0,13
+17993,2023-05-03,"Western Macedonia",GR-C,135840,0,0,0,0,14
+17994,2023-05-03,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+17995,2023-05-03,"Under Investigation",GR-U,111680,36789,0,0,0,16
+17996,2023-05-04,Attica,GR-I,2064812,0,0,0,0,1
+17997,2023-05-04,"Central Greece",GR-H,239274,0,0,0,0,2
+17998,2023-05-04,"Central Macedonia",GR-B,984783,0,0,0,0,3
+17999,2023-05-04,Crete,GR-M,372987,0,0,0,0,4
+18000,2023-05-04,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+18001,2023-05-04,Epirus,GR-D,163396,0,0,0,0,6
+18002,2023-05-04,"Ionian Islands",GR-F,111415,0,0,0,0,7
+18003,2023-05-04,"Mount Athos",GR-69,318,0,0,0,0,8
+18004,2023-05-04,"North Aegean",GR-K,97758,0,0,0,0,9
+18005,2023-05-04,Peloponnese,GR-J,276036,0,0,0,0,10
+18006,2023-05-04,"South Aegean",GR-L,179624,0,0,0,0,11
+18007,2023-05-04,Thessaly,GR-E,367522,0,0,0,0,12
+18008,2023-05-04,"Western Greece",GR-G,324286,0,0,0,0,13
+18009,2023-05-04,"Western Macedonia",GR-C,135840,0,0,0,0,14
+18010,2023-05-04,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+18011,2023-05-04,"Under Investigation",GR-U,111680,36789,0,0,0,16
