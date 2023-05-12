@@ -18137,4 +18137,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 18136,2023-05-12,"Western Greece",GR-G,324286,0,0,0,0,13
 18137,2023-05-12,"Western Macedonia",GR-C,135840,0,0,0,0,14
 18138,2023-05-12,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-18139,2023-05-12,"Under Investigation",GR-U,111680,36903,0,0,0,16
+18139,2023-05-12,"Under Investigation",GR-U,111680,36908,0,0,0,16
