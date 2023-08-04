@@ -19481,4 +19481,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 19480,2023-08-04,"Western Greece",GR-G,324286,0,0,0,0,13
 19481,2023-08-04,"Western Macedonia",GR-C,135840,0,0,0,0,14
 19482,2023-08-04,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-19483,2023-08-04,"Under Investigation",GR-U,111680,37261,0,0,0,16
+19483,2023-08-04,"Under Investigation",GR-U,111680,37289,0,0,0,16
