@@ -19801,4 +19801,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 19800,2023-08-24,"Western Greece",GR-G,324286,0,0,0,0,13
 19801,2023-08-24,"Western Macedonia",GR-C,135840,0,0,0,0,14
 19802,2023-08-24,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-19803,2023-08-24,"Under Investigation",GR-U,111680,37335,0,0,0,16
+19803,2023-08-24,"Under Investigation",GR-U,111680,37368,0,0,0,16
