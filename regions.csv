@@ -19929,4 +19929,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 19928,2023-09-01,"Western Greece",GR-G,324286,0,0,0,0,13
 19929,2023-09-01,"Western Macedonia",GR-C,135840,0,0,0,0,14
 19930,2023-09-01,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-19931,2023-09-01,"Under Investigation",GR-U,111680,37370,0,0,0,16
+19931,2023-09-01,"Under Investigation",GR-U,111680,37413,0,0,0,16
