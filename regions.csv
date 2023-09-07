@@ -20025,4 +20025,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 20024,2023-09-07,"Western Greece",GR-G,324286,0,0,0,0,13
 20025,2023-09-07,"Western Macedonia",GR-C,135840,0,0,0,0,14
 20026,2023-09-07,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-20027,2023-09-07,"Under Investigation",GR-U,111680,37413,0,0,0,16
+20027,2023-09-07,"Under Investigation",GR-U,111680,37450,0,0,0,16
