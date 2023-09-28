@@ -20361,4 +20361,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 20360,2023-09-28,"Western Greece",GR-G,324286,0,0,0,0,13
 20361,2023-09-28,"Western Macedonia",GR-C,135840,0,0,0,0,14
 20362,2023-09-28,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-20363,2023-09-28,"Under Investigation",GR-U,111680,37533,0,0,0,16
+20363,2023-09-28,"Under Investigation",GR-U,111680,37568,0,0,0,16
