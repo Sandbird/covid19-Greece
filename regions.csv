@@ -20505,4 +20505,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 20504,2023-10-07,"Western Greece",GR-G,324286,0,0,0,0,13
 20505,2023-10-07,"Western Macedonia",GR-C,135840,0,0,0,0,14
 20506,2023-10-07,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-20507,2023-10-07,"Under Investigation",GR-U,111680,37625,0,0,0,16
+20507,2023-10-07,"Under Investigation",GR-U,111680,37640,0,0,0,16
