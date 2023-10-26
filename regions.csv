@@ -20809,4 +20809,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 20808,2023-10-26,"Western Greece",GR-G,324286,0,0,0,0,13
 20809,2023-10-26,"Western Macedonia",GR-C,135840,0,0,0,0,14
 20810,2023-10-26,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-20811,2023-10-26,"Under Investigation",GR-U,111680,37748,0,0,0,16
+20811,2023-10-26,"Under Investigation",GR-U,111680,37798,0,0,0,16
