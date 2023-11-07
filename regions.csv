@@ -20986,3 +20986,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 20985,2023-11-06,"Western Macedonia",GR-C,135840,0,0,0,0,14
 20986,2023-11-06,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 20987,2023-11-06,"Under Investigation",GR-U,111680,37869,0,0,0,16
+20988,2023-11-07,Attica,GR-I,2064812,0,0,0,0,1
+20989,2023-11-07,"Central Greece",GR-H,239274,0,0,0,0,2
+20990,2023-11-07,"Central Macedonia",GR-B,984783,0,0,0,0,3
+20991,2023-11-07,Crete,GR-M,372987,0,0,0,0,4
+20992,2023-11-07,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+20993,2023-11-07,Epirus,GR-D,163396,0,0,0,0,6
+20994,2023-11-07,"Ionian Islands",GR-F,111415,0,0,0,0,7
+20995,2023-11-07,"Mount Athos",GR-69,318,0,0,0,0,8
+20996,2023-11-07,"North Aegean",GR-K,97758,0,0,0,0,9
+20997,2023-11-07,Peloponnese,GR-J,276036,0,0,0,0,10
+20998,2023-11-07,"South Aegean",GR-L,179624,0,0,0,0,11
+20999,2023-11-07,Thessaly,GR-E,367522,0,0,0,0,12
+21000,2023-11-07,"Western Greece",GR-G,324286,0,0,0,0,13
+21001,2023-11-07,"Western Macedonia",GR-C,135840,0,0,0,0,14
+21002,2023-11-07,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+21003,2023-11-07,"Under Investigation",GR-U,111680,37869,0,0,0,16
