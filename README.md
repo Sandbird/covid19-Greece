@@ -14,6 +14,13 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 All notable changes to the files will be documented here.
 
 
+
+## 09-12-2023
+### Changed
+cases_weekly_ecdc.csv. As of December 1, 2023, ECDC will no longer update its dataset (https://www.ecdc.europa.eu/en/covid-19/data). Consequently, no further corrections will be applied to the data, as there will be no official provider of TESSy data available. Moving forward, I will rely on the positivity rate provided by EODY (the National Public Health Organization) every Thursday for the 'new_deaths', 'total_deaths', 'new_cases', 'confirmed', and 'positive_rate' fields. It's important to note that we have currently lost all values for 'reinfections'.
+
+
+
 ## 25-04-2023
 ### Changed
 vaccinations_ecdc.csv. Added columns: DoseAdditional4, DoseAdditional5. Number of third,forth additional vaccine doses administered after a complete standard primary course to individuals during the reporting week.
