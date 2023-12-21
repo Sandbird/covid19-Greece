@@ -15,7 +15,7 @@ All notable changes to the files will be documented here.
 
 ## 21-12-2023
 ### Changed
-cases.csv, cases_weekly_ecdc.csv: Every Tuesday afternoon, I will update both files with the latest EODY updates. This means that the 'new_cases', 'confirmed' values will encompass both new cases and reinfections. When the ECDC report is released, the values will be adjusted accordingly. This adjustment will also apply to the 'reinfections' values. In general, if you encounter a 0 value in the reinfections column, it indicates that the ECDC report has not been released yet.
+cases.csv, cases_weekly_ecdc.csv: Every Thursday afternoon, I will update both files with the latest EODY updates. This means that the 'new_cases', 'confirmed' values will encompass both new cases and reinfections. When the ECDC report is released, the values will be adjusted accordingly. This adjustment will also apply to the 'reinfections' values. In general, if you encounter a 0 value in the reinfections column, it indicates that the ECDC report has not been released yet.
 
 
 ## 09-12-2023
