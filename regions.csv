@@ -22538,3 +22538,67 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 22537,2024-02-12,"Western Macedonia",GR-C,135840,0,0,0,0,14
 22538,2024-02-12,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 22539,2024-02-12,"Under Investigation",GR-U,111680,38861,0,0,0,16
+22540,2024-02-11,Attica,GR-I,2064812,0,0,0,0,1
+22541,2024-02-11,"Central Greece",GR-H,239274,0,0,0,0,2
+22542,2024-02-11,"Central Macedonia",GR-B,984783,0,0,0,0,3
+22543,2024-02-11,Crete,GR-M,372987,0,0,0,0,4
+22544,2024-02-11,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+22545,2024-02-11,Epirus,GR-D,163396,0,0,0,0,6
+22546,2024-02-11,"Ionian Islands",GR-F,111415,0,0,0,0,7
+22547,2024-02-11,"Mount Athos",GR-69,318,0,0,0,0,8
+22548,2024-02-11,"North Aegean",GR-K,97758,0,0,0,0,9
+22549,2024-02-11,Peloponnese,GR-J,276036,0,0,0,0,10
+22550,2024-02-11,"South Aegean",GR-L,179624,0,0,0,0,11
+22551,2024-02-11,Thessaly,GR-E,367522,0,0,0,0,12
+22552,2024-02-11,"Western Greece",GR-G,324286,0,0,0,0,13
+22553,2024-02-11,"Western Macedonia",GR-C,135840,0,0,0,0,14
+22554,2024-02-11,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+22555,2024-02-11,"Under Investigation",GR-U,111680,38857,0,0,0,16
+22556,2024-02-13,Attica,GR-I,2064812,0,0,0,0,1
+22557,2024-02-13,"Central Greece",GR-H,239274,0,0,0,0,2
+22558,2024-02-13,"Central Macedonia",GR-B,984783,0,0,0,0,3
+22559,2024-02-13,Crete,GR-M,372987,0,0,0,0,4
+22560,2024-02-13,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+22561,2024-02-13,Epirus,GR-D,163396,0,0,0,0,6
+22562,2024-02-13,"Ionian Islands",GR-F,111415,0,0,0,0,7
+22563,2024-02-13,"Mount Athos",GR-69,318,0,0,0,0,8
+22564,2024-02-13,"North Aegean",GR-K,97758,0,0,0,0,9
+22565,2024-02-13,Peloponnese,GR-J,276036,0,0,0,0,10
+22566,2024-02-13,"South Aegean",GR-L,179624,0,0,0,0,11
+22567,2024-02-13,Thessaly,GR-E,367522,0,0,0,0,12
+22568,2024-02-13,"Western Greece",GR-G,324286,0,0,0,0,13
+22569,2024-02-13,"Western Macedonia",GR-C,135840,0,0,0,0,14
+22570,2024-02-13,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+22571,2024-02-13,"Under Investigation",GR-U,111680,38861,0,0,0,16
+22572,2024-02-14,Attica,GR-I,2064812,0,0,0,0,1
+22573,2024-02-14,"Central Greece",GR-H,239274,0,0,0,0,2
+22574,2024-02-14,"Central Macedonia",GR-B,984783,0,0,0,0,3
+22575,2024-02-14,Crete,GR-M,372987,0,0,0,0,4
+22576,2024-02-14,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+22577,2024-02-14,Epirus,GR-D,163396,0,0,0,0,6
+22578,2024-02-14,"Ionian Islands",GR-F,111415,0,0,0,0,7
+22579,2024-02-14,"Mount Athos",GR-69,318,0,0,0,0,8
+22580,2024-02-14,"North Aegean",GR-K,97758,0,0,0,0,9
+22581,2024-02-14,Peloponnese,GR-J,276036,0,0,0,0,10
+22582,2024-02-14,"South Aegean",GR-L,179624,0,0,0,0,11
+22583,2024-02-14,Thessaly,GR-E,367522,0,0,0,0,12
+22584,2024-02-14,"Western Greece",GR-G,324286,0,0,0,0,13
+22585,2024-02-14,"Western Macedonia",GR-C,135840,0,0,0,0,14
+22586,2024-02-14,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+22587,2024-02-14,"Under Investigation",GR-U,111680,38861,0,0,0,16
+22588,2024-02-15,Attica,GR-I,2064812,0,0,0,0,1
+22589,2024-02-15,"Central Greece",GR-H,239274,0,0,0,0,2
+22590,2024-02-15,"Central Macedonia",GR-B,984783,0,0,0,0,3
+22591,2024-02-15,Crete,GR-M,372987,0,0,0,0,4
+22592,2024-02-15,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+22593,2024-02-15,Epirus,GR-D,163396,0,0,0,0,6
+22594,2024-02-15,"Ionian Islands",GR-F,111415,0,0,0,0,7
+22595,2024-02-15,"Mount Athos",GR-69,318,0,0,0,0,8
+22596,2024-02-15,"North Aegean",GR-K,97758,0,0,0,0,9
+22597,2024-02-15,Peloponnese,GR-J,276036,0,0,0,0,10
+22598,2024-02-15,"South Aegean",GR-L,179624,0,0,0,0,11
+22599,2024-02-15,Thessaly,GR-E,367522,0,0,0,0,12
+22600,2024-02-15,"Western Greece",GR-G,324286,0,0,0,0,13
+22601,2024-02-15,"Western Macedonia",GR-C,135840,0,0,0,0,14
+22602,2024-02-15,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+22603,2024-02-15,"Under Investigation",GR-U,111680,38861,0,0,0,16
