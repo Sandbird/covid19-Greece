@@ -22521,7 +22521,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 22520,2024-02-10,"Western Greece",GR-G,324286,0,0,0,0,13
 22521,2024-02-10,"Western Macedonia",GR-C,135840,0,0,0,0,14
 22522,2024-02-10,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-22523,2024-02-10,"Under Investigation",GR-U,111680,38857,0,0,0,16
+22523,2024-02-10,"Under Investigation",GR-U,111680,38861,0,0,0,16
 22524,2024-02-12,Attica,GR-I,2064812,0,0,0,0,1
 22525,2024-02-12,"Central Greece",GR-H,239274,0,0,0,0,2
 22526,2024-02-12,"Central Macedonia",GR-B,984783,0,0,0,0,3
@@ -22553,7 +22553,7 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 22552,2024-02-11,"Western Greece",GR-G,324286,0,0,0,0,13
 22553,2024-02-11,"Western Macedonia",GR-C,135840,0,0,0,0,14
 22554,2024-02-11,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-22555,2024-02-11,"Under Investigation",GR-U,111680,38857,0,0,0,16
+22555,2024-02-11,"Under Investigation",GR-U,111680,38861,0,0,0,16
 22556,2024-02-13,Attica,GR-I,2064812,0,0,0,0,1
 22557,2024-02-13,"Central Greece",GR-H,239274,0,0,0,0,2
 22558,2024-02-13,"Central Macedonia",GR-B,984783,0,0,0,0,3
