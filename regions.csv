@@ -23049,4 +23049,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 23048,2024-03-14,"Western Greece",GR-G,324286,0,0,0,0,13
 23049,2024-03-14,"Western Macedonia",GR-C,135840,0,0,0,0,14
 23050,2024-03-14,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-23051,2024-03-14,"Under Investigation",GR-U,111680,38964,0,0,0,16
+23051,2024-03-14,"Under Investigation",GR-U,111680,38978,0,0,0,16
