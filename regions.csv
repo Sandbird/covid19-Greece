@@ -23385,4 +23385,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 23384,2024-04-04,"Western Greece",GR-G,324286,0,0,0,0,13
 23385,2024-04-04,"Western Macedonia",GR-C,135840,0,0,0,0,14
 23386,2024-04-04,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-23387,2024-04-04,"Under Investigation",GR-U,111680,38993,0,0,0,16
+23387,2024-04-04,"Under Investigation",GR-U,111680,39001,0,0,0,16
