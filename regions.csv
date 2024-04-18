@@ -23609,4 +23609,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 23608,2024-04-18,"Western Greece",GR-G,324286,0,0,0,0,13
 23609,2024-04-18,"Western Macedonia",GR-C,135840,0,0,0,0,14
 23610,2024-04-18,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-23611,2024-04-18,"Under Investigation",GR-U,111680,39010,0,0,0,16
+23611,2024-04-18,"Under Investigation",GR-U,111680,39014,0,0,0,16
