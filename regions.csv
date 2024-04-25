@@ -23706,3 +23706,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 23705,2024-04-24,"Western Macedonia",GR-C,135840,0,0,0,0,14
 23706,2024-04-24,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 23707,2024-04-24,"Under Investigation",GR-U,111680,39014,0,0,0,16
+23708,2024-04-25,Attica,GR-I,2064812,0,0,0,0,1
+23709,2024-04-25,"Central Greece",GR-H,239274,0,0,0,0,2
+23710,2024-04-25,"Central Macedonia",GR-B,984783,0,0,0,0,3
+23711,2024-04-25,Crete,GR-M,372987,0,0,0,0,4
+23712,2024-04-25,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+23713,2024-04-25,Epirus,GR-D,163396,0,0,0,0,6
+23714,2024-04-25,"Ionian Islands",GR-F,111415,0,0,0,0,7
+23715,2024-04-25,"Mount Athos",GR-69,318,0,0,0,0,8
+23716,2024-04-25,"North Aegean",GR-K,97758,0,0,0,0,9
+23717,2024-04-25,Peloponnese,GR-J,276036,0,0,0,0,10
+23718,2024-04-25,"South Aegean",GR-L,179624,0,0,0,0,11
+23719,2024-04-25,Thessaly,GR-E,367522,0,0,0,0,12
+23720,2024-04-25,"Western Greece",GR-G,324286,0,0,0,0,13
+23721,2024-04-25,"Western Macedonia",GR-C,135840,0,0,0,0,14
+23722,2024-04-25,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+23723,2024-04-25,"Under Investigation",GR-U,111680,39014,0,0,0,16
