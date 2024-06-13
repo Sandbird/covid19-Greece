@@ -24505,4 +24505,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 24504,2024-06-13,"Western Greece",GR-G,324286,0,0,0,0,13
 24505,2024-06-13,"Western Macedonia",GR-C,135840,0,0,0,0,14
 24506,2024-06-13,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-24507,2024-06-13,"Under Investigation",GR-U,111680,39041,0,0,0,16
+24507,2024-06-13,"Under Investigation",GR-U,111680,39049,0,0,0,16
