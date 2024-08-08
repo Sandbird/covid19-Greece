@@ -25401,4 +25401,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 25400,2024-08-08,"Western Greece",GR-G,324286,0,0,0,0,13
 25401,2024-08-08,"Western Macedonia",GR-C,135840,0,0,0,0,14
 25402,2024-08-08,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-25403,2024-08-08,"Under Investigation",GR-U,111680,39224,0,0,0,16
+25403,2024-08-08,"Under Investigation",GR-U,111680,39264,0,0,0,16
