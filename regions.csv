@@ -25625,4 +25625,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 25624,2024-08-22,"Western Greece",GR-G,324286,0,0,0,0,13
 25625,2024-08-22,"Western Macedonia",GR-C,135840,0,0,0,0,14
 25626,2024-08-22,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-25627,2024-08-22,"Under Investigation",GR-U,111680,39312,0,0,0,16
+25627,2024-08-22,"Under Investigation",GR-U,111680,39341,0,0,0,16
