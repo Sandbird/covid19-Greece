@@ -26073,4 +26073,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 26072,2024-09-19,"Western Greece",GR-G,324286,0,0,0,0,13
 26073,2024-09-19,"Western Macedonia",GR-C,135840,0,0,0,0,14
 26074,2024-09-19,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-26075,2024-09-19,"Under Investigation",GR-U,111680,39468,0,0,0,16
+26075,2024-09-19,"Under Investigation",GR-U,111680,39491,0,0,0,16
