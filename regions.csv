@@ -26089,4 +26089,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 26088,2024-09-20,"Western Greece",GR-G,324286,0,0,0,0,13
 26089,2024-09-20,"Western Macedonia",GR-C,135840,0,0,0,0,14
 26090,2024-09-20,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-26091,2024-09-20,"Under Investigation",GR-U,111680,39491,0,0,0,16
+26091,2024-09-20,"Under Investigation",GR-U,111680,39493,0,0,0,16
