@@ -26409,4 +26409,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 26408,2024-10-10,"Western Greece",GR-G,324286,0,0,0,0,13
 26409,2024-10-10,"Western Macedonia",GR-C,135840,0,0,0,0,14
 26410,2024-10-10,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-26411,2024-10-10,"Under Investigation",GR-U,111680,39551,0,0,0,16
+26411,2024-10-10,"Under Investigation",GR-U,111680,39568,0,0,0,16
