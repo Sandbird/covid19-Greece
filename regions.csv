@@ -26634,3 +26634,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 26633,2024-10-24,"Western Macedonia",GR-C,135840,0,0,0,0,14
 26634,2024-10-24,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 26635,2024-10-24,"Under Investigation",GR-U,111680,39621,0,0,0,16
+26636,2024-10-25,Attica,GR-I,2064812,0,0,0,0,1
+26637,2024-10-25,"Central Greece",GR-H,239274,0,0,0,0,2
+26638,2024-10-25,"Central Macedonia",GR-B,984783,0,0,0,0,3
+26639,2024-10-25,Crete,GR-M,372987,0,0,0,0,4
+26640,2024-10-25,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+26641,2024-10-25,Epirus,GR-D,163396,0,0,0,0,6
+26642,2024-10-25,"Ionian Islands",GR-F,111415,0,0,0,0,7
+26643,2024-10-25,"Mount Athos",GR-69,318,0,0,0,0,8
+26644,2024-10-25,"North Aegean",GR-K,97758,0,0,0,0,9
+26645,2024-10-25,Peloponnese,GR-J,276036,0,0,0,0,10
+26646,2024-10-25,"South Aegean",GR-L,179624,0,0,0,0,11
+26647,2024-10-25,Thessaly,GR-E,367522,0,0,0,0,12
+26648,2024-10-25,"Western Greece",GR-G,324286,0,0,0,0,13
+26649,2024-10-25,"Western Macedonia",GR-C,135840,0,0,0,0,14
+26650,2024-10-25,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+26651,2024-10-25,"Under Investigation",GR-U,111680,39621,0,0,0,16
