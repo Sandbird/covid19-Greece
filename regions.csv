@@ -28105,4 +28105,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 28104,2025-01-24,"Western Greece",GR-G,324286,0,0,0,0,13
 28105,2025-01-24,"Western Macedonia",GR-C,135840,0,0,0,0,14
 28106,2025-01-24,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-28107,2025-01-24,"Under Investigation",GR-U,111680,39940,0,0,0,16
+28107,2025-01-24,"Under Investigation",GR-U,111680,39969,0,0,0,16
