@@ -28889,4 +28889,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 28888,2025-03-14,"Western Greece",GR-G,324286,0,0,0,0,13
 28889,2025-03-14,"Western Macedonia",GR-C,135840,0,0,0,0,14
 28890,2025-03-14,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-28891,2025-03-14,"Under Investigation",GR-U,111680,40059,0,0,0,16
+28891,2025-03-14,"Under Investigation",GR-U,111680,40060,0,0,0,16
