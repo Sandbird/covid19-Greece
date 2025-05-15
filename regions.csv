@@ -29881,4 +29881,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 29880,2025-05-15,"Western Greece",GR-G,324286,0,0,0,0,13
 29881,2025-05-15,"Western Macedonia",GR-C,135840,0,0,0,0,14
 29882,2025-05-15,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-29883,2025-05-15,"Under Investigation",GR-U,111680,40083,0,0,0,16
+29883,2025-05-15,"Under Investigation",GR-U,111680,40084,0,0,0,16
