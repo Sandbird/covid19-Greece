@@ -13,6 +13,16 @@ The new daily cases reported in greece.json (transition.carriers) derive from th
 # Changelog 
 All notable changes to the files will be documented here.
 
+## 28-05-2025
+### Update Notice
+The **National Public Health Organization** has officially ceased the publication of weekly reports. Due to this change, this repository will **no longer receive updates based on national weekly data**.
+
+Moving forward, updates will rely **primarily on the weekly data published by the European Centre for Disease Prevention and Control (ECDC)**. This may affect the frequency and scope of the updates, depending on the availability and detail of ECDC's reporting.
+
+The NPHO has announced that a **monthly report will be available during the summer**, but has **not provided any information regarding the availability of data after that period**.
+
+Source: https://eody.gov.gr/allagi-sychnotitas-dimosieysis-tis-evdomadiaias-ekthesis-epidimiologikis-epitirisis-anapneystikon-loimoxeon/
+
 ## 21-12-2023
 ### Changed
 cases.csv, cases_weekly_ecdc.csv: Every Thursday afternoon, I will update both files with the latest EODY updates. This means that the 'new_cases', 'confirmed' values will encompass both new cases and reinfections. When the ECDC report is released, the values will be adjusted accordingly. This adjustment will also apply to the 'reinfections' values. In general, if you encounter a 0 value in the reinfections column, it indicates that the ECDC report has not been released yet.
@@ -21,7 +31,6 @@ cases.csv, cases_weekly_ecdc.csv: Every Thursday afternoon, I will update both f
 ## 09-12-2023
 ### Changed
 cases_weekly_ecdc.csv. As of December 1, 2023, ECDC will no longer update its dataset (https://www.ecdc.europa.eu/en/covid-19/data). Consequently, no further corrections will be applied to the data, as there will be no official provider of TESSy data available. Moving forward, I will rely on the positivity rate provided by EODY (the National Public Health Organization) every Thursday for the 'new_deaths', 'total_deaths', 'new_cases', 'confirmed', and 'positive_rate' fields. It's important to note that we have currently lost all values for 'reinfections'.
-
 
 
 ## 25-04-2023
