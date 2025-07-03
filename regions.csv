@@ -30665,4 +30665,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 30664,2025-07-03,"Western Greece",GR-G,324286,0,0,0,0,13
 30665,2025-07-03,"Western Macedonia",GR-C,135840,0,0,0,0,14
 30666,2025-07-03,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-30667,2025-07-03,"Under Investigation",GR-U,111680,40095,0,0,0,16
+30667,2025-07-03,"Under Investigation",GR-U,111680,40096,0,0,0,16
