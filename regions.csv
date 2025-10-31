@@ -32585,4 +32585,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 32584,2025-10-31,"Western Greece",GR-G,324286,0,0,0,0,13
 32585,2025-10-31,"Western Macedonia",GR-C,135840,0,0,0,0,14
 32586,2025-10-31,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-32587,2025-10-31,"Under Investigation",GR-U,111680,40138,0,0,0,16
+32587,2025-10-31,"Under Investigation",GR-U,111680,40139,0,0,0,16
