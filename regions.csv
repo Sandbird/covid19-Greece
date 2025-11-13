@@ -32793,4 +32793,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 32792,2025-11-13,"Western Greece",GR-G,324286,0,0,0,0,13
 32793,2025-11-13,"Western Macedonia",GR-C,135840,0,0,0,0,14
 32794,2025-11-13,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-32795,2025-11-13,"Under Investigation",GR-U,111680,40149,0,0,0,16
+32795,2025-11-13,"Under Investigation",GR-U,111680,40155,0,0,0,16
