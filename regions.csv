@@ -32905,4 +32905,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 32904,2025-11-20,"Western Greece",GR-G,324286,0,0,0,0,13
 32905,2025-11-20,"Western Macedonia",GR-C,135840,0,0,0,0,14
 32906,2025-11-20,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-32907,2025-11-20,"Under Investigation",GR-U,111680,40154,0,0,0,16
+32907,2025-11-20,"Under Investigation",GR-U,111680,40158,0,0,0,16
