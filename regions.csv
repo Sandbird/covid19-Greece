@@ -33018,3 +33018,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 33017,2025-11-27,"Western Macedonia",GR-C,135840,0,0,0,0,14
 33018,2025-11-27,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 33019,2025-11-27,"Under Investigation",GR-U,111680,40160,0,0,0,16
+33020,2025-11-28,Attica,GR-I,2064812,0,0,0,0,1
+33021,2025-11-28,"Central Greece",GR-H,239274,0,0,0,0,2
+33022,2025-11-28,"Central Macedonia",GR-B,984783,0,0,0,0,3
+33023,2025-11-28,Crete,GR-M,372987,0,0,0,0,4
+33024,2025-11-28,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+33025,2025-11-28,Epirus,GR-D,163396,0,0,0,0,6
+33026,2025-11-28,"Ionian Islands",GR-F,111415,0,0,0,0,7
+33027,2025-11-28,"Mount Athos",GR-69,318,0,0,0,0,8
+33028,2025-11-28,"North Aegean",GR-K,97758,0,0,0,0,9
+33029,2025-11-28,Peloponnese,GR-J,276036,0,0,0,0,10
+33030,2025-11-28,"South Aegean",GR-L,179624,0,0,0,0,11
+33031,2025-11-28,Thessaly,GR-E,367522,0,0,0,0,12
+33032,2025-11-28,"Western Greece",GR-G,324286,0,0,0,0,13
+33033,2025-11-28,"Western Macedonia",GR-C,135840,0,0,0,0,14
+33034,2025-11-28,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+33035,2025-11-28,"Under Investigation",GR-U,111680,40172,0,0,0,16
