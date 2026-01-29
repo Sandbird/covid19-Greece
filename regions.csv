@@ -34026,3 +34026,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 34025,2026-01-29,"Western Macedonia",GR-C,135840,0,0,0,0,14
 34026,2026-01-29,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 34027,2026-01-29,"Under Investigation",GR-U,111680,40218,0,0,0,16
+34028,2026-01-30,Attica,GR-I,2064812,0,0,0,0,1
+34029,2026-01-30,"Central Greece",GR-H,239274,0,0,0,0,2
+34030,2026-01-30,"Central Macedonia",GR-B,984783,0,0,0,0,3
+34031,2026-01-30,Crete,GR-M,372987,0,0,0,0,4
+34032,2026-01-30,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+34033,2026-01-30,Epirus,GR-D,163396,0,0,0,0,6
+34034,2026-01-30,"Ionian Islands",GR-F,111415,0,0,0,0,7
+34035,2026-01-30,"Mount Athos",GR-69,318,0,0,0,0,8
+34036,2026-01-30,"North Aegean",GR-K,97758,0,0,0,0,9
+34037,2026-01-30,Peloponnese,GR-J,276036,0,0,0,0,10
+34038,2026-01-30,"South Aegean",GR-L,179624,0,0,0,0,11
+34039,2026-01-30,Thessaly,GR-E,367522,0,0,0,0,12
+34040,2026-01-30,"Western Greece",GR-G,324286,0,0,0,0,13
+34041,2026-01-30,"Western Macedonia",GR-C,135840,0,0,0,0,14
+34042,2026-01-30,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+34043,2026-01-30,"Under Investigation",GR-U,111680,40226,0,0,0,16
