@@ -34473,4 +34473,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 34472,2026-02-26,"Western Greece",GR-G,324286,0,0,0,0,13
 34473,2026-02-26,"Western Macedonia",GR-C,135840,0,0,0,0,14
 34474,2026-02-26,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-34475,2026-02-26,"Under Investigation",GR-U,111680,40253,0,0,0,16
+34475,2026-02-26,"Under Investigation",GR-U,111680,40257,0,0,0,16
