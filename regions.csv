@@ -35194,3 +35194,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 35193,2026-04-12,"Western Macedonia",GR-C,135840,0,0,0,0,14
 35194,2026-04-12,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 35195,2026-04-12,"Under Investigation",GR-U,111680,40271,0,0,0,16
+35196,2026-04-13,Attica,GR-I,2064812,0,0,0,0,1
+35197,2026-04-13,"Central Greece",GR-H,239274,0,0,0,0,2
+35198,2026-04-13,"Central Macedonia",GR-B,984783,0,0,0,0,3
+35199,2026-04-13,Crete,GR-M,372987,0,0,0,0,4
+35200,2026-04-13,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+35201,2026-04-13,Epirus,GR-D,163396,0,0,0,0,6
+35202,2026-04-13,"Ionian Islands",GR-F,111415,0,0,0,0,7
+35203,2026-04-13,"Mount Athos",GR-69,318,0,0,0,0,8
+35204,2026-04-13,"North Aegean",GR-K,97758,0,0,0,0,9
+35205,2026-04-13,Peloponnese,GR-J,276036,0,0,0,0,10
+35206,2026-04-13,"South Aegean",GR-L,179624,0,0,0,0,11
+35207,2026-04-13,Thessaly,GR-E,367522,0,0,0,0,12
+35208,2026-04-13,"Western Greece",GR-G,324286,0,0,0,0,13
+35209,2026-04-13,"Western Macedonia",GR-C,135840,0,0,0,0,14
+35210,2026-04-13,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+35211,2026-04-13,"Under Investigation",GR-U,111680,40271,0,0,0,16
