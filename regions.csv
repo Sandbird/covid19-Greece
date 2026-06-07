@@ -36074,3 +36074,19 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 36073,2026-06-06,"Western Macedonia",GR-C,135840,0,0,0,0,14
 36074,2026-06-06,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 36075,2026-06-06,"Under Investigation",GR-U,111680,40273,0,0,0,16
+36076,2026-06-07,Attica,GR-I,2064812,0,0,0,0,1
+36077,2026-06-07,"Central Greece",GR-H,239274,0,0,0,0,2
+36078,2026-06-07,"Central Macedonia",GR-B,984783,0,0,0,0,3
+36079,2026-06-07,Crete,GR-M,372987,0,0,0,0,4
+36080,2026-06-07,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+36081,2026-06-07,Epirus,GR-D,163396,0,0,0,0,6
+36082,2026-06-07,"Ionian Islands",GR-F,111415,0,0,0,0,7
+36083,2026-06-07,"Mount Athos",GR-69,318,0,0,0,0,8
+36084,2026-06-07,"North Aegean",GR-K,97758,0,0,0,0,9
+36085,2026-06-07,Peloponnese,GR-J,276036,0,0,0,0,10
+36086,2026-06-07,"South Aegean",GR-L,179624,0,0,0,0,11
+36087,2026-06-07,Thessaly,GR-E,367522,0,0,0,0,12
+36088,2026-06-07,"Western Greece",GR-G,324286,0,0,0,0,13
+36089,2026-06-07,"Western Macedonia",GR-C,135840,0,0,0,0,14
+36090,2026-06-07,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+36091,2026-06-07,"Under Investigation",GR-U,111680,40273,0,0,0,16
