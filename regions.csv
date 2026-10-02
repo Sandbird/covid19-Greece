@@ -37930,3 +37930,35 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 37929,2026-09-30,"Western Macedonia",GR-C,135840,0,0,0,0,14
 37930,2026-09-30,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 37931,2026-09-30,"Under Investigation",GR-U,111680,40273,0,0,0,16
+37932,2026-10-01,Attica,GR-I,2064812,0,0,0,0,1
+37933,2026-10-01,"Central Greece",GR-H,239274,0,0,0,0,2
+37934,2026-10-01,"Central Macedonia",GR-B,984783,0,0,0,0,3
+37935,2026-10-01,Crete,GR-M,372987,0,0,0,0,4
+37936,2026-10-01,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+37937,2026-10-01,Epirus,GR-D,163396,0,0,0,0,6
+37938,2026-10-01,"Ionian Islands",GR-F,111415,0,0,0,0,7
+37939,2026-10-01,"Mount Athos",GR-69,318,0,0,0,0,8
+37940,2026-10-01,"North Aegean",GR-K,97758,0,0,0,0,9
+37941,2026-10-01,Peloponnese,GR-J,276036,0,0,0,0,10
+37942,2026-10-01,"South Aegean",GR-L,179624,0,0,0,0,11
+37943,2026-10-01,Thessaly,GR-E,367522,0,0,0,0,12
+37944,2026-10-01,"Western Greece",GR-G,324286,0,0,0,0,13
+37945,2026-10-01,"Western Macedonia",GR-C,135840,0,0,0,0,14
+37946,2026-10-01,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+37947,2026-10-01,"Under Investigation",GR-U,111680,40273,0,0,0,16
+37948,2026-10-02,Attica,GR-I,2064812,0,0,0,0,1
+37949,2026-10-02,"Central Greece",GR-H,239274,0,0,0,0,2
+37950,2026-10-02,"Central Macedonia",GR-B,984783,0,0,0,0,3
+37951,2026-10-02,Crete,GR-M,372987,0,0,0,0,4
+37952,2026-10-02,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+37953,2026-10-02,Epirus,GR-D,163396,0,0,0,0,6
+37954,2026-10-02,"Ionian Islands",GR-F,111415,0,0,0,0,7
+37955,2026-10-02,"Mount Athos",GR-69,318,0,0,0,0,8
+37956,2026-10-02,"North Aegean",GR-K,97758,0,0,0,0,9
+37957,2026-10-02,Peloponnese,GR-J,276036,0,0,0,0,10
+37958,2026-10-02,"South Aegean",GR-L,179624,0,0,0,0,11
+37959,2026-10-02,Thessaly,GR-E,367522,0,0,0,0,12
+37960,2026-10-02,"Western Greece",GR-G,324286,0,0,0,0,13
+37961,2026-10-02,"Western Macedonia",GR-C,135840,0,0,0,0,14
+37962,2026-10-02,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+37963,2026-10-02,"Under Investigation",GR-U,111680,40273,0,0,0,16
