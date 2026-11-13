@@ -38633,4 +38633,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 38632,2026-11-13,"Western Greece",GR-G,324286,0,0,0,0,13
 38633,2026-11-13,"Western Macedonia",GR-C,135840,0,0,0,0,14
 38634,2026-11-13,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-38635,2026-11-13,"Under Investigation",GR-U,111680,40280,0,0,0,16
+38635,2026-11-13,"Under Investigation",GR-U,111680,40281,0,0,0,16
