@@ -38666,3 +38666,67 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 38665,2026-11-15,"Western Macedonia",GR-C,135840,0,0,0,0,14
 38666,2026-11-15,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
 38667,2026-11-15,"Under Investigation",GR-U,111680,40281,0,0,0,16
+38668,2026-11-16,Attica,GR-I,2064812,0,0,0,0,1
+38669,2026-11-16,"Central Greece",GR-H,239274,0,0,0,0,2
+38670,2026-11-16,"Central Macedonia",GR-B,984783,0,0,0,0,3
+38671,2026-11-16,Crete,GR-M,372987,0,0,0,0,4
+38672,2026-11-16,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+38673,2026-11-16,Epirus,GR-D,163396,0,0,0,0,6
+38674,2026-11-16,"Ionian Islands",GR-F,111415,0,0,0,0,7
+38675,2026-11-16,"Mount Athos",GR-69,318,0,0,0,0,8
+38676,2026-11-16,"North Aegean",GR-K,97758,0,0,0,0,9
+38677,2026-11-16,Peloponnese,GR-J,276036,0,0,0,0,10
+38678,2026-11-16,"South Aegean",GR-L,179624,0,0,0,0,11
+38679,2026-11-16,Thessaly,GR-E,367522,0,0,0,0,12
+38680,2026-11-16,"Western Greece",GR-G,324286,0,0,0,0,13
+38681,2026-11-16,"Western Macedonia",GR-C,135840,0,0,0,0,14
+38682,2026-11-16,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+38683,2026-11-16,"Under Investigation",GR-U,111680,40281,0,0,0,16
+38684,2026-11-17,Attica,GR-I,2064812,0,0,0,0,1
+38685,2026-11-17,"Central Greece",GR-H,239274,0,0,0,0,2
+38686,2026-11-17,"Central Macedonia",GR-B,984783,0,0,0,0,3
+38687,2026-11-17,Crete,GR-M,372987,0,0,0,0,4
+38688,2026-11-17,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+38689,2026-11-17,Epirus,GR-D,163396,0,0,0,0,6
+38690,2026-11-17,"Ionian Islands",GR-F,111415,0,0,0,0,7
+38691,2026-11-17,"Mount Athos",GR-69,318,0,0,0,0,8
+38692,2026-11-17,"North Aegean",GR-K,97758,0,0,0,0,9
+38693,2026-11-17,Peloponnese,GR-J,276036,0,0,0,0,10
+38694,2026-11-17,"South Aegean",GR-L,179624,0,0,0,0,11
+38695,2026-11-17,Thessaly,GR-E,367522,0,0,0,0,12
+38696,2026-11-17,"Western Greece",GR-G,324286,0,0,0,0,13
+38697,2026-11-17,"Western Macedonia",GR-C,135840,0,0,0,0,14
+38698,2026-11-17,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+38699,2026-11-17,"Under Investigation",GR-U,111680,40281,0,0,0,16
+38700,2026-11-18,Attica,GR-I,2064812,0,0,0,0,1
+38701,2026-11-18,"Central Greece",GR-H,239274,0,0,0,0,2
+38702,2026-11-18,"Central Macedonia",GR-B,984783,0,0,0,0,3
+38703,2026-11-18,Crete,GR-M,372987,0,0,0,0,4
+38704,2026-11-18,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+38705,2026-11-18,Epirus,GR-D,163396,0,0,0,0,6
+38706,2026-11-18,"Ionian Islands",GR-F,111415,0,0,0,0,7
+38707,2026-11-18,"Mount Athos",GR-69,318,0,0,0,0,8
+38708,2026-11-18,"North Aegean",GR-K,97758,0,0,0,0,9
+38709,2026-11-18,Peloponnese,GR-J,276036,0,0,0,0,10
+38710,2026-11-18,"South Aegean",GR-L,179624,0,0,0,0,11
+38711,2026-11-18,Thessaly,GR-E,367522,0,0,0,0,12
+38712,2026-11-18,"Western Greece",GR-G,324286,0,0,0,0,13
+38713,2026-11-18,"Western Macedonia",GR-C,135840,0,0,0,0,14
+38714,2026-11-18,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+38715,2026-11-18,"Under Investigation",GR-U,111680,40281,0,0,0,16
+38716,2026-11-19,Attica,GR-I,2064812,0,0,0,0,1
+38717,2026-11-19,"Central Greece",GR-H,239274,0,0,0,0,2
+38718,2026-11-19,"Central Macedonia",GR-B,984783,0,0,0,0,3
+38719,2026-11-19,Crete,GR-M,372987,0,0,0,0,4
+38720,2026-11-19,"Eastern Macedonia and Thrace",GR-A,268184,0,0,0,0,5
+38721,2026-11-19,Epirus,GR-D,163396,0,0,0,0,6
+38722,2026-11-19,"Ionian Islands",GR-F,111415,0,0,0,0,7
+38723,2026-11-19,"Mount Athos",GR-69,318,0,0,0,0,8
+38724,2026-11-19,"North Aegean",GR-K,97758,0,0,0,0,9
+38725,2026-11-19,Peloponnese,GR-J,276036,0,0,0,0,10
+38726,2026-11-19,"South Aegean",GR-L,179624,0,0,0,0,11
+38727,2026-11-19,Thessaly,GR-E,367522,0,0,0,0,12
+38728,2026-11-19,"Western Greece",GR-G,324286,0,0,0,0,13
+38729,2026-11-19,"Western Macedonia",GR-C,135840,0,0,0,0,14
+38730,2026-11-19,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
+38731,2026-11-19,"Under Investigation",GR-U,111680,40281,0,0,0,16
