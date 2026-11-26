@@ -38841,4 +38841,4 @@ id,date,region,region_id,cases,deaths,recovered,active,tests,region_to_prefid
 38840,2026-11-26,"Western Greece",GR-G,324286,0,0,0,0,13
 38841,2026-11-26,"Western Macedonia",GR-C,135840,0,0,0,0,14
 38842,2026-11-26,"Without permanent residency in Greece",GR-W,5438,0,0,0,0,15
-38843,2026-11-26,"Under Investigation",GR-U,111680,40281,0,0,0,16
+38843,2026-11-26,"Under Investigation",GR-U,111680,40283,0,0,0,16
